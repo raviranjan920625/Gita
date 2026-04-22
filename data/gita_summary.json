@@ -1,0 +1,133 @@
+{
+  "bhagavad_gita": {
+    "overall_summary": "The Bhagavad Gita is a 700-verse Hindu scripture set on the battlefield of Kurukshetra. When the warrior Arjuna loses his will to fight, Lord Krishna becomes his charioteer and guide, delivering a profound discourse on duty (dharma), devotion (bhakti), knowledge (jnana), and selfless action (karma yoga). It teaches that the soul is eternal and indestructible, that one must perform one's duty without attachment to results, and that ultimate liberation comes through surrender to the divine. The Gita synthesizes multiple paths to moksha (liberation) and remains one of the most influential philosophical and spiritual texts in human history.",
+    "chapters": [
+      {
+        "number": 1,
+        "title": "Arjuna Vishada Yoga",
+        "name": "The Yoga of Arjuna's Grief",
+        "verses": 47,
+        "summary": "On the battlefield of Kurukshetra, Arjuna surveys both armies and sees his kinsmen, teachers, and loved ones on the opposing side. Overwhelmed by grief and moral confusion, he drops his bow and refuses to fight, lamenting the futility of war and the sins of killing one's own family."
+      },
+      {
+        "number": 2,
+        "title": "Sankhya Yoga",
+        "name": "The Yoga of Knowledge",
+        "verses": 72,
+        "summary": "Krishna begins his teachings by explaining the immortality of the soul — the body perishes but the soul never dies. He introduces the concept of Sankhya (knowledge/discrimination) and instructs Arjuna on his duty as a warrior. He also introduces the ideal of 'Sthitaprajna' — a person of steady wisdom who remains unshaken in all circumstances."
+      },
+      {
+        "number": 3,
+        "title": "Karma Yoga",
+        "name": "The Yoga of Action",
+        "verses": 43,
+        "summary": "Krishna explains that action is inevitable; even maintaining the body requires action. He teaches 'nishkama karma' — performing one's duties without attachment to the fruits of action. Desire and anger, born of ego, are the enemies of wisdom. One should act for the sake of duty and cosmic order (yajna)."
+      },
+      {
+        "number": 4,
+        "title": "Jnana Karma Sanyasa Yoga",
+        "name": "The Yoga of Knowledge and Renunciation of Action",
+        "verses": 42,
+        "summary": "Krishna reveals his divine nature and the doctrine of avatara — he descends to earth in every age to restore righteousness. He explains that all actions can be transcended through knowledge and that the fire of knowledge burns all karma. Various forms of spiritual sacrifice (yajna) are described."
+      },
+      {
+        "number": 5,
+        "title": "Karma Sanyasa Yoga",
+        "name": "The Yoga of Renunciation",
+        "verses": 29,
+        "summary": "Krishna reconciles the paths of action and renunciation, explaining they lead to the same goal. True renunciation is inner — freedom from ego and desire, not physical withdrawal from the world. The wise person acts but remains unaffected, like a lotus untouched by water."
+      },
+      {
+        "number": 6,
+        "title": "Dhyana Yoga",
+        "name": "The Yoga of Meditation",
+        "verses": 47,
+        "summary": "Krishna describes the practice of meditation in detail — the posture, place, food habits, and mental discipline required. He explains that the mind is the greatest friend and the greatest enemy. Even a failed yogi is reborn in favorable circumstances, and meditation ultimately leads to union with the divine."
+      },
+      {
+        "number": 7,
+        "title": "Jnana Vijnana Yoga",
+        "name": "The Yoga of Knowledge and Wisdom",
+        "verses": 30,
+        "summary": "Krishna reveals his divine nature as the ultimate reality — all of creation is his manifestation. He distinguishes between his lower nature (the material world) and higher nature (the living spirit). He explains the four types of devotees who approach him and acknowledges that few truly know him in essence."
+      },
+      {
+        "number": 8,
+        "title": "Akshara Brahma Yoga",
+        "name": "The Yoga of the Imperishable Brahman",
+        "verses": 28,
+        "summary": "Krishna explains the concepts of Brahman, karma, the individual self, and the cosmic self. He reveals that whatever one remembers at the moment of death determines the next birth. He describes the two cosmic paths after death — the path of light leading to liberation and the path of darkness leading to rebirth."
+      },
+      {
+        "number": 9,
+        "title": "Raja Vidya Raja Guhya Yoga",
+        "name": "The Yoga of Royal Knowledge and Royal Secret",
+        "verses": 34,
+        "summary": "Called the 'royal secret,' this chapter reveals the deepest mystery: Krishna pervades the entire universe yet transcends it. He teaches pure devotion (bhakti) — even the most sincere offering of a leaf, flower, or water, given with love, is accepted. He promises to personally bear the burden of those who surrender to him."
+      },
+      {
+        "number": 10,
+        "title": "Vibhuti Yoga",
+        "name": "The Yoga of Divine Manifestations",
+        "verses": 42,
+        "summary": "Krishna describes his divine glories (vibhutis) and manifestations in the world — he is the best among all categories of beings and things. He is the Himalayas among mountains, the ocean among bodies of water, the Ganges among rivers. This chapter aims to help devotees see the divine in all of creation."
+      },
+      {
+        "number": 11,
+        "title": "Vishwarupa Darshana Yoga",
+        "name": "The Yoga of the Vision of the Cosmic Form",
+        "verses": 55,
+        "summary": "At Arjuna's request, Krishna grants him divine vision and reveals his awe-inspiring cosmic form (Vishwarupa) — a being of infinite arms, faces, and splendor, embodying the entire universe and all time. Terrified, Arjuna sees armies being destroyed within Krishna. He asks Krishna to return to his gentle human form."
+      },
+      {
+        "number": 12,
+        "title": "Bhakti Yoga",
+        "name": "The Yoga of Devotion",
+        "verses": 20,
+        "summary": "Krishna declares that the path of personal devotion (bhakti) to a form of God is superior and easier than meditating on the formless absolute. He describes the qualities of a perfect devotee — one who is free from hatred, friendly to all, content, self-controlled, firm in conviction, and ever devoted."
+      },
+      {
+        "number": 13,
+        "title": "Kshetra Kshetragna Vibhaga Yoga",
+        "name": "The Yoga of the Field and the Knower of the Field",
+        "verses": 35,
+        "summary": "Krishna explains the distinction between the physical body ('the field') and the conscious self ('the knower of the field'). He enumerates the qualities of true knowledge — humility, non-violence, patience, straightforwardness, and devotion. Understanding the difference between matter and spirit leads to liberation."
+      },
+      {
+        "number": 14,
+        "title": "Gunatraya Vibhaga Yoga",
+        "name": "The Yoga of the Three Modes of Nature",
+        "verses": 27,
+        "summary": "Krishna explains the three gunas (modes of material nature): Sattva (goodness/clarity), Rajas (passion/activity), and Tamas (ignorance/inertia). All beings are bound by these three qualities. He describes how each guna binds the soul and how transcending all three gunas — becoming 'trigunatita' — leads to liberation."
+      },
+      {
+        "number": 15,
+        "title": "Purushottama Yoga",
+        "name": "The Yoga of the Supreme Person",
+        "verses": 20,
+        "summary": "Using the metaphor of an inverted Ashvattha tree (the tree of samsara), Krishna describes the material world as a reflection that must be cut down with the axe of detachment. He explains the three cosmic categories: the perishable (mortal beings), the imperishable (liberated souls), and the Supreme Person (Purushottama), who is beyond both — and that is Krishna himself."
+      },
+      {
+        "number": 16,
+        "title": "Daivasura Sampad Vibhaga Yoga",
+        "name": "The Yoga of Divine and Demoniac Natures",
+        "verses": 24,
+        "summary": "Krishna contrasts divine qualities (fearlessness, purity, compassion, non-violence, truthfulness, generosity) with demoniac qualities (arrogance, pride, anger, cruelty, ignorance). He explains that those with divine nature move toward liberation while those with demoniac nature sink into degradation. Pride, lust, and anger are the three gates to hell."
+      },
+      {
+        "number": 17,
+        "title": "Shraddhatraya Vibhaga Yoga",
+        "name": "The Yoga of the Three Kinds of Faith",
+        "verses": 28,
+        "summary": "Krishna classifies faith, food, sacrifice, penance, and charity according to the three gunas. Sattvic faith is directed toward the divine, Rajasic faith toward power and wealth, and Tamasic faith toward dark forces. He explains the significance of 'Om Tat Sat' — the threefold designation of the Supreme Brahman — as the foundation of all sacred actions."
+      },
+      {
+        "number": 18,
+        "title": "Moksha Sanyasa Yoga",
+        "name": "The Yoga of Liberation and Renunciation",
+        "verses": 78,
+        "summary": "The concluding chapter summarizes and synthesizes all previous teachings. Krishna distinguishes between renunciation of actions (sanyasa) and renunciation of the fruits of action (tyaga). He revisits the Sankhya and Yoga frameworks, the role of the three gunas in action, and the nature of knowledge, action, and the doer. He declares bhakti as the ultimate path and ends with the supreme secret: abandon all dharmas and surrender completely to Krishna — he will liberate Arjuna from all sins. Arjuna's doubts are resolved, and he chooses to fight."
+      }
+    ]
+  }
+}
