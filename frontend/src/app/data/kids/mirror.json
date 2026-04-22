@@ -1,0 +1,186 @@
+[
+  {
+    "id": 1,
+    "chapter": 1,
+    "title": "The Magic Mirror: Your Inner Light",
+    "theme": "Inner Light",
+    "topics": [
+      {
+        "title": "Forever You",
+        "content": "Look into your magic mirror! It shows a tiny light inside you that never goes away. Even when you sleep or grow big, your light is always there.",
+        "verse": "2.20",
+        "sloka": "न जायते म्रियते वा कदाचिन्...",
+        "translation": "Your true self never ends.",
+        "power": "My light is always safe."
+      },
+      {
+        "title": "Little Star Inside",
+        "content": "You have a little star inside your heart. It is a piece of something very special and loving. You are bright and important!",
+        "verse": "15.7",
+        "sloka": "ममैवांशो जीवलोके जीवभूतः सनातनः ॥",
+        "translation": "You are a tiny part of something very special.",
+        "power": "I am special and shining."
+      }
+    ],
+    "illustration": "/illustrations/kids/mirror1.png",
+    "audio": "/audio/kids/mirror1.mp3"
+  },
+  {
+    "id": 2,
+    "chapter": 2,
+    "title": "The Happy Mirror: Just Try Your Best",
+    "theme": "Action",
+    "topics": [
+      {
+        "title": "Do and Smile",
+        "content": "When you draw, play, or build, just have fun! Don’t worry about winning. Your mirror smiles when you try your best.",
+        "verse": "2.47",
+        "sloka": "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन ।",
+        "translation": "Just do your best and enjoy.",
+        "power": "I try and smile!"
+      }
+    ],
+    "illustration": "/illustrations/kids/mirror2.png",
+    "audio": "/audio/kids/mirror2.mp3"
+  },
+  {
+    "id": 3,
+    "chapter": 3,
+    "title": "The Calm Mirror: Happy Mind",
+    "theme": "Mental Health & Peace",
+    "topics": [
+      {
+        "title": "My Mind Buddy",
+        "content": "Your mind is like a little friend. If you talk nicely to it, it helps you feel happy. If you get upset, take a deep breath and help your mind calm down.",
+        "verse": "6.5",
+        "sloka": "आत्मैव ह्यत्मनो बन्धुरात्मैव रिपुरात्मनः ॥",
+        "translation": "Your mind can help you or trouble you.",
+        "power": "I make my mind my friend."
+      },
+      {
+        "title": "Big Friend Helps Me",
+        "content": "You don’t have to do everything alone. There is a big loving friend who helps you. You can relax and feel safe.",
+        "verse": "5.29",
+        "sloka": "भोक्तारं यज्ञतपसां सर्वलोकमहेश्वरम् ।",
+        "translation": "A big friend is always there for you.",
+        "power": "I am safe and calm."
+      }
+    ],
+    "illustration": "/illustrations/kids/mirror3.png",
+    "audio": "/audio/kids/mirror3.mp3"
+  },
+  {
+    "id": 4,
+    "chapter": 4,
+    "title": "The Kind Mirror: Be a Helper",
+    "theme": "Leadership",
+    "topics": [
+      {
+        "title": "I Show the Way",
+        "content": "When you share toys or help someone, others learn from you. You become a little leader!",
+        "verse": "3.21",
+        "sloka": "यद्यदाचरति श्रेष्ठस्तत्तदेवेतरो जनः ।",
+        "translation": "Others follow what you do.",
+        "power": "I help and share."
+      }
+    ],
+    "illustration": "/illustrations/kids/mirror4.png",
+    "audio": "/audio/kids/mirror4.mp3"
+  },
+  {
+    "id": 5,
+    "chapter": 5,
+    "title": "The Love Mirror: Kind Heart",
+    "theme": "Kindness",
+    "topics": [
+      {
+        "title": "Always Helped",
+        "content": "When you feel love and trust, help comes to you in many ways.",
+        "verse": "9.22",
+        "sloka": "अनन्याश्चिन्तयन्तो मां ये जनाः पर्युपासते ।",
+        "translation": "You are always cared for.",
+        "power": "I am cared for."
+      },
+      {
+        "title": "Tiny Gift, Big Love",
+        "content": "A smile, a hug, or a flower is a big gift when given with love.",
+        "verse": "9.26",
+        "sloka": "पत्रं पुष्पं फलं तोयं यो मे भक्त्या प्रयच्छति ।",
+        "translation": "Small things with love are special.",
+        "power": "My kindness is powerful."
+      }
+    ],
+    "illustration": "/illustrations/kids/mirror5.png",
+    "audio": "/audio/kids/mirror5.mp3"
+  },
+  {
+    "id": 6,
+    "chapter": 6,
+    "title": "The Time Mirror: Everything Changes",
+    "theme": "Understanding",
+    "topics": [
+      {
+        "title": "Things Get Better",
+        "content": "If something feels sad, don’t worry. It will pass, and happy times will come again.",
+        "verse": "4.7",
+        "sloka": "यदा यदा हि धर्मस्य ग्लानिर्भवति भारत ।",
+        "translation": "Things become good again.",
+        "power": "Good times will come."
+      },
+      {
+        "title": "Little Moments",
+        "content": "Big feelings don’t last forever. They come and go like clouds.",
+        "verse": "11.32",
+        "sloka": "कालोऽस्मि लोकक्षयकृत् प्रवृद्धः ।",
+        "translation": "Time keeps moving.",
+        "power": "This will pass."
+      }
+    ],
+    "illustration": "/illustrations/kids/mirror6.png",
+    "audio": "/audio/kids/mirror6.mp3"
+  },
+  {
+    "id": 7,
+    "chapter": 7,
+    "title": "The Choice Mirror: I Can Choose",
+    "theme": "Freedom",
+    "topics": [
+      {
+        "title": "Let It Go",
+        "content": "If you feel upset, you can let it go like a balloon flying away.",
+        "verse": "18.66",
+        "sloka": "सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज ।",
+        "translation": "Let go and feel free.",
+        "power": "I can let go."
+      },
+      {
+        "title": "Choose Kindness",
+        "content": "Every day, you can choose to be kind, brave, and happy.",
+        "verse": "18.63",
+        "sloka": "विमृश्यैतदशेषेण यथेच्छसि तथा कुरु ॥",
+        "translation": "You can choose what to do.",
+        "power": "I choose kindness."
+      }
+    ],
+    "illustration": "/illustrations/kids/mirror7.png",
+    "audio": "/audio/kids/mirror7.mp3"
+  },
+  {
+    "id": 8,
+    "chapter": 8,
+    "title": "The Victory Mirror: Shine Bright",
+    "theme": "Success",
+    "topics": [
+      {
+        "title": "Think and Do",
+        "content": "When you think good thoughts and do good actions, you shine bright like a star!",
+        "verse": "18.78",
+        "sloka": "यत्र योगेश्वरः कृष्णो यत्र पार्थो धनुर्धरः ।",
+        "translation": "Good thinking and action bring success.",
+        "power": "I shine bright!"
+      }
+    ],
+    "illustration": "/illustrations/kids/mirror8.png",
+    "audio": "/audio/kids/mirror8.mp3"
+  }
+]

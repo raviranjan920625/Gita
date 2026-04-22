@@ -1,0 +1,624 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=Outfit:wght@300;400;600&family=Noto+Serif+Devanagari:wght@400;700&display=swap');
+
+:root {
+  --primary: #FFD700;
+  --primary-glow: rgba(255, 215, 0, 0.5);
+  --bg-deep: #05080a;
+  --glass-bg: rgba(10, 15, 20, 0.85);
+  --glass-border: rgba(255, 215, 0, 0.3);
+  --text-main: #FFFFFF;
+  --text-dim: #D1D5DB;
+  --transition: all 0.5s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  -webkit-tap-highlight-color: transparent;
+}
+
+body {
+  background-color: var(--bg-deep);
+  color: var(--text-main);
+  font-family: 'Outfit', sans-serif;
+  min-height: 100vh;
+  overflow-x: hidden;
+  position: relative;
+}
+
+/* Hero & Background */
+.app-background {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-image: url('/gita-bg.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  opacity: 0.8;
+  z-index: -2;
+  filter: saturate(1.2) brightness(0.5);
+}
+
+.full-bg {
+  opacity: 0.8 !important;
+  filter: saturate(1.2) brightness(0.5) !important;
+}
+
+.particle-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: radial-gradient(circle at 50% 50%, transparent 0%, var(--bg-deep) 100%);
+  z-index: -1;
+  pointer-events: none;
+}
+
+/* Typography */
+.spiritual-font {
+  font-family: 'Cinzel', serif;
+  letter-spacing: 0.15em;
+  background: linear-gradient(135deg, #FFFFFF 0%, #FFD700 50%, #C0A000 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.8));
+}
+
+.sanskrit-text {
+  font-family: 'Noto Serif Devanagari', serif;
+  font-weight: 700;
+  background: linear-gradient(135deg, #FFFFFF 0%, var(--primary) 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  line-height: 1.4;
+  text-shadow: 0 0 20px var(--primary-glow);
+}
+
+/* Premium Layout Elements */
+.glass-card {
+  background: rgba(10, 15, 20, 0.82);
+  backdrop-filter: blur(45px) saturate(180%) contrast(100%);
+  -webkit-backdrop-filter: blur(45px) saturate(180%) contrast(100%);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  border-top: 1px solid rgba(255, 255, 255, 0.2);
+  border-left: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 32px;
+  box-shadow:
+    0 25px 50px -12px rgba(0, 0, 0, 0.8),
+    inset 0 0 20px rgba(212, 175, 55, 0.05);
+  /* Subtle inner gold glow */
+  transition: var(--transition);
+}
+
+.glass-card:hover {
+  border-color: rgba(212, 175, 55, 0.4);
+  box-shadow:
+    0 40px 80px -20px rgba(0, 0, 0, 0.9),
+    inset 0 0 40px rgba(212, 175, 55, 0.08);
+}
+
+/* Focus Mode */
+.focus-mode .glass-card {
+  max-width: 100% !important;
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+  border-radius: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  z-index: 100;
+  border: none;
+  background: rgba(5, 8, 10, 0.95);
+}
+
+.focus-mode .sanskrit-text {
+  font-size: 4rem !important;
+}
+
+/* Spotify Player Modernization */
+.spotify-player {
+  position: fixed;
+  bottom: 2.5rem;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 95%;
+  max-width: 900px;
+  height: 90px;
+  background: rgba(10, 15, 20, 0.75);
+  backdrop-filter: blur(40px) saturate(200%);
+  -webkit-backdrop-filter: blur(40px) saturate(200%);
+  border-radius: 100px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  padding: 0 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  box-shadow: 0 40px 100px rgba(0,0,0,0.8);
+  z-index: 1000;
+}
+
+.player-nav-section {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+}
+
+.player-status-badge {
+  font-size: 0.6rem;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: var(--primary);
+  background: rgba(212, 175, 55, 0.1);
+  padding: 4px 10px;
+  border-radius: 4px;
+  margin-left: 1rem;
+}
+
+.player-main-controls {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.control-group {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.select-mini-player, .select-mini {
+  background: transparent !important;
+  border: none !important;
+  font-size: 0.8rem !important;
+  font-weight: 600 !important;
+  color: var(--text-main) !important;
+  padding: 0.4rem 0.8rem !important;
+  background-image: none !important;
+}
+
+.nav-icon {
+  font-size: 1.5rem;
+  color: #fff;
+}
+
+.play-btn-main {
+  width: 54px !important;
+  height: 54px !important;
+  font-size: 1rem !important;
+}
+
+/* Commentary Structuring */
+.commentary-box {
+  background: rgba(255, 255, 255, 0.02);
+  border-radius: 20px;
+  padding: 2rem;
+  margin-top: 2rem;
+}
+
+.insight-card {
+  border-left: 4px solid var(--primary);
+  background: rgba(212, 175, 55, 0.05);
+  padding: 1.5rem;
+  border-radius: 0 16px 16px 0;
+  margin-bottom: 2rem;
+}
+
+/* Micro-Interactions */
+.tap-effect {
+  position: relative;
+  overflow: hidden;
+}
+
+.tap-effect::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 0;
+  height: 0;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 50%;
+  transform: translate(-50%, -50%);
+  transition: width 0.6s, height 0.6s;
+}
+
+.tap-effect:active::after {
+  width: 200%;
+  height: 200%;
+}
+
+/* Progress Bar */
+.progress-container {
+  width: 100%;
+  height: 4px;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 2px;
+  overflow: hidden;
+  margin-bottom: 1rem;
+}
+
+.progress-bar {
+  height: 100%;
+  background: var(--primary);
+  box-shadow: 0 0 10px var(--primary-glow);
+  transition: width 0.5s ease-out;
+}
+
+/* Animations */
+.sanskrit-word {
+  display: inline-block;
+  transition: all 0.3s ease;
+  padding: 0 4px;
+}
+
+.sanskrit-word.highlighted {
+  color: #fff !important;
+  text-shadow: 0 0 20px var(--primary), 0 0 40px var(--primary-glow);
+  transform: scale(1.1);
+  filter: brightness(1.5);
+}
+
+@keyframes glow-pulse {
+
+  0%,
+  100% {
+    text-shadow: 0 0 10px var(--primary-glow);
+  }
+
+  50% {
+    text-shadow: 0 0 30px var(--primary-glow);
+  }
+}
+
+.glow-text {
+  animation: glow-pulse 3s infinite;
+}
+
+.nav-btn-circle {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.05);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid var(--glass-border);
+  cursor: pointer;
+  transition: var(--transition);
+}
+
+.nav-btn-circle:hover {
+  background: var(--primary);
+  color: #000;
+  transform: scale(1.1);
+}
+
+@media (max-width: 1024px) {
+  .container { padding: 1rem; }
+  .sanskrit-text { font-size: 2rem !important; }
+  .glass-card { padding: 2rem !important; }
+}
+
+
+/* End of Stylesheet */
+
+/* Premium Layout Elements */
+.glass-card {
+  background: var(--bg-glass);
+  backdrop-filter: blur(50px) saturate(180%);
+  -webkit-backdrop-filter: blur(50px) saturate(180%);
+  border: 1px solid var(--glass-border);
+  border-top: 1px solid rgba(255, 255, 255, 0.18);
+  border-left: 1px solid rgba(255, 255, 255, 0.18);
+  border-radius: 40px;
+  box-shadow: var(--shadow-premium);
+  transition: var(--transition);
+}
+
+.tab-pill {
+  background: rgba(255, 255, 255, 0.04);
+  padding: 6px;
+  border-radius: 100px;
+  display: flex;
+  backdrop-filter: blur(20px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.tab-pill button {
+  background: transparent;
+  border: none;
+  color: var(--text-dim);
+  padding: 0.6rem 1.8rem;
+  border-radius: 100px;
+  cursor: pointer;
+  transition: var(--transition);
+  font-size: 0.85rem;
+  font-weight: 500;
+}
+
+.tab-pill button.active {
+  background: var(--primary);
+  color: #000;
+  box-shadow: 0 0 20px var(--primary-glow);
+}
+
+.select-premium {
+  background: transparent;
+  border: none;
+  color: var(--primary);
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: 0.75rem;
+  letter-spacing: 2px;
+  cursor: pointer;
+  outline: none;
+}
+
+.btn-primary-outline {
+  padding: 0.8rem 2.2rem;
+  border-radius: 100px;
+  border: 1px solid var(--glass-border);
+  background: rgba(255, 255, 255, 0.03);
+  color: var(--text-dim);
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  transition: var(--transition);
+  cursor: pointer;
+}
+
+.btn-primary-outline:hover {
+  border-color: var(--primary);
+  color: var(--primary);
+  background: rgba(212, 175, 55, 0.05);
+  transform: translateY(-2px);
+}
+
+.btn-primary-outline.active {
+  background: var(--primary);
+  color: #000;
+  border-color: var(--primary);
+}
+
+.verse-cell {
+  position: relative;
+  overflow: hidden;
+}
+
+.verse-cell::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(135deg, rgba(212, 175, 55, 0) 0%, rgba(212, 175, 55, 0.05) 100%);
+  opacity: 0;
+  transition: var(--transition);
+}
+
+/* Devotional Animations */
+@keyframes devotionalPulse {
+  0% { text-shadow: 0 0 20px rgba(212, 175, 55, 0); opacity: 0.8; }
+  50% { text-shadow: 0 0 35px rgba(212, 175, 55, 0.4); opacity: 1; }
+  100% { text-shadow: 0 0 20px rgba(212, 175, 55, 0); opacity: 0.8; }
+}
+
+.devotional-pulse {
+  animation: devotionalPulse 4s ease-in-out infinite;
+}
+
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translateY(30px); filter: blur(10px); }
+  to { opacity: 1; transform: translateY(0); filter: blur(0); }
+}
+
+.fade-in-up {
+  animation: fadeInUp 1.2s cubic-bezier(0.4, 0, 0.2, 1) forwards;
+  opacity: 0;
+}
+
+.sacred-scroll-verse {
+  transition: opacity 0.3s ease;
+}
+
+.verse-cell:hover {
+  transform: scale(1.01) translateX(10px);
+  border-color: rgba(212, 175, 55, 0.4) !important;
+  box-shadow: 20px 0 50px rgba(0, 0, 0, 0.3), 0 0 20px rgba(212, 175, 55, 0.1);
+  background: rgba(255, 255, 255, 0.05) !important;
+}
+
+.verse-cell:hover::before {
+  opacity: 1;
+}
+
+.verse-cell:active {
+  transform: scale(0.96);
+}
+
+.play-btn-circle {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  background: rgba(212, 175, 55, 0.1);
+  border: 1px solid var(--primary);
+  color: var(--primary);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: var(--transition);
+  font-size: 1.2rem;
+}
+
+.play-btn-circle:hover {
+  background: var(--primary);
+  color: #000;
+  box-shadow: 0 0 20px var(--primary-glow);
+  transform: scale(1.1);
+}
+
+/* Premium Controls */
+.select-premium, .select-mini, .select-mini-player {
+  background: rgba(255, 255, 255, 0.03);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  color: var(--text-main);
+  padding: 0.6rem 1rem;
+  border-radius: 12px;
+  font-family: 'Outfit', sans-serif;
+  font-size: 0.85rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: var(--transition);
+  outline: none;
+  appearance: none;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 24 24' fill='none' stroke='white' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpolyline points='6 9 12 15 18 9'%3E%3C/polyline%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 1rem center;
+  padding-right: 2.5rem;
+}
+
+.select-premium:hover, .select-mini:hover {
+  background: rgba(255, 255, 255, 0.08);
+  border-color: var(--primary);
+  box-shadow: 0 0 15px var(--primary-glow);
+}
+
+.btn-primary-outline {
+  background: rgba(212, 175, 55, 0.03);
+  border: 1px solid rgba(212, 175, 55, 0.2);
+  color: var(--primary);
+  padding: 0.75rem 1.8rem;
+  border-radius: 100px;
+  font-family: 'Outfit', sans-serif;
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: var(--transition);
+}
+
+.btn-primary-outline:hover, .btn-primary-outline.active {
+  background: var(--primary);
+  color: #000;
+  border-color: var(--primary);
+  box-shadow: 0 5px 15px var(--primary-glow);
+  transform: translateY(-2px);
+}
+
+.btn-text {
+  background: transparent;
+  border: none;
+  color: var(--text-dim);
+  font-family: 'Cinzel', serif;
+  font-size: 0.75rem;
+  letter-spacing: 2px;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  transition: var(--transition);
+  border: 1px solid transparent;
+}
+
+.btn-text:hover {
+  color: var(--primary);
+  border: 1px solid var(--primary);
+  border-radius: 4px;
+}
+
+@media (max-width: 768px) {
+  .sanskrit-text {
+    font-size: 1.6rem !important;
+  }
+
+  .spiritual-font.main-title {
+    font-size: 2.2rem !important;
+    letter-spacing: 4px !important;
+  }
+
+  .app-background {
+    opacity: 0.5;
+  }
+
+  .spotify-player {
+    width: 95% !important;
+    bottom: 1rem !important;
+    height: auto !important;
+    flex-direction: column !important;
+    padding: 1rem 1.5rem !important;
+    border-radius: 20px !important;
+    gap: 1rem;
+  }
+
+  .player-left,
+  .player-right {
+    display: none !important;
+  }
+
+  .player-main-controls {
+    gap: 1.5rem !important;
+    width: 100%;
+    justify-content: center;
+  }
+
+  .nav-icon {
+    font-size: 2rem !important;
+  }
+
+  .play-btn-main {
+    width: 52px !important;
+    height: 52px !important;
+  }
+
+  .main-verse-layout {
+    padding: 2rem 1rem !important;
+    margin-top: 2rem !important;
+  }
+
+  .focus-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 10000;
+  cursor: pointer;
+}
+
+.focus-nav {
+    padding: 0.8rem 1rem !important;
+  }
+
+  .top-nav {
+    padding: 0.8rem 1rem !important;
+  }
+
+  .progress-bar {
+    height: 3px !important;
+  }
+}
+
+@media (max-width: 480px) {
+  .sanskrit-text {
+    font-size: 1.4rem !important;
+  }
+
+  .spiritual-font.main-title {
+    font-size: 1.8rem !important;
+    letter-spacing: 2px !important;
+  }
+}

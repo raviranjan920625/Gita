@@ -1,0 +1,202 @@
+.container {
+  min-height: 100vh;
+  background: var(--stage-color);
+  color: #5D4037;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  overflow: hidden;
+  font-family: 'Outfit', sans-serif;
+}
+
+.ambientGlow {
+  position: absolute;
+  top: -10%;
+  right: -10%;
+  width: 40%;
+  height: 40%;
+  background: radial-gradient(circle, rgba(255, 255, 255, 0.4) 0%, transparent 70%);
+  pointer-events: none;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 2rem;
+  z-index: 10;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+  font-size: 1.5rem;
+  font-weight: 800;
+  color: #fff;
+  font-family: 'Cinzel', serif;
+  cursor: pointer;
+}
+
+.sparkleIcon {
+  color: #fff;
+}
+
+.progress {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.3);
+  cursor: pointer;
+}
+
+.activeDot {
+  width: 30px;
+  border-radius: 10px;
+  background: #fff;
+}
+
+.main {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 10;
+}
+
+.chapterGrid {
+  width: 100%;
+  max-width: 1200px;
+  text-align: center;
+}
+
+.gridHeadline {
+  font-size: 3.5rem;
+  font-family: 'Cinzel', serif;
+  color: #fff;
+  margin-bottom: 3rem;
+}
+
+.gridItems {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+}
+
+.gridItem {
+  background: rgba(255, 255, 255, 0.95);
+  padding: 3rem 2rem;
+  border-radius: 40px;
+  cursor: pointer;
+  box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+  transition: all 0.3s ease;
+}
+
+.gridItem h3 {
+  color: var(--stage-color);
+  font-weight: 800;
+  margin-bottom: 0.5rem;
+  font-size: 0.9rem;
+  text-transform: uppercase;
+}
+
+.gridItem p {
+  font-size: 1.4rem;
+  font-weight: 700;
+  font-family: 'Cinzel', serif;
+  color: #5D4037;
+}
+
+.lessonCard {
+  width: 100%;
+  max-width: 900px;
+  background: rgba(255, 255, 255, 0.9);
+  padding: 4rem;
+  border-radius: 50px;
+}
+
+.chapterTag {
+  background: var(--stage-color);
+  color: #fff;
+  padding: 0.5rem 1.5rem;
+  border-radius: 50px;
+  font-weight: 800;
+  display: inline-block;
+  margin-bottom: 1.5rem;
+}
+
+.title {
+  font-size: 2.5rem;
+  font-family: 'Cinzel', serif;
+  margin-bottom: 2rem;
+}
+
+.storyBox {
+  font-size: 1.3rem;
+  line-height: 1.6;
+  margin-bottom: 2.5rem;
+  padding: 2rem;
+  background: #fff;
+  border-radius: 30px;
+}
+
+.verseBox {
+  margin-bottom: 3rem;
+}
+
+.verseHeader {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-weight: 800;
+  color: var(--stage-color);
+  margin-bottom: 1rem;
+}
+
+.sloka {
+  font-style: italic;
+  opacity: 0.8;
+}
+
+.powerBox {
+  background: var(--stage-color);
+  color: #fff;
+  padding: 2rem;
+  border-radius: 30px;
+}
+
+.powerLabel {
+  font-size: 0.8rem;
+  font-weight: 900;
+  margin-bottom: 0.5rem;
+  display: block;
+}
+
+.powerBox p {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin: 0;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  margin-top: 2rem;
+  z-index: 10;
+}
+
+.navBtn, .playBtn {
+  background: #fff;
+  border: none;
+  padding: 1rem 2rem;
+  border-radius: 50px;
+  cursor: pointer;
+  font-weight: 800;
+}

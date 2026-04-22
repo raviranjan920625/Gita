@@ -1,0 +1,186 @@
+[
+  {
+    "id": 1,
+    "chapter": 1,
+    "title": "The Mirror: Seeing Your True Self",
+    "theme": "Inner Light",
+    "topics": [
+      {
+        "title": "The Eternal Self",
+        "content": "When you look into the Mirror, you don’t just see your body—you see something deeper. Your true self never ends. It is calm, fearless, and always shining, no matter what happens outside.",
+        "verse": "2.20",
+        "sloka": "न जायते म्रियते वा कदाचिन्...",
+        "translation": "The soul is never born and never dies.",
+        "power": "I am fearless because my true self is eternal."
+      },
+      {
+        "title": "The Divine Reflection",
+        "content": "The Mirror shows that you are not ordinary—you carry a piece of the Divine within you. Your worth is not defined by the world, but by the light inside you.",
+        "verse": "15.7",
+        "sloka": "ममैवांशो जीवलोके जीवभूतः सनातनः ॥",
+        "translation": "Every soul is a fragment of the Divine.",
+        "power": "I am valuable because I carry divine light."
+      }
+    ],
+    "illustration": "/illustrations/mirror/ch1.png",
+    "audio": "/audio/mirror/ch1.mp3"
+  },
+  {
+    "id": 2,
+    "chapter": 2,
+    "title": "The Mirror of Action",
+    "theme": "Discipline",
+    "topics": [
+      {
+        "title": "Focus on Effort",
+        "content": "The Mirror reminds you to act without fear of results. When you give your best, the reflection becomes clear and strong.",
+        "verse": "2.47",
+        "sloka": "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन ।",
+        "translation": "You have control over actions, not outcomes.",
+        "power": "I focus on effort, not outcome."
+      }
+    ],
+    "illustration": "/illustrations/mirror/ch2.png",
+    "audio": "/audio/mirror/ch2.mp3"
+  },
+  {
+    "id": 3,
+    "chapter": 3,
+    "title": "The Mirror of Mind & Peace",
+    "theme": "Mental Health & Peace",
+    "topics": [
+      {
+        "title": "Mind: Friend or Enemy",
+        "content": "Your mind is like a mirror—it reflects whatever you focus on. If you guide it, it becomes your strongest ally. If you ignore it, it creates confusion and doubt.",
+        "verse": "6.5",
+        "sloka": "आत्मैव ह्यत्मनो बन्धुरात्मैव रिपुरात्मनः ॥",
+        "translation": "The mind can be your best friend or your worst enemy.",
+        "power": "I take responsibility for my thoughts."
+      },
+      {
+        "title": "The Peace Formula",
+        "content": "You don’t have to carry everything alone. When you trust a higher force, your mind becomes calm and your mirror becomes still.",
+        "verse": "5.29",
+        "sloka": "भोक्तारं यज्ञतपसां सर्वलोकमहेश्वरम् ।",
+        "translation": "The Divine is the ultimate enjoyer, controller, and friend.",
+        "power": "I release the burden and feel peace."
+      }
+    ],
+    "illustration": "/illustrations/mirror/ch3.png",
+    "audio": "/audio/mirror/ch3.mp3"
+  },
+  {
+    "id": 4,
+    "chapter": 4,
+    "title": "The Mirror of Leadership",
+    "theme": "Influence",
+    "topics": [
+      {
+        "title": "Lead by Example",
+        "content": "Your actions are reflections others see. Even without knowing it, you inspire people through how you live.",
+        "verse": "3.21",
+        "sloka": "यद्यदाचरति श्रेष्ठस्तत्तदेवेतरो जनः ।",
+        "translation": "People follow the example of others.",
+        "power": "I inspire through my actions."
+      }
+    ],
+    "illustration": "/illustrations/mirror/ch4.png",
+    "audio": "/audio/mirror/ch4.mp3"
+  },
+  {
+    "id": 5,
+    "chapter": 5,
+    "title": "The Mirror of Devotion",
+    "theme": "Faith & Kindness",
+    "topics": [
+      {
+        "title": "Divine Support",
+        "content": "When you stay connected with faith, life supports you in unseen ways.",
+        "verse": "9.22",
+        "sloka": "अनन्याश्चिन्तयन्तो मां ये जनाः पर्युपासते ।",
+        "translation": "Those who trust deeply are protected.",
+        "power": "I am supported by the universe."
+      },
+      {
+        "title": "The Power of Small Acts",
+        "content": "Even the smallest act of kindness shines brightly in the Mirror. Love is what truly matters.",
+        "verse": "9.26",
+        "sloka": "पत्रं पुष्पं फलं तोयं यो मे भक्त्या प्रयच्छति ।",
+        "translation": "A small offering with love is enough.",
+        "power": "Kindness is my superpower."
+      }
+    ],
+    "illustration": "/illustrations/mirror/ch5.png",
+    "audio": "/audio/mirror/ch5.mp3"
+  },
+  {
+    "id": 6,
+    "chapter": 6,
+    "title": "The Mirror of Truth",
+    "theme": "Universal Wisdom",
+    "topics": [
+      {
+        "title": "Restoring Balance",
+        "content": "Whenever life feels chaotic, remember that balance will return. The Mirror always realigns.",
+        "verse": "4.7",
+        "sloka": "यदा यदा हि धर्मस्य ग्लानिर्भवति भारत ।",
+        "translation": "The Divine restores balance when needed.",
+        "power": "Everything will align again."
+      },
+      {
+        "title": "The Power of Time",
+        "content": "Time reminds us that everything is temporary. Your struggles are just moments in a bigger journey.",
+        "verse": "11.32",
+        "sloka": "कालोऽस्मि लोकक्षयकृत् प्रवृद्धः ।",
+        "translation": "Time is vast and ever-moving.",
+        "power": "This moment will pass."
+      }
+    ],
+    "illustration": "/illustrations/mirror/ch6.png",
+    "audio": "/audio/mirror/ch6.mp3"
+  },
+  {
+    "id": 7,
+    "chapter": 7,
+    "title": "The Mirror of Surrender & Choice",
+    "theme": "Freedom",
+    "topics": [
+      {
+        "title": "Letting Go",
+        "content": "Release fear, guilt, and control. When you surrender, your inner mirror becomes light and free.",
+        "verse": "18.66",
+        "sloka": "सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज ।",
+        "translation": "Surrender and be free from all burdens.",
+        "power": "I let go and trust life."
+      },
+      {
+        "title": "The Power of Choice",
+        "content": "After understanding everything, the final choice is always yours. You shape your reflection through your decisions.",
+        "verse": "18.63",
+        "sloka": "विमृश्यैतदशेषेण यथेच्छसि तथा कुरु ॥",
+        "translation": "Reflect and act as you choose.",
+        "power": "I choose my path with awareness."
+      }
+    ],
+    "illustration": "/illustrations/mirror/ch7.png",
+    "audio": "/audio/mirror/ch7.mp3"
+  },
+  {
+    "id": 8,
+    "chapter": 8,
+    "title": "The Final Mirror",
+    "theme": "Victory",
+    "topics": [
+      {
+        "title": "Wisdom + Action",
+        "content": "When inner wisdom guides your actions, success naturally follows. This is the ultimate reflection of a balanced life.",
+        "verse": "18.78",
+        "sloka": "यत्र योगेश्वरः कृष्णो यत्र पार्थो धनुर्धरः ।",
+        "translation": "Where wisdom and action unite, victory is certain.",
+        "power": "I act with clarity and courage."
+      }
+    ],
+    "illustration": "/illustrations/mirror/ch8.png",
+    "audio": "/audio/mirror/ch8.mp3"
+  }
+]
