@@ -2,7 +2,10 @@
 
 import React, { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { Sparkles, Heart, Sun, ArrowLeft, ArrowRight, Play, Volume2, Trophy, Sword } from 'lucide-react';
+import {
+  Sparkles, Sun, ArrowLeft, ArrowRight, Play, Volume2, Trophy,
+  Smile, Moon, Users, HandHeart, Hourglass, Bird, Heart
+} from 'lucide-react';  
 import styles from './MirrorPresentation.module.css';
 
 interface Topic {
@@ -83,16 +86,63 @@ export default function MirrorPresentation() {
 
   // Adventure Map Metadata
   const MAP_NODES = [
-    { chapter: 1, name: "The Magic Mirror", icon: <Sparkles />, theme: "Inner Light" },
-    { chapter: 2, name: "The Builder’s Path", icon: <Sun />, theme: "Action" },
-    { chapter: 3, name: "The Quiet Lake", icon: <Heart />, theme: "Peace" },
-    { chapter: 4, name: "The Shining Star", icon: <Sparkles />, theme: "Influence" },
-    { chapter: 5, name: "The Kindness Garden", icon: <Heart />,    theme: "Kindness" },
-    { chapter: 6, name: "The Sun of Truth",    icon: <Sun />,      theme: "Wisdom" },
-    { chapter: 7, name: "The Flying Bird",     icon: <Sparkles />, theme: "Freedom" },
-    { chapter: 8, name: "The Brave Winner",    icon: <Trophy />,   theme: "Victory" }
+    {
+      id: 1,
+      chapter: 1,
+      name: "The Magic Mirror",
+      icon: <Sparkles />, // Represents the "Inner Light"
+      theme: "Inner Light"
+    },
+    {
+      id: 2,
+      chapter: 2,
+      name: "The Happy Mirror",
+      icon: <Smile />, // Represents "Do and Smile"
+      theme: "Action"
+    },
+    {
+      id: 3,
+      chapter: 3,
+      name: "The Calm Mirror",
+      icon: <Moon />, // Represents "Peace" and a quiet mind
+      theme: "Mental Health & Peace"
+    },
+    {
+      id: 4,
+      chapter: 4,
+      name: "The Kind Mirror",
+      icon: <Users />, // Represents "Leadership" and showing others the way
+      theme: "Leadership"
+    },
+    {
+      id: 5,
+      chapter: 5,
+      name: "The Love Mirror",
+      icon: <HandHeart />, // Represents "Kind Heart" and tiny gifts
+      theme: "Kindness"
+    },
+    {
+      id: 6,
+      chapter: 6,
+      name: "The Time Mirror",
+      icon: <Hourglass />, // Represents "Everything Changes"
+      theme: "Understanding"
+    },
+    {
+      id: 7,
+      chapter: 7,
+      name: "The Choice Mirror",
+      icon: <Bird />, // Represents "Freedom" and letting go like a balloon/bird
+      theme: "Freedom"
+    },
+    {
+      id: 8,
+      chapter: 8,
+      name: "The Victory Mirror",
+      icon: <Trophy />, // Represents "Shine Bright" and success
+      theme: "Success"
+    }
   ];
-
   if (lessons.length === 0) return <div>Loading Magic...</div>;
 
   const current = lessons[currentIndex];
