@@ -1,186 +1,1652 @@
 [
   {
     "id": 1,
+    "source": "mirror",
+    "target_age": [
+      "3-6"
+    ],
     "chapter": 1,
     "title": "The Magic Mirror: Your Inner Light",
     "theme": "Inner Light",
+    "difficulty": "Beginner",
+    "illustration": "/illustrations/mirror/ch1.png",
+    "icon": "/illustrations/mirror/mirror1.png",
+    "audio": "/audio/kids/mirror1.mp3",
     "topics": [
       {
         "title": "Forever You",
+        "chapter": 2,
+        "verse": "20",
+        "verse_ref": "2.20",
         "content": "Look into your magic mirror! It shows a tiny light inside you that never goes away. Even when you sleep or grow big, your light is always there.",
-        "verse": "2.20",
-        "sloka": "न जायते म्रियते वा कदाचिन्...",
+        "sanskrit": "न जायते म्रियते वा कदाचिन्\nनायं भूत्वा भविता वा न भूयः ।\nअजो नित्यः शाश्वतोऽयं पुराणो\nन हन्यते हन्यमाने शरीरे ।।",
+        "transliteration": "na jāyate mriyate vā kadāchin\nnāyaṁ bhūtvā bhavitā vā na bhūyaḥ\najo nityaḥ śhāśhvato 'yaṁ purāṇo\nna hanyate hanyamāne śharīre",
+        "meaning": "It is never born; it never dies. Having once come into existence, it never ceases to be. Unborn, eternal, ever-existing, and primordial, it is not slain when the body is slain.",
         "translation": "Your true self never ends.",
-        "power": "My light is always safe."
+        "story": "Just like you wear a raincoat to stay dry but YOU are still under it, your body is like a coat for your soul. You are eternal and amazing!",
+        "power": "My light is always safe.",
+        "key_takeaway": "Your true self is eternal and can never be hurt.",
+        "tags": [
+          "identity",
+          "fearlessness",
+          "eternity",
+          "self-worth"
+        ]
       },
       {
         "title": "Little Star Inside",
+        "chapter": 15,
+        "verse": "7",
+        "verse_ref": "15.7",
         "content": "You have a little star inside your heart. It is a piece of something very special and loving. You are bright and important!",
-        "verse": "15.7",
-        "sloka": "ममैवांशो जीवलोके जीवभूतः सनातनः ॥",
+        "sanskrit": "ममैवांशो जीवलोके जीवभूतः सनातनः ।\nमनःषष्ठानीन्द्रियाणि प्रकृतिस्थानि कर्षति ।।",
+        "transliteration": "mamaivānśho jīva-loke jīva-bhūtaḥ sanātanaḥ\nmanaḥ-ṣhaṣhṭhānīndriyāṇi prakṛiti-sthāni karṣhati",
+        "meaning": "An eternal portion of Myself having become a living soul in the world of life, draws to itself the five senses, with the mind as the sixth, abiding in Nature.",
         "translation": "You are a tiny part of something very special.",
-        "power": "I am special and shining."
+        "story": "A giant bonfire has a million tiny sparks. You are one of those sparks — a part of the big, beautiful light of God!",
+        "power": "I am special and shining.",
+        "key_takeaway": "You carry a piece of the Divine within you.",
+        "tags": [
+          "connection",
+          "divinity",
+          "unity",
+          "worth"
+        ]
+      },
+      {
+        "title": "Growing Up",
+        "chapter": 2,
+        "verse": "13",
+        "verse_ref": "2.13",
+        "content": "Just like you grow from a baby to a bigger child, your soul stays the same even as your body gets bigger.",
+        "sanskrit": "देहिनोऽस्मिन्यथा देहे कौमारं यौवनं जरा ।\nतथा देहान्तरप्राप्तिर्धीरस्तत्र न मुह्यति ।।",
+        "transliteration": "dehino 'smin yathā dehe kaumāraṁ yauvanaṁ jarā\ntathā dehāntara-prāptir dhīras tatra na muhyati",
+        "meaning": "As the embodied soul continuously passes, in this body, from boyhood to youth to old age, the soul similarly passes into another body at death.",
+        "translation": "You grow, but your soul stays the same.",
+        "story": "Think of your favorite t-shirt. When you get too big for it, you get a new one, but YOU are still the same amazing you!",
+        "power": "I am always me.",
+        "key_takeaway": "Your body changes as you grow, but your inner self is always the same.",
+        "tags": [
+          "growth",
+          "identity",
+          "soul",
+          "eternity"
+        ]
       }
     ],
-    "illustration": "/illustrations/kids/mirror1.png",
-    "audio": "/audio/kids/mirror1.mp3"
+    "stories": [
+      {
+        "id": "s1_1",
+        "title": "The Raincoat and the Rain",
+        "type": "bedtime",
+        "duration_minutes": 3,
+        "content": "One rainy evening, little Maya put on her big yellow raincoat before going outside. The rain splashed all around her — on her coat, on her boots, on her hat. But Maya stayed warm and dry underneath. When she came inside, Grandma helped her take off the wet coat and said, 'See, Maya? The rain got the coat, but it never touched YOU.' Maya looked at herself in the mirror and smiled. She was still the same Maya — warm, dry, and glowing. Just like that, no matter what happens on the outside, your true self inside always stays bright and safe. Your soul is like you under the raincoat — forever dry, forever shining.",
+        "moral": "Your true self can never be hurt by the storms outside.",
+        "tags": [
+          "soul",
+          "identity",
+          "protection"
+        ]
+      },
+      {
+        "id": "s1_2",
+        "title": "The Bonfire and the Sparks",
+        "type": "wonder",
+        "duration_minutes": 3,
+        "content": "On a cool night, Papa lit a great big bonfire in the garden. The flames danced high and bright, and little sparks flew up into the dark sky like tiny orange stars. 'Papa, where do the sparks go?' asked Rohan. 'Each spark is a little piece of the fire,' Papa said softly. 'They fly away, but they all came from the same wonderful light.' Rohan looked at his hands in the glow of the fire. 'Am I a spark too?' he whispered. Papa smiled and held him close. 'You are the most beautiful spark of all.' That night, Rohan fell asleep knowing that wherever he went, the great light was always with him — because he was a part of it.",
+        "moral": "You carry a piece of the Divine light inside you wherever you go.",
+        "tags": [
+          "divinity",
+          "connection",
+          "worth"
+        ]
+      },
+      {
+        "id": "s1_3",
+        "title": "The Same Priya",
+        "type": "everyday",
+        "duration_minutes": 2,
+        "content": "Priya loved looking at her baby photos. In one picture, she was tiny and bald! In another, she had two teeth. In another, she was learning to walk. 'That doesn't even look like me!' she giggled. Mummy sat beside her. 'But it IS you, Priya. You have always been you — even before you could talk, even before you could walk.' Priya looked in the mirror. Her hair was longer now. She was taller. Her shoes were bigger. But her eyes — bright, curious, and full of light — looked exactly the same as in every single photo. 'My light never changed,' Priya said softly. Mummy kissed her head. 'Your light never will.'",
+        "moral": "No matter how much you grow, your true self stays exactly the same.",
+        "tags": [
+          "growth",
+          "identity",
+          "eternity"
+        ]
+      }
+    ],
+    "activities": [
+      {
+        "id": "a1_1",
+        "title": "My Light Drawing",
+        "type": "creative",
+        "duration_minutes": 10,
+        "materials": [
+          "paper",
+          "crayons or coloured pencils"
+        ],
+        "instructions": [
+          "Draw a big outline of yourself on the paper.",
+          "Inside your body, draw a bright glowing light — any colour that feels warm and happy to you.",
+          "Around the outside, draw things that change: your clothes, your hair, your toys.",
+          "Look at your drawing and say out loud: 'The outside changes, but my light stays the same!'"
+        ],
+        "parent_note": "This helps children distinguish between their changing body and their stable inner identity. Ask them what colour their light is and why they chose it.",
+        "tags": [
+          "identity",
+          "self-worth",
+          "creative"
+        ]
+      },
+      {
+        "id": "a1_2",
+        "title": "The Mirror Affirmation Game",
+        "type": "mindfulness",
+        "duration_minutes": 5,
+        "materials": [
+          "a mirror"
+        ],
+        "instructions": [
+          "Stand in front of a mirror together.",
+          "Look into your own eyes for three slow breaths.",
+          "Say: 'I am always me. My light is always safe. I am amazing!'",
+          "Give yourself the biggest smile you can.",
+          "Do this every morning for one week and notice how you feel."
+        ],
+        "parent_note": "Morning mirror affirmations build self-worth and emotional security. Keep the tone playful and celebratory — let the child lead the words over time.",
+        "tags": [
+          "self-worth",
+          "mindfulness",
+          "routine"
+        ]
+      },
+      {
+        "id": "a1_3",
+        "title": "Baby Photo Journey",
+        "type": "storytelling",
+        "duration_minutes": 10,
+        "materials": [
+          "old photos of your child",
+          "a mirror"
+        ],
+        "instructions": [
+          "Lay out 3–5 photos of your child from different ages.",
+          "Look at each photo together and name one thing that changed.",
+          "Then name one thing that stayed the same (their laugh, their curiosity, their kindness).",
+          "Finally, look in the mirror together and say: 'This is still me — the same light, in a bigger body!'"
+        ],
+        "parent_note": "Seeing their own growth while identifying continuity helps 3–6 year olds develop a stable sense of self. This activity also opens beautiful conversations about identity.",
+        "tags": [
+          "identity",
+          "growth",
+          "family",
+          "eternity"
+        ]
+      }
+    ],
+    "tags": [
+      "eternity",
+      "divinity",
+      "identity",
+      "connection",
+      "fearlessness",
+      "self-worth",
+      "worth",
+      "unity"
+    ]
   },
   {
     "id": 2,
+    "source": "mirror",
+    "target_age": [
+      "3-6"
+    ],
     "chapter": 2,
     "title": "The Happy Mirror: Just Try Your Best",
     "theme": "Action",
+    "difficulty": "Beginner",
+    "illustration": "/illustrations/mirror/ch2.png",
+    "icon": "/illustrations/mirror/mirror2.png",
+    "audio": "/audio/kids/mirror2.mp3",
     "topics": [
       {
         "title": "Do and Smile",
-        "content": "When you draw, play, or build, just have fun! Don’t worry about winning. Your mirror smiles when you try your best.",
-        "verse": "2.47",
-        "sloka": "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन ।",
-        "translation": "Just do your best and enjoy.",
-        "power": "I try and smile!"
+        "chapter": 2,
+        "verse": "47",
+        "verse_ref": "2.47",
+        "content": "When you play a game or make something, enjoy the doing! Don't worry if you win or lose — just try your best and smile.",
+        "sanskrit": "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन ।\nमा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि ।।",
+        "transliteration": "karmaṇy-evādhikāras te mā phaleṣhu kadāchana\nmā karma-phala-hetur bhūr mā te saṅgo 'stvakarmaṇi",
+        "meaning": "You have a right to perform your prescribed duties, but you are not entitled to the fruits of your actions. Never consider yourself the cause of the results of your activities, and never be attached to not doing your duty.",
+        "translation": "Do your best and enjoy it — don't worry about the prize.",
+        "story": "Build a sandcastle for the fun of it! If a wave comes, don't be sad. The joy was in the playing, not just the castle.",
+        "power": "I try my best and feel happy!",
+        "key_takeaway": "Focus on the fun of doing, not just winning.",
+        "tags": [
+          "joy",
+          "effort",
+          "focus",
+          "detachment"
+        ]
       }
     ],
-    "illustration": "/illustrations/kids/mirror2.png",
-    "audio": "/audio/kids/mirror2.mp3"
+    "stories": [
+      {
+        "id": "s2_1",
+        "title": "Arjun's Painting",
+        "type": "everyday",
+        "duration_minutes": 3,
+        "content": "Arjun loved to paint. One day, he painted a big orange sun, a green tree, and a blue river. His sister looked at it and said, 'The sun looks wobbly.' Arjun's smile disappeared. He almost crumpled the paper. But then Mummy came over and said, 'Arjun, did you enjoy painting it?' He thought for a moment. 'Yes! I loved mixing the colours. And making the river was really fun.' Mummy smiled. 'Then it is a perfect painting. The joy you felt while making it — that is the real prize.' Arjun put the painting up on the wall. And every time he looked at it, he remembered: the doing was the best part.",
+        "moral": "The joy is in the trying, not just the result.",
+        "tags": [
+          "effort",
+          "joy",
+          "detachment"
+        ]
+      },
+      {
+        "id": "s2_2",
+        "title": "The Sandcastle",
+        "type": "wonder",
+        "duration_minutes": 3,
+        "content": "Lila and her little brother Kabir spent all afternoon building the most amazing sandcastle at the beach. It had towers, a moat, and a tiny flag made from a stick. Just as they finished, a big wave rolled in — whoooosh — and swept the whole thing away. Kabir started to cry. But Lila laughed and clapped. 'That was so much fun!' she said. 'We worked so hard and made something beautiful. The wave can't take away the happy we felt while building it!' Kabir sniffled, then smiled. They looked at the smooth sand and said, 'Let's build another one!' And this time, they laughed the whole way through.",
+        "moral": "What you feel while doing something is more important than what you get at the end.",
+        "tags": [
+          "detachment",
+          "joy",
+          "effort",
+          "resilience"
+        ]
+      },
+      {
+        "id": "s2_3",
+        "title": "The Race That Everyone Won",
+        "type": "bedtime",
+        "duration_minutes": 2,
+        "content": "On Sports Day, all the children lined up for the running race. Some were fast, some were slow. Neel was not the fastest, but he ran with everything he had — arms pumping, feet flying, big smile on his face. He came fourth. A boy who came first was not smiling at all because he had wanted to break a record. Neel bounced over to his teacher. 'I tried my absolute best!' he said proudly. The teacher hugged him. 'That, Neel, is what winning truly means.' That night, Neel slept soundly, dreaming of running — not of trophies.",
+        "moral": "Giving your full effort is the real victory.",
+        "tags": [
+          "effort",
+          "joy",
+          "equanimity"
+        ]
+      }
+    ],
+    "activities": [
+      {
+        "id": "a2_1",
+        "title": "The Try-Your-Best Star Chart",
+        "type": "routine",
+        "duration_minutes": 5,
+        "materials": [
+          "paper",
+          "star stickers",
+          "crayons"
+        ],
+        "instructions": [
+          "Draw a chart with 7 boxes — one for each day of the week.",
+          "Each day, think of one thing you tried your best at — it could be anything: tying shoes, drawing, helping set the table.",
+          "Place a star sticker in that day's box.",
+          "At the end of the week, count your stars and celebrate — not for winning, but for trying!"
+        ],
+        "parent_note": "Praise the effort specifically, not the outcome. Say things like 'I loved how hard you concentrated' rather than 'You're so smart.' This builds intrinsic motivation.",
+        "tags": [
+          "effort",
+          "routine",
+          "growth-mindset"
+        ]
+      },
+      {
+        "id": "a2_2",
+        "title": "Build and Let Go",
+        "type": "playful",
+        "duration_minutes": 15,
+        "materials": [
+          "building blocks or LEGO",
+          "an open heart!"
+        ],
+        "instructions": [
+          "Build the most wonderful tower or creation you can together.",
+          "Admire it and say three things you loved about making it.",
+          "Then — with a big laugh — knock it down together!",
+          "Ask: 'Did the fun disappear when it fell?' (Hint: No, it didn't!)",
+          "Talk about how the happy feeling stays in your heart even after the tower is gone."
+        ],
+        "parent_note": "This is a gentle, embodied introduction to non-attachment. Keep it joyful — the 'knock it down' moment should feel like celebration, not loss.",
+        "tags": [
+          "detachment",
+          "joy",
+          "playful"
+        ]
+      },
+      {
+        "id": "a2_3",
+        "title": "My Favourite Thing to Do Dance",
+        "type": "movement",
+        "duration_minutes": 5,
+        "materials": [
+          "music (optional)"
+        ],
+        "instructions": [
+          "Ask your child: 'What is one thing you love doing just for the fun of it?'",
+          "Let them show you — draw it, dance it, act it out, or describe it.",
+          "Together, do that thing for a few minutes with no goal — no product, no prize, just pure enjoyment.",
+          "Afterwards, ask: 'How did that feel?' and let them sit with the feeling of pure joy."
+        ],
+        "parent_note": "This activity anchors the concept of intrinsic joy in the child's real experience. It's more powerful than explanation — they feel what the verse is teaching.",
+        "tags": [
+          "joy",
+          "effort",
+          "self-expression"
+        ]
+      }
+    ],
+    "tags": [
+      "joy",
+      "effort",
+      "focus",
+      "detachment"
+    ]
   },
   {
     "id": 3,
+    "source": "mirror",
+    "target_age": [
+      "3-6"
+    ],
     "chapter": 3,
     "title": "The Calm Mirror: Happy Mind",
     "theme": "Mental Health & Peace",
+    "difficulty": "Beginner",
+    "illustration": "/illustrations/mirror/ch3.png",
+    "icon": "/illustrations/mirror/mirror3.png",
+    "audio": "/audio/kids/mirror3.mp3",
     "topics": [
       {
         "title": "My Mind Buddy",
-        "content": "Your mind is like a little friend. If you talk nicely to it, it helps you feel happy. If you get upset, take a deep breath and help your mind calm down.",
-        "verse": "6.5",
-        "sloka": "आत्मैव ह्यत्मनो बन्धुरात्मैव रिपुरात्मनः ॥",
-        "translation": "Your mind can help you or trouble you.",
-        "power": "I make my mind my friend."
+        "chapter": 6,
+        "verse": "5",
+        "verse_ref": "6.5",
+        "content": "Your mind can be your best friend or your biggest worry — you get to choose! Fill it with kind thoughts and it will look after you.",
+        "sanskrit": "उद्धरेदात्मनात्मानं नात्मानमवसादयेत् ।\nआत्मैव ह्यात्मनो बन्धुरात्मैव रिपुरात्मनः ।।",
+        "transliteration": "uddhared ātmanātmānaṁ nātmānam avasādayet\nātmaiva hy ātmano bandhur ātmaiva ripur ātmanaḥ",
+        "meaning": "One must elevate, not degrade, oneself by one's own mind. The mind is the friend of the conditioned soul, and the mind is its enemy.",
+        "translation": "Your mind can be your best friend — you choose!",
+        "story": "You are the gardener of your own heart. Choose to plant happy thoughts and you will be your own best friend!",
+        "power": "I choose happy thoughts.",
+        "key_takeaway": "You have the power to choose your own thoughts.",
+        "tags": [
+          "self-love",
+          "responsibility",
+          "thoughts",
+          "mindfulness"
+        ]
       },
       {
         "title": "Big Friend Helps Me",
-        "content": "You don’t have to do everything alone. There is a big loving friend who helps you. You can relax and feel safe.",
-        "verse": "5.29",
-        "sloka": "भोक्तारं यज्ञतपसां सर्वलोकमहेश्वरम् ।",
-        "translation": "A big friend is always there for you.",
-        "power": "I am safe and calm."
+        "chapter": 5,
+        "verse": "29",
+        "verse_ref": "5.29",
+        "content": "When you feel scared or alone, remember there is a loving friend who is always right beside you, keeping you safe.",
+        "sanskrit": "भोक्तारं यज्ञतपसां सर्वलोकमहेश्वरम् ।\nसुहृदं सर्वभूतानां ज्ञात्वा मां शान्तिमृच्छति ।।",
+        "transliteration": "bhoktāraṁ yajña-tapasāṁ sarva-loka-maheśhvaram\nsuhṛidaṁ sarva-bhūtānāṁ jñātvā māṁ śhāntim ṛichchhati",
+        "meaning": "The sages, knowing Me as the ultimate purpose of all sacrifices and austerities, the Supreme Lord of all planets and demigods, and the benefactor and well-wisher of all living entities, attain peace.",
+        "translation": "There is always a loving friend watching over you.",
+        "story": "Krishna is like a super-strong friend who is always watching over you, making sure you are safe and happy.",
+        "power": "I am never alone.",
+        "key_takeaway": "There is a loving friend always helping you.",
+        "tags": [
+          "trust",
+          "protection",
+          "friendship",
+          "peace"
+        ]
+      },
+      {
+        "title": "The Quiet Lamp",
+        "chapter": 6,
+        "verse": "19",
+        "verse_ref": "6.19",
+        "content": "When you breathe slowly and sit quietly, your mind becomes very still — like a little flame that doesn't flicker.",
+        "sanskrit": "यथा दीपो निवातस्थो नेङ्गते सोपमा स्मृता ।\nयोगिनो यतचित्तस्य युञ्जतो योगमात्मनः ।।",
+        "transliteration": "yathā dīpo nivāta-stho neṅgate sopamā smṛitā\nyogino yata-chittasya yuñjato yogam ātmanaḥ",
+        "meaning": "As a lamp in a windless place does not flicker, so the disciplined mind of a yogi remains steady in meditation.",
+        "translation": "A still mind shines bright like a quiet flame.",
+        "story": "Imagine a candle in a quiet room. The flame is perfectly still. When you breathe slowly, your mind becomes just as still and bright.",
+        "power": "I breathe slowly and feel calm.",
+        "key_takeaway": "Meditation and slow breathing help make your mind steady.",
+        "tags": [
+          "meditation",
+          "peace",
+          "mindfulness",
+          "focus"
+        ]
+      },
+      {
+        "title": "Bring It Back",
+        "chapter": 6,
+        "verse": "26",
+        "verse_ref": "6.26",
+        "content": "Sometimes your mind jumps around like a bouncy puppy! That is okay. Just gently bring it back — no shouting, just a gentle call.",
+        "sanskrit": "यतो यतो निश्चरति मनश्चञ्चलमस्थिरम् ।\nततस्ततो नियम्यैतदात्मन्येव वशं नयेत् ।।",
+        "transliteration": "yato yato niśhcharati manaśh chañchalam asthiram\ntatas tato niyamyaitad ātmany eva vaśhaṁ nayet",
+        "meaning": "Whenever and wherever the mind wanders due to its unsteady and restless nature, one must certainly bring it back under the control of the Self.",
+        "translation": "When your mind wanders, gently bring it back — that's okay!",
+        "story": "Your mind is like a playful puppy. If it runs away to chase a butterfly, just call it back gently with a smile. No need to be angry!",
+        "power": "I gently bring my mind back.",
+        "key_takeaway": "It is normal for the mind to wander; just gently guide it back.",
+        "tags": [
+          "mindfulness",
+          "patience",
+          "focus",
+          "self-love"
+        ]
       }
     ],
-    "illustration": "/illustrations/kids/mirror3.png",
-    "audio": "/audio/kids/mirror3.mp3"
+    "stories": [
+      {
+        "id": "s3_1",
+        "title": "The Garden Inside",
+        "type": "wonder",
+        "duration_minutes": 3,
+        "content": "Anya's teacher told her something magical. 'Inside your mind,' she said, 'is a beautiful garden. Every thought you think is like a seed.' Anya closed her eyes and imagined it. She could see some bright sunflower thoughts — 'I am kind,' 'I can do it,' 'I am loved.' But there were also some dark weedy thoughts trying to grow — 'I can't do it,' 'Nobody likes me.' Her teacher smiled. 'The flowers and the weeds both grow from what you give them. Water the sunflowers.' From that day on, when a dark thought crept in, Anya would picture herself pulling it out gently and planting a sunflower in its place. Her garden grew brighter every single day.",
+        "moral": "You are the gardener of your mind. Choose to grow happy thoughts.",
+        "tags": [
+          "thoughts",
+          "self-love",
+          "mindfulness",
+          "responsibility"
+        ]
+      },
+      {
+        "id": "s3_2",
+        "title": "The Candle in the Storm",
+        "type": "bedtime",
+        "duration_minutes": 3,
+        "content": "One stormy night, the electricity went out and the whole house went dark. Mummy lit a single candle and set it on the table. Outside, the wind howled and the rain crashed against the window. But inside, the little candle burned perfectly still. Its flame didn't shake. It didn't flicker. It just glowed, warm and steady and safe. Little Diya stared at it, wide-eyed. 'The storm can't touch it,' she whispered. Mummy nodded. 'And that's exactly what your mind can be like, my love. No matter how noisy the world gets outside, you can keep your flame perfectly still inside.' Diya took a slow breath. The candle glowed. She glowed too.",
+        "moral": "Your inner calm is stronger than any outside storm.",
+        "tags": [
+          "peace",
+          "meditation",
+          "protection",
+          "mindfulness"
+        ]
+      },
+      {
+        "id": "s3_3",
+        "title": "Pippi the Puppy Mind",
+        "type": "playful",
+        "duration_minutes": 2,
+        "content": "Veer was trying to listen to his teacher read a story, but his mind kept running away. First it ran to the football in the corner. Then it jumped to what he would eat for lunch. Then it chased a butterfly it saw outside the window! 'Come back, mind!' Veer thought with a smile. He imagined his mind as a little white puppy named Pippi. Pippi was always bounding off to explore. But when Veer called softly — 'Pippi, come!' — Pippi always trotted back happily, tongue wagging. Veer didn't get angry at Pippi. He just called her back, again and again, with a smile. And slowly, Pippi learned to sit a little longer each time.",
+        "moral": "A wandering mind is normal. Gently calling it back is the practice.",
+        "tags": [
+          "mindfulness",
+          "focus",
+          "patience",
+          "self-love"
+        ]
+      }
+    ],
+    "activities": [
+      {
+        "id": "a3_1",
+        "title": "The Candle Breath",
+        "type": "mindfulness",
+        "duration_minutes": 5,
+        "materials": [
+          "a candle (or picture of a flame)",
+          "a quiet space"
+        ],
+        "instructions": [
+          "Sit together in a quiet spot and look at the candle (or a picture of one).",
+          "Take a slow, deep breath in — breathe in for 3 counts.",
+          "Breathe out gently for 4 counts — as if you're very slowly trying to make the flame flicker just a tiny bit, not blow it out.",
+          "Do this 5 times together.",
+          "Afterwards, ask: 'How does your mind feel now compared to before?'"
+        ],
+        "parent_note": "This breathing exercise activates the parasympathetic nervous system and is appropriate for children as young as 3. You can replace the candle with a drawing of a flame for safety.",
+        "tags": [
+          "meditation",
+          "peace",
+          "mindfulness",
+          "breathing"
+        ]
+      },
+      {
+        "id": "a3_2",
+        "title": "Plant a Happy Thought",
+        "type": "creative",
+        "duration_minutes": 10,
+        "materials": [
+          "paper",
+          "crayons",
+          "optional: small flower pot and soil"
+        ],
+        "instructions": [
+          "Ask your child: 'What is one happy thought that makes you feel good?'",
+          "Write or draw that thought on a small piece of paper shaped like a seed.",
+          "If you have a flower pot, 'plant' the paper seed in the soil together.",
+          "Every morning, water the plant and remember that happy thought.",
+          "As the plant grows, so does the happy thought!"
+        ],
+        "parent_note": "This activity makes the abstract concept of 'choosing thoughts' tangible. If no plant is available, draw a garden on paper and paste the 'seed' inside it.",
+        "tags": [
+          "thoughts",
+          "self-love",
+          "routine",
+          "creative"
+        ]
+      },
+      {
+        "id": "a3_3",
+        "title": "Call the Puppy Back",
+        "type": "movement",
+        "duration_minutes": 5,
+        "materials": [
+          "open space"
+        ],
+        "instructions": [
+          "Tell your child their mind is a playful puppy named whatever they like.",
+          "Sit together and close your eyes. Count 10 slow breaths.",
+          "Each time a thought runs away (they'll feel it!), they gently say inside: '[Puppy's name], come back!' and return to counting.",
+          "After 10 breaths, open eyes. How many times did the puppy run?",
+          "Celebrate each return — that's the practice!"
+        ],
+        "parent_note": "Normalize mind-wandering by framing it as the puppy's nature, not a mistake. The skill being built is the gentle return — not perfect stillness. Celebrate every return warmly.",
+        "tags": [
+          "mindfulness",
+          "focus",
+          "patience",
+          "playful"
+        ]
+      }
+    ],
+    "tags": [
+      "self-love",
+      "protection",
+      "responsibility",
+      "trust",
+      "thoughts",
+      "mindfulness",
+      "peace",
+      "friendship"
+    ]
   },
   {
     "id": 4,
+    "source": "mirror",
+    "target_age": [
+      "3-6"
+    ],
     "chapter": 4,
     "title": "The Kind Mirror: Be a Helper",
     "theme": "Leadership",
+    "difficulty": "Beginner",
+    "illustration": "/illustrations/mirror/ch4.png",
+    "icon": "/illustrations/mirror/mirror4.png",
+    "audio": "/audio/kids/mirror4.mp3",
     "topics": [
       {
         "title": "I Show the Way",
-        "content": "When you share toys or help someone, others learn from you. You become a little leader!",
-        "verse": "3.21",
-        "sloka": "यद्यदाचरति श्रेष्ठस्तत्तदेवेतरो जनः ।",
-        "translation": "Others follow what you do.",
-        "power": "I help and share."
+        "chapter": 3,
+        "verse": "21",
+        "verse_ref": "3.21",
+        "content": "When you do something kind, brave, or good, other children notice and want to do the same. You are a leader just by being yourself!",
+        "sanskrit": "यद्यदाचरति श्रेष्ठस्तत्तदेवेतरो जनः ।\nस यत्प्रमाणं कुरुते लोकस्तदनुवर्तते ।।",
+        "transliteration": "yad yad ācharati śhreṣhṭhas tat tad evetaro janaḥ\nsa yat pramāṇaṁ kurute lokas tad anuvartate",
+        "meaning": "Whatever actions great people perform, common people follow. Whatever standards they set, all the world pursues.",
+        "translation": "When you do good things, others want to do good things too!",
+        "story": "When the Queen Bee works hard and is kind, all the other bees learn to be kind too. You can be a leader too!",
+        "power": "My actions inspire others.",
+        "key_takeaway": "Your good actions inspire others to be good too.",
+        "tags": [
+          "leadership",
+          "role-model",
+          "action",
+          "integrity"
+        ]
       }
     ],
-    "illustration": "/illustrations/kids/mirror4.png",
-    "audio": "/audio/kids/mirror4.mp3"
+    "stories": [
+      {
+        "id": "s4_1",
+        "title": "The Queen Bee",
+        "type": "wonder",
+        "duration_minutes": 3,
+        "content": "Deep inside the great honeycomb, there lived a Queen Bee named Asha. Asha was not the biggest bee, but she was the kindest. Every morning she flew out first to find the sweetest flowers, and every evening she made sure every single bee had enough honey to eat before she took her own. One by one, the other bees noticed. They started sharing their pollen. They started helping each other carry heavy loads. They started singing while they worked. Nobody told them to. They just watched Asha and felt, in their little bee hearts, that being kind was the most natural thing in the world. The hive was the happiest in the whole meadow — all because one bee decided to lead with love.",
+        "moral": "When you are kind, you inspire everyone around you to be kind too.",
+        "tags": [
+          "leadership",
+          "role-model",
+          "kindness",
+          "integrity"
+        ]
+      },
+      {
+        "id": "s4_2",
+        "title": "The First Splash",
+        "type": "everyday",
+        "duration_minutes": 2,
+        "content": "At the swimming pool, all the children stood at the shallow end, a little bit nervous about putting their faces in the water. Nobody wanted to go first. Then Mia took a big breath, pinched her nose, and dunked her whole face in — blub blub blub! She came up laughing, water streaming down her cheeks. 'It's fine! It tickles!' Within seconds, four other children dunked their faces too, all giggling and sputtering. Mia hadn't said 'Follow me.' She had just been brave first. And somehow, that was all it took.",
+        "moral": "Being brave first is a quiet kind of leadership.",
+        "tags": [
+          "leadership",
+          "courage",
+          "action",
+          "role-model"
+        ]
+      },
+      {
+        "id": "s4_3",
+        "title": "Tiny Footprints in the Snow",
+        "type": "bedtime",
+        "duration_minutes": 3,
+        "content": "One winter morning, little Rohan stepped outside first. The snow was fresh and untouched. He walked carefully, leaving a trail of small, clear footprints. Then his little sister followed — stepping exactly in his footprints. Then the neighbours' children came out and followed the same path, one by one, until a whole trail wound through the garden. That evening, Grandfather looked at the winding trail and smiled. 'Do you see, Rohan? You walked first, and a whole path appeared for others to follow.' Rohan looked at his tiny footprints leading the way. He felt very big indeed.",
+        "moral": "Every step you take in kindness becomes a path for others.",
+        "tags": [
+          "leadership",
+          "integrity",
+          "action",
+          "responsibility"
+        ]
+      }
+    ],
+    "activities": [
+      {
+        "id": "a4_1",
+        "title": "My Kind Helper Badge",
+        "type": "creative",
+        "duration_minutes": 10,
+        "materials": [
+          "paper",
+          "crayons",
+          "scissors",
+          "tape"
+        ],
+        "instructions": [
+          "Cut a circle or star shape out of paper — this is your Kind Helper Badge.",
+          "Decorate it with your name and things that represent kindness (hearts, suns, hands).",
+          "Wear it on your shirt today.",
+          "Every time you do something kind — share, help, include someone — add a small mark or sticker to your badge.",
+          "At the end of the day, count your kindness marks together!"
+        ],
+        "parent_note": "The physical badge makes the abstract value of leadership tangible. Focus the conversation on how other children responded when they helped — did anyone else become kind too?",
+        "tags": [
+          "leadership",
+          "kindness",
+          "creative",
+          "role-model"
+        ]
+      },
+      {
+        "id": "a4_2",
+        "title": "The Kindness Ripple",
+        "type": "observation",
+        "duration_minutes": 5,
+        "materials": [
+          "a bowl of water",
+          "a small stone"
+        ],
+        "instructions": [
+          "Fill a bowl with still water and look at it together.",
+          "Drop a small stone in the middle and watch the ripples spread outward.",
+          "Say: 'One small act of kindness — like this stone — makes ripples that reach everyone.'",
+          "Ask your child: 'What is one kind thing you could do today that might make ripples?'",
+          "Later that day, try it and notice what happens."
+        ],
+        "parent_note": "The visual of ripples is powerful for young children. Return to it when your child does something kind — 'Remember the ripples? I wonder how far your kindness is travelling today!'",
+        "tags": [
+          "leadership",
+          "kindness",
+          "action",
+          "integrity"
+        ]
+      },
+      {
+        "id": "a4_3",
+        "title": "Be First to Be Kind",
+        "type": "challenge",
+        "duration_minutes": "ongoing",
+        "materials": [
+          "none"
+        ],
+        "instructions": [
+          "Give your child one gentle challenge for the day: 'Be the first person to do something kind today.'",
+          "It can be anything: smile at someone first, share first, say good morning first, pick up something someone dropped.",
+          "When they come back, ask: 'Did anyone else do something kind after you?'",
+          "Celebrate the ripple they created!"
+        ],
+        "parent_note": "This builds awareness that their behaviour has impact. Over time, this becomes intrinsic leadership — they begin to see themselves as someone whose actions matter.",
+        "tags": [
+          "leadership",
+          "role-model",
+          "courage",
+          "action"
+        ]
+      }
+    ],
+    "tags": [
+      "leadership",
+      "role-model",
+      "action",
+      "integrity"
+    ]
   },
   {
     "id": 5,
+    "source": "mirror",
+    "target_age": [
+      "3-6"
+    ],
     "chapter": 5,
     "title": "The Love Mirror: Kind Heart",
     "theme": "Kindness",
+    "difficulty": "Beginner",
+    "illustration": "/illustrations/mirror/ch5.png",
+    "icon": "/illustrations/mirror/mirror5.png",
+    "audio": "/audio/kids/mirror5.mp3",
     "topics": [
       {
         "title": "Always Helped",
-        "content": "When you feel love and trust, help comes to you in many ways.",
-        "verse": "9.22",
-        "sloka": "अनन्याश्चिन्तयन्तो मां ये जनाः पर्युपासते ।",
-        "translation": "You are always cared for.",
-        "power": "I am cared for."
+        "chapter": 9,
+        "verse": "22",
+        "verse_ref": "9.22",
+        "content": "When you keep your heart full of goodness and love, the universe makes sure you always have what you need.",
+        "sanskrit": "अनन्याश्चिन्तयन्तो मां ये जनाः पर्युपासते ।\nतेषां नित्याभियुक्तानां योगक्षेमं वहाम्यहम् ।।",
+        "transliteration": "ananyāśh chintayanto māṁ ye janāḥ paryupāsate\nteṣhāṁ nityābhiyuktānāṁ yoga-kṣhemaṁ vahāmy aham",
+        "meaning": "For those who worship Me with exclusive devotion, meditating on My transcendental form, I carry what they lack and I preserve what they have.",
+        "translation": "Stay full of love and goodness — you will always be taken care of.",
+        "story": "Imagine a giant umbrella of love that follows you everywhere, keeping you safe from any storm.",
+        "power": "I am always protected by love.",
+        "key_takeaway": "The universe protects those who stay focused on goodness.",
+        "tags": [
+          "trust",
+          "devotion",
+          "security",
+          "love"
+        ]
       },
       {
         "title": "Tiny Gift, Big Love",
-        "content": "A smile, a hug, or a flower is a big gift when given with love.",
-        "verse": "9.26",
-        "sloka": "पत्रं पुष्पं फलं तोयं यो मे भक्त्या प्रयच्छति ।",
-        "translation": "Small things with love are special.",
-        "power": "My kindness is powerful."
+        "chapter": 9,
+        "verse": "26",
+        "verse_ref": "9.26",
+        "content": "You don't need lots of things to show love. A small gift given from your heart is the biggest, most beautiful gift of all.",
+        "sanskrit": "पत्रं पुष्पं फलं तोयं यो मे भक्त्या प्रयच्छति ।\nतदहं भक्त्युपहृतमश्नामि प्रयतात्मनः ।।",
+        "transliteration": "patraṁ puṣhpaṁ phalaṁ toyaṁ yo me bhaktyā prayachchhati\ntad ahaṁ bhakty-upahṛitam aśhnāmi prayatātmanaḥ",
+        "meaning": "If one offers Me with love and devotion a leaf, a flower, a fruit, or water, I will accept it.",
+        "translation": "A tiny gift given with love is the best gift ever.",
+        "story": "A little squirrel brought a single leaf with lots of love. It was the best gift ever because it came from the heart!",
+        "power": "My love makes every gift special.",
+        "key_takeaway": "The intention of love matters more than the size of the gift.",
+        "tags": [
+          "love",
+          "sincerity",
+          "faith",
+          "simplicity"
+        ]
+      },
+      {
+        "title": "Kind to Everyone",
+        "chapter": 12,
+        "verse": "13-14",
+        "verse_ref": "12.13",
+        "content": "A truly kind heart doesn't pick and choose. It is kind to everyone — friends, strangers, even bugs and birds!",
+        "sanskrit": "अद्वेष्टा सर्वभूतानां मैत्रः करुण एव च ।\nनिर्ममो निरहङ्कारः समदुःखसुखः क्षमी ।।",
+        "transliteration": "adveṣhṭā sarva-bhūtānāṁ maitraḥ karuṇa eva cha\nnirmamo nirahaṅkāraḥ sama-duḥkha-sukhaḥ kṣhamī",
+        "meaning": "One who is not envious but is a kind friend to all living entities, who does not think himself a proprietor, who is free from false ego, equal in both happiness and distress, who is always satisfied and engaged in devotional service.",
+        "translation": "Be a kind friend to every living thing.",
+        "story": "A kind heart is the best magic trick. When you share a smile with someone who is sad, you both become happy!",
+        "power": "I am kind to everyone.",
+        "key_takeaway": "Kindness and forgiveness make you a true friend to the world.",
+        "tags": [
+          "love",
+          "kindness",
+          "forgiveness",
+          "empathy"
+        ]
       }
     ],
-    "illustration": "/illustrations/kids/mirror5.png",
-    "audio": "/audio/kids/mirror5.mp3"
+    "stories": [
+      {
+        "id": "s5_1",
+        "title": "The Love Umbrella",
+        "type": "bedtime",
+        "duration_minutes": 3,
+        "content": "Wherever little Tara went, she carried something invisible. Nobody could see it, but it was always there — a big, warm, glowing umbrella made entirely of love. On the day she scraped her knee, the umbrella was there. On the day she forgot her lunch box, a kind friend shared theirs. On the night she had a bad dream, she woke up to find Mummy already beside her. Tara didn't know how these things always worked out. But she knew this: as long as she kept her heart full of kindness and trust, the love umbrella was always open above her. 'It follows goodness,' Grandma told her one evening. 'Wherever love lives, the umbrella goes too.'",
+        "moral": "A heart full of love and goodness is always protected.",
+        "tags": [
+          "love",
+          "trust",
+          "security",
+          "devotion"
+        ]
+      },
+      {
+        "id": "s5_2",
+        "title": "The Squirrel's Leaf",
+        "type": "wonder",
+        "duration_minutes": 3,
+        "content": "All the animals wanted to give a gift to the great, wise tree at the centre of the forest. The elephant brought a huge pile of fruit. The peacock brought its most beautiful feather. The bear brought a jar of golden honey. But last of all came a tiny squirrel, trembling a little, holding a single red leaf. It was the most perfect leaf she had found all autumn, and she had kept it safe for weeks just for this moment. She laid it at the base of the tree with her whole heart. The great tree rustled its leaves — not for the fruit, not for the feather, not for the honey — but for the leaf. Because it felt the love inside it, and love always knows love.",
+        "moral": "It is not the size of the gift but the love inside it that matters.",
+        "tags": [
+          "love",
+          "sincerity",
+          "simplicity",
+          "faith"
+        ]
+      },
+      {
+        "id": "s5_3",
+        "title": "The Smile That Went Around",
+        "type": "everyday",
+        "duration_minutes": 2,
+        "content": "On Monday morning, little Sam felt grumpy. But then his neighbour waved and smiled at him through the window. Sam felt a little lighter. At school, he smiled at a girl named Preethi who was sitting alone. Preethi smiled and felt brave enough to say hello to a boy named Leo. Leo laughed and shared his crayons. By the end of the day, six children who had never spoken before were all drawing together at the same table. One smile from one window had gone around the whole class. Sam walked home thinking: I didn't know one smile could do all of that.",
+        "moral": "Kindness spreads in ways you can't even imagine.",
+        "tags": [
+          "kindness",
+          "love",
+          "empathy",
+          "friendship"
+        ]
+      }
+    ],
+    "activities": [
+      {
+        "id": "a5_1",
+        "title": "My Love Jar",
+        "type": "creative",
+        "duration_minutes": 10,
+        "materials": [
+          "a jar",
+          "small pieces of paper",
+          "crayons"
+        ],
+        "instructions": [
+          "Find an old jar and decorate it with hearts and bright colours — this is your Love Jar.",
+          "Each day, write or draw one kind thing you did or one thing you are grateful for on a small piece of paper.",
+          "Fold it up and put it in the jar.",
+          "When the jar is full (or whenever you feel sad), open it and read all the love inside.",
+          "Notice: your jar is never empty."
+        ],
+        "parent_note": "Gratitude and kindness journaling is one of the most evidence-backed wellbeing practices. For pre-readers, drawing pictures works just as well. The physical jar makes love feel tangible.",
+        "tags": [
+          "love",
+          "gratitude",
+          "routine",
+          "security"
+        ]
+      },
+      {
+        "id": "a5_2",
+        "title": "The Gift of a Leaf",
+        "type": "nature",
+        "duration_minutes": 15,
+        "materials": [
+          "outdoors or a park"
+        ],
+        "instructions": [
+          "Go outside together and walk slowly, looking for the most beautiful leaf, stone, or flower you can find.",
+          "Choose one special thing — not the biggest, but the one that makes your heart feel happy.",
+          "Bring it home and give it to someone you love with the words: 'I found this and thought of you.'",
+          "Notice how the receiver feels — and how YOU feel."
+        ],
+        "parent_note": "This activity grounds the verse's teaching in a real, sensory experience. The process of looking carefully and choosing thoughtfully is as important as the giving. Emphasise the love in the choosing.",
+        "tags": [
+          "love",
+          "simplicity",
+          "nature",
+          "giving"
+        ]
+      },
+      {
+        "id": "a5_3",
+        "title": "Kindness to Every Living Thing",
+        "type": "observation",
+        "duration_minutes": 10,
+        "materials": [
+          "none"
+        ],
+        "instructions": [
+          "Go on a short walk and look for living things: a worm, a bird, a flower, a tree, an ant.",
+          "For each one, stop and say something kind to it — out loud! ('Hello little ant, you work so hard!')",
+          "Back home, ask: 'How did it feel to be kind to something tiny?'",
+          "Draw your favourite living thing from the walk and give it a name."
+        ],
+        "parent_note": "This builds compassion beyond the human world — a key Gita teaching. Children who practise kindness to all living things develop deeper empathy with people too.",
+        "tags": [
+          "kindness",
+          "empathy",
+          "love",
+          "nature"
+        ]
+      }
+    ],
+    "tags": [
+      "sincerity",
+      "faith",
+      "simplicity",
+      "providence",
+      "trust",
+      "devotion",
+      "security",
+      "love"
+    ]
   },
   {
     "id": 6,
+    "source": "mirror",
+    "target_age": [
+      "3-6"
+    ],
     "chapter": 6,
     "title": "The Time Mirror: Everything Changes",
     "theme": "Understanding",
+    "difficulty": "Beginner",
+    "illustration": "/illustrations/mirror/ch6.png",
+    "icon": "/illustrations/mirror/mirror6.png",
+    "audio": "/audio/kids/mirror6.mp3",
     "topics": [
       {
         "title": "Things Get Better",
-        "content": "If something feels sad, don’t worry. It will pass, and happy times will come again.",
-        "verse": "4.7",
-        "sloka": "यदा यदा हि धर्मस्य ग्लानिर्भवति भारत ।",
-        "translation": "Things become good again.",
-        "power": "Good times will come."
+        "chapter": 4,
+        "verse": "7",
+        "verse_ref": "4.7",
+        "content": "When things feel sad or difficult, remember: goodness always comes back. A special kind of magic always returns when the world needs it most.",
+        "sanskrit": "यदा यदा हि धर्मस्य ग्लानिर्भवति भारत ।\nअभ्युत्थानमधर्मस्य तदात्मानं सृजाम्यहम् ।।",
+        "transliteration": "yadā yadā hi dharmasya glānir bhavati bhārata\nabhyutthānam adharmasya tadātmānaṁ sṛijāmy aham",
+        "meaning": "Whenever there is a decline in righteousness and an increase in unrighteousness, at that time I manifest myself on earth.",
+        "translation": "When the world needs help, goodness always comes.",
+        "story": "Whenever the world feels a bit dark, a special Hero of Light appears to make everything bright and happy again.",
+        "power": "Goodness always comes back.",
+        "key_takeaway": "Goodness always returns to the world.",
+        "tags": [
+          "hope",
+          "justice",
+          "dharma",
+          "time"
+        ]
       },
       {
         "title": "Little Moments",
-        "content": "Big feelings don’t last forever. They come and go like clouds.",
-        "verse": "11.32",
-        "sloka": "कालोऽस्मि लोकक्षयकृत् प्रवृद्धः ।",
-        "translation": "Time keeps moving.",
-        "power": "This will pass."
+        "chapter": 11,
+        "verse": "32",
+        "verse_ref": "11.32",
+        "content": "Big feelings — like being very upset or very scared — don't last forever. Everything changes. Every feeling is like a cloud that passes.",
+        "sanskrit": "कालोऽस्मि लोकक्षयकृत्प्रवृद्धो\nलोकान्समाहर्तुमिह प्रवृत्तः ।\nऋतेऽपि त्वां न भविष्यन्ति सर्वे\nयेऽवस्थिताः प्रत्यनीकेषु योधाः ।।",
+        "transliteration": "kālo 'smi loka-kṣhaya-kṛit pravṛiddho\nlokān samāhartum iha pravṛittaḥ\nṛite 'pi tvāṁ na bhaviṣhyanti sarve\nye 'vasthitāḥ pratyanīkeṣhu yodhāḥ",
+        "meaning": "I am mighty Time, the source of destruction that comes to end the worlds. Even without your participation, all these warriors arrayed in the opposing army shall cease to exist.",
+        "translation": "Time changes everything — even big feelings pass like clouds.",
+        "story": "Time is like a giant clock that changes the seasons. Even the biggest storms always end.",
+        "power": "This feeling will pass.",
+        "key_takeaway": "Everything changes — big feelings pass like clouds.",
+        "tags": [
+          "impermanence",
+          "time",
+          "hope",
+          "balance"
+        ]
+      },
+      {
+        "title": "Everything Has a Season",
+        "chapter": 2,
+        "verse": "27",
+        "verse_ref": "2.27",
+        "content": "Nothing stays the same forever — not winter, not a bad day, not a feeling. Every ending is just a seed for something new.",
+        "sanskrit": "जातस्य हि ध्रुवो मृत्युर्ध्रुवं जन्म मृतस्य च ।\nतस्मादपरिहार्येऽर्थे न त्वं शोचितुमर्हसि ।।",
+        "transliteration": "jātasya hi dhruvo mṛityur dhruvaṁ janma mṛitasya cha\ntasmād aparihārye 'rthe na tvaṁ śhochitum arhasi",
+        "meaning": "Death is certain for the born, and rebirth is certain for the dead. Therefore, you should not lament over the inevitable.",
+        "translation": "Every ending brings a new beginning.",
+        "story": "When a beautiful flower fades away, it leaves seeds so new flowers can grow next year. The magic never really ends, it just changes shape.",
+        "power": "Every ending brings something new.",
+        "key_takeaway": "Change is a natural part of life, and it brings new beginnings.",
+        "tags": [
+          "impermanence",
+          "perspective",
+          "hope",
+          "humility"
+        ]
       }
     ],
-    "illustration": "/illustrations/kids/mirror6.png",
-    "audio": "/audio/kids/mirror6.mp3"
+    "stories": [
+      {
+        "id": "s6_1",
+        "title": "The Hero of Light",
+        "type": "wonder",
+        "duration_minutes": 3,
+        "content": "Long ago, the animals in the great forest began to feel afraid. The sun seemed dimmer. The birds sang less. The flowers drooped. Nobody knew what was wrong, but everything felt heavy and sad. Then one morning, a golden deer appeared at the edge of the forest. Wherever it walked, the grass became greener. The birds began to sing again. The flowers lifted their heads. The animals didn't understand how — but they felt it: something good had come back. The oldest owl sat on a branch and nodded wisely. 'It always does,' she said. 'Whenever the forest needs it most, goodness always finds a way back. It has never failed yet.'",
+        "moral": "No matter how dark things seem, goodness always returns.",
+        "tags": [
+          "hope",
+          "dharma",
+          "justice",
+          "time"
+        ]
+      },
+      {
+        "id": "s6_2",
+        "title": "The Season of the Seed",
+        "type": "bedtime",
+        "duration_minutes": 3,
+        "content": "In autumn, a little girl named Bea watched her favourite rose bush lose all its flowers. Then its leaves turned yellow. Then they fell. Then even the branches looked bare and brown. 'It's dying,' she said sadly to her father. 'Watch,' was all he said. He did not explain. Through winter, Bea watched. She waited. Then, one March morning, she ran outside to find a tiny green bud pushing out of the very same branch. By May, the roses were back — more beautiful than before. Bea sat beside the bush for a long time. She was thinking about the things in her own life that sometimes went away for a while... and then came back.",
+        "moral": "Every ending is a beginning in disguise.",
+        "tags": [
+          "impermanence",
+          "hope",
+          "perspective",
+          "nature"
+        ]
+      },
+      {
+        "id": "s6_3",
+        "title": "The Cloud That Cried",
+        "type": "playful",
+        "duration_minutes": 2,
+        "content": "One day, a big grey cloud floated over the playground, feeling very heavy and sad. It had so many feelings inside it that it started to rain — big, splashy, heavy drops. The children ran inside. The cloud felt worse. But then — slowly — the rain let out all those heavy feelings. The cloud got lighter. And lighter. And then, as if by magic, the sun peeked through. A rainbow appeared. The children ran back outside, laughing and jumping in the puddles. The cloud, now soft and white and fluffy, drifted happily onwards. 'That's what feelings do,' said the cloud quietly. 'They come, they rain, and then they clear.'",
+        "moral": "Big feelings don't last forever. Let them pass like clouds.",
+        "tags": [
+          "impermanence",
+          "emotions",
+          "hope",
+          "balance"
+        ]
+      }
+    ],
+    "activities": [
+      {
+        "id": "a6_1",
+        "title": "The Seasons Wheel",
+        "type": "creative",
+        "duration_minutes": 15,
+        "materials": [
+          "paper plate",
+          "crayons",
+          "split pin (optional)"
+        ],
+        "instructions": [
+          "Divide a paper plate into four sections and draw the four seasons — sun, leaves, snow, flowers.",
+          "Talk about what changes in each season and what stays the same (the tree, the sky, the earth).",
+          "Point to the wheel and say: 'Our feelings and days are like seasons — they keep going round.'",
+          "Ask: 'What season does today feel like for you?' There are no wrong answers.",
+          "Spin the wheel together and talk about what comes after each season."
+        ],
+        "parent_note": "This activity builds emotional resilience by making impermanence feel safe and cyclical rather than scary. It also opens a natural window to discuss difficult emotions without pressure.",
+        "tags": [
+          "impermanence",
+          "emotions",
+          "perspective",
+          "creative"
+        ]
+      },
+      {
+        "id": "a6_2",
+        "title": "Cloud Watching",
+        "type": "mindfulness",
+        "duration_minutes": 10,
+        "materials": [
+          "outdoors",
+          "a blanket"
+        ],
+        "instructions": [
+          "Lie on a blanket outside and look up at the sky together.",
+          "Watch the clouds move. Notice how they change shape and drift away.",
+          "Say: 'Our feelings are like clouds. They come, they float by, and they go.'",
+          "Ask your child to name a feeling and then watch it 'float away' with the cloud.",
+          "Stay until a cloud disappears completely and feel the silence after."
+        ],
+        "parent_note": "Cloud watching is a classic mindfulness practice that is naturally captivating for young children. The visual metaphor of feelings as clouds is immediately understood and deeply comforting.",
+        "tags": [
+          "impermanence",
+          "mindfulness",
+          "emotions",
+          "nature"
+        ]
+      },
+      {
+        "id": "a6_3",
+        "title": "Plant a Seed",
+        "type": "nature",
+        "duration_minutes": 15,
+        "materials": [
+          "a seed",
+          "soil",
+          "small pot",
+          "water"
+        ],
+        "instructions": [
+          "Together, plant a single seed in a small pot of soil.",
+          "Talk about what the seed goes through: darkness, waiting, pushing up through the soil.",
+          "Ask: 'Do you think the seed knows it will become a flower?'",
+          "Water it each day and notice changes — or the lack of them at first.",
+          "When the sprout appears, celebrate: 'Something was growing even when we couldn't see it!'"
+        ],
+        "parent_note": "Waiting for a seed to sprout is one of the most powerful real-world lessons in change, patience, and trust. Connect it back to difficult times in your child's life — things that seemed stuck but were quietly growing.",
+        "tags": [
+          "impermanence",
+          "hope",
+          "patience",
+          "nature"
+        ]
+      }
+    ],
+    "tags": [
+      "perspective",
+      "balance",
+      "impermanence",
+      "time",
+      "hope",
+      "justice",
+      "dharma",
+      "humility"
+    ]
   },
   {
     "id": 7,
+    "source": "mirror",
+    "target_age": [
+      "3-6"
+    ],
     "chapter": 7,
     "title": "The Choice Mirror: I Can Choose",
     "theme": "Freedom",
+    "difficulty": "Beginner",
+    "illustration": "/illustrations/mirror/ch7.png",
+    "icon": "/illustrations/mirror/mirror7.png",
+    "audio": "/audio/kids/mirror7.mp3",
     "topics": [
       {
         "title": "Let It Go",
-        "content": "If you feel upset, you can let it go like a balloon flying away.",
-        "verse": "18.66",
-        "sloka": "सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज ।",
-        "translation": "Let go and feel free.",
-        "power": "I can let go."
+        "chapter": 18,
+        "verse": "66",
+        "verse_ref": "18.66",
+        "content": "When you feel really worried, you can close your eyes, take a big breath, and let the worry float away. You are always held safe.",
+        "sanskrit": "सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज ।\nअहं त्वां सर्वपापेभ्यो मोक्षयिष्यामि मा शुचः ।।",
+        "transliteration": "sarva-dharmān parityajya mām ekaṁ śharaṇaṁ vraja\nahaṁ tvāṁ sarva-pāpebhyo mokṣhayiṣhyāmi mā śhucha",
+        "meaning": "Abandon all varieties of religion and just surrender unto Me. I shall deliver you from all sinful reactions; do not fear.",
+        "translation": "Let go of all your worries — you are always safe and loved.",
+        "story": "Close your eyes and fall back — God's arms are always there to catch you and keep you safe from any worry.",
+        "power": "I let go and feel free.",
+        "key_takeaway": "Letting go of worry brings true freedom.",
+        "tags": [
+          "surrender",
+          "fear-relief",
+          "protection",
+          "freedom"
+        ]
       },
       {
         "title": "Choose Kindness",
-        "content": "Every day, you can choose to be kind, brave, and happy.",
-        "verse": "18.63",
-        "sloka": "विमृश्यैतदशेषेण यथेच्छसि तथा कुरु ॥",
-        "translation": "You can choose what to do.",
-        "power": "I choose kindness."
+        "chapter": 18,
+        "verse": "63",
+        "verse_ref": "18.63",
+        "content": "Every day, lots of little moments ask you to make a choice. You can choose to be kind, brave, or happy. The choice is always yours!",
+        "sanskrit": "इति ते ज्ञानमाख्यातं गुह्याद्गुह्यतरं मया ।\nविमृश्यैतदशेषेण यथेच्छसि तथा कुरु ।।",
+        "transliteration": "iti te jñānam ākhyātaṁ guhyād guhyataraṁ mayā\nvimṛiśhyaitad aśheṣheṇa yathechchhasi tathā kuru",
+        "meaning": "Thus, I have explained to you the most confidential of all knowledge. Deliberate on this fully, and then do what you wish to do.",
+        "translation": "Think carefully, then choose what feels right in your heart.",
+        "story": "Imagine a path with many turns. God gives you a map and light, but YOU are the one who chooses which way to walk!",
+        "power": "I can choose kindness.",
+        "key_takeaway": "You can choose to be kind, brave, and happy every day.",
+        "tags": [
+          "free-will",
+          "wisdom",
+          "decisions",
+          "sovereignty"
+        ]
       }
     ],
-    "illustration": "/illustrations/kids/mirror7.png",
-    "audio": "/audio/kids/mirror7.mp3"
+    "stories": [
+      {
+        "id": "s7_1",
+        "title": "The Trust Fall",
+        "type": "bedtime",
+        "duration_minutes": 3,
+        "content": "At the end of a long, worried day, little Kiran couldn't sleep. His mind was full of questions. What if it rains on the picnic? What if he forgot his lines in the play? What if, what if, what if? His grandmother came in and sat beside him. 'Kiran,' she said softly, 'do you know what it feels like to fall backwards into someone's arms and know they will always catch you?' Kiran shook his head. She stood him up carefully, positioned herself behind him, and said, 'Trust.' Kiran leaned back. And she caught him. Every single time. 'That is how the universe holds you,' she said, tucking him in. 'You just have to let yourself fall.' Kiran closed his eyes. And for the first time all day, his mind was quiet.",
+        "moral": "When you let go of worry, you find you are already held.",
+        "tags": [
+          "surrender",
+          "trust",
+          "fear-relief",
+          "protection"
+        ]
+      },
+      {
+        "id": "s7_2",
+        "title": "The Path with Many Turns",
+        "type": "wonder",
+        "duration_minutes": 3,
+        "content": "Far away in an enchanted wood, there was a path that split into many directions at every turn. A young girl named Lena stood at the very first fork, unsure which way to go. Then a warm light appeared beside her — not loud, not pushy, just quietly glowing. 'I can show you the whole map,' it said gently, 'and light up whatever path you choose. But the choosing — that is always yours.' Lena looked at the two paths. One felt comfortable. One felt exciting. She took a breath, listened to something deep in her heart, and chose. The light went with her. And at every fork after that, it was there again — not choosing for her, but always lighting the way.",
+        "moral": "You are always guided, but the choice is always yours.",
+        "tags": [
+          "free-will",
+          "wisdom",
+          "decisions",
+          "sovereignty"
+        ]
+      },
+      {
+        "id": "s7_3",
+        "title": "The Kindness Fork",
+        "type": "everyday",
+        "duration_minutes": 2,
+        "content": "Rehan had two choices. At lunchtime, he had one last biscuit. His friend Sasha had dropped hers on the floor. He could keep his biscuit — nobody would know. Or he could share it — even though it was his last one. Rehan held the biscuit and thought very carefully. He thought about how he would feel each way. He thought about Sasha's face. He walked over and broke it in half. Sasha's face lit up like the sun. And Rehan — who had been holding a whole biscuit a moment ago — felt somehow fuller than before. He had chosen kindness. And kindness, it turns out, is its own kind of food.",
+        "moral": "Every day, you get to choose kindness. And kindness always fills you up.",
+        "tags": [
+          "free-will",
+          "kindness",
+          "decisions",
+          "empathy"
+        ]
+      }
+    ],
+    "activities": [
+      {
+        "id": "a7_1",
+        "title": "The Worry Cloud Release",
+        "type": "mindfulness",
+        "duration_minutes": 5,
+        "materials": [
+          "paper",
+          "crayons",
+          "optional: outdoor space"
+        ],
+        "instructions": [
+          "Ask your child to draw their biggest worry as a cloud on paper.",
+          "Let them colour it however they like — grey, stormy, full of scribbles.",
+          "Then together, take three big deep breaths and blow at the cloud on the paper.",
+          "Say together: 'We let go. We are safe. We are held.'",
+          "Crumple the cloud up and throw it away — or take it outside and let the wind take it."
+        ],
+        "parent_note": "This is a somatic release exercise appropriate for young children. The physical act of crumpling and discarding the worry creates a felt sense of letting go. Always follow up with a warm hug.",
+        "tags": [
+          "surrender",
+          "fear-relief",
+          "mindfulness",
+          "emotions"
+        ]
+      },
+      {
+        "id": "a7_2",
+        "title": "My Choice Map",
+        "type": "creative",
+        "duration_minutes": 10,
+        "materials": [
+          "paper",
+          "crayons"
+        ],
+        "instructions": [
+          "Draw a simple map on paper with a starting point and a few 'choice forks' along the way.",
+          "At each fork, write two options — one kind, one unkind (e.g., 'Share' vs 'Keep').",
+          "Trace the 'kind choice' path together with a bright colour.",
+          "Ask: 'How does following this path make you feel?'",
+          "Put the map somewhere visible and look at it together whenever a hard choice comes up."
+        ],
+        "parent_note": "Making choices visible as a 'map' helps children experience their own agency. Over time, you can add real situations your child has faced and trace the paths they actually chose.",
+        "tags": [
+          "free-will",
+          "decisions",
+          "kindness",
+          "creative"
+        ]
+      },
+      {
+        "id": "a7_3",
+        "title": "The Trust Fall Game",
+        "type": "movement",
+        "duration_minutes": 5,
+        "materials": [
+          "open space",
+          "a trusted adult"
+        ],
+        "instructions": [
+          "Stand behind your child with your arms ready.",
+          "Ask them to cross their arms over their chest and fall backwards — slowly — into your arms.",
+          "Catch them every time.",
+          "After a few tries, ask: 'How did it feel when you let yourself fall?'",
+          "Connect it to letting go of worries: 'Life catches us too, just like that.'"
+        ],
+        "parent_note": "The trust fall is one of the most powerful embodied experiences of surrender. Always ensure your child feels completely safe. The conversation afterwards is where the teaching lands — don't rush it.",
+        "tags": [
+          "surrender",
+          "trust",
+          "protection",
+          "movement"
+        ]
+      }
+    ],
+    "tags": [
+      "surrender",
+      "free-will",
+      "wisdom",
+      "fear-relief",
+      "forgiveness",
+      "protection",
+      "sovereignty",
+      "decisions"
+    ]
   },
   {
     "id": 8,
+    "source": "mirror",
+    "target_age": [
+      "3-6"
+    ],
     "chapter": 8,
     "title": "The Victory Mirror: Shine Bright",
     "theme": "Success",
+    "difficulty": "Beginner",
+    "illustration": "/illustrations/mirror/ch8.png",
+    "icon": "/illustrations/mirror/mirror8.png",
+    "audio": "/audio/kids/mirror8.mp3",
     "topics": [
       {
         "title": "Think and Do",
-        "content": "When you think good thoughts and do good actions, you shine bright like a star!",
-        "verse": "18.78",
-        "sloka": "यत्र योगेश्वरः कृष्णो यत्र पार्थो धनुर्धरः ।",
-        "translation": "Good thinking and action bring success.",
-        "power": "I shine bright!"
+        "chapter": 18,
+        "verse": "78",
+        "verse_ref": "18.78",
+        "content": "When wisdom and courage work together — like two best friends — amazing things always happen. You have both inside you!",
+        "sanskrit": "यत्र योगेश्वरः कृष्णो यत्र पार्थो धनुर्धरः ।\nतत्र श्रीर्विजयो भूतिर्ध्रुवा नीतिर्मतिर्मम ।।",
+        "transliteration": "yatra yogeśhvaraḥ kṛiṣhṇo yatra pārtho dhanur-dharaḥ\ntatra śhrīr vijayo bhūtir dhruvā nītir matir mama",
+        "meaning": "Wherever there is Shri Krishna, the master of all mystic power, and wherever there is Arjuna, the supreme archer, there will also certainly be opulence, victory, extraordinary power, and morality.",
+        "translation": "When wisdom and courage join together, victory is certain.",
+        "story": "When Wisdom (Krishna) and Courage (Arjuna) play on the same team, they always win the game of Life!",
+        "power": "I am wise AND brave!",
+        "key_takeaway": "When wisdom and courage work together, you always win.",
+        "tags": [
+          "wisdom",
+          "harmony",
+          "action",
+          "success"
+        ]
       }
     ],
-    "illustration": "/illustrations/kids/mirror8.png",
-    "audio": "/audio/kids/mirror8.mp3"
+    "stories": [
+      {
+        "id": "s8_1",
+        "title": "The Best Team in the World",
+        "type": "wonder",
+        "duration_minutes": 3,
+        "content": "In the great game of Life, there were two players. The first was Wisdom — calm, thoughtful, always seeing the big picture. The second was Courage — bold, energetic, always ready to leap. Separately, each one was good. But together? Together they were unstoppable. When a dark forest blocked the path, Wisdom said, 'I know the way through.' When a raging river blocked the crossing, Courage said, 'I'll carry you across.' Every challenge met another — and together, they met every single one. At the end of the great game, the scoreboard didn't matter. Because Wisdom and Courage had discovered something bigger: they were not two players. They were one.",
+        "moral": "Your wisdom and your courage together make you unstoppable.",
+        "tags": [
+          "wisdom",
+          "courage",
+          "harmony",
+          "success"
+        ]
+      },
+      {
+        "id": "s8_2",
+        "title": "Zara's Big Recital",
+        "type": "everyday",
+        "duration_minutes": 3,
+        "content": "Zara had practised her dance for eight whole weeks. She knew every step. But on the day of the recital, standing backstage in her sparkly costume, she felt her legs turn to jelly. 'I can't do it,' she whispered. Her dance teacher crouched down beside her. 'You have done the hard part. You have been wise — you prepared. Now be brave — step onto the stage.' Zara thought about all those weeks of practice. She thought about the wisdom in her feet that knew every single move. She took a deep breath. She walked out. And when the music started — her feet just knew. Wisdom and courage danced together. And the audience clapped and clapped and clapped.",
+        "moral": "Preparation is wisdom. Stepping forward is courage. Together, they shine.",
+        "tags": [
+          "wisdom",
+          "courage",
+          "success",
+          "action"
+        ]
+      },
+      {
+        "id": "s8_3",
+        "title": "The Mirror Says Shine",
+        "type": "bedtime",
+        "duration_minutes": 2,
+        "content": "On the last night before school started, little Omi stood in front of the mirror looking at himself for a long time. 'What if I'm not good enough?' he wondered quietly. Then the mirror — his Magic Mirror — seemed to glow just a little. And in it, he didn't just see his face. He saw his light. He saw his kindness from Chapter 5. He saw his brave choices from Chapter 7. He saw his effort from Chapter 2 and his calm mind from Chapter 3. He saw all of himself — not perfect, but whole. Shining. He stood up straighter. 'I'm going to shine,' he said. And the mirror smiled back. Because it had known all along.",
+        "moral": "Everything you have learned is already inside you. Now go and shine.",
+        "tags": [
+          "success",
+          "confidence",
+          "wisdom",
+          "identity"
+        ]
+      }
+    ],
+    "activities": [
+      {
+        "id": "a8_1",
+        "title": "My Wisdom and Courage Shield",
+        "type": "creative",
+        "duration_minutes": 15,
+        "materials": [
+          "paper",
+          "crayons",
+          "scissors"
+        ],
+        "instructions": [
+          "Draw and cut out a shield shape.",
+          "Divide it into two halves — one for Wisdom, one for Courage.",
+          "On the Wisdom side, draw or write something smart you know or have learned.",
+          "On the Courage side, draw or write something brave you have done.",
+          "Decorate and display your shield where you can see it every day.",
+          "Before any big moment, look at your shield and say: 'I have both. I can do this.'"
+        ],
+        "parent_note": "This activity integrates all the lessons from the Mirror journey. By naming their own wisdom and courage, children build genuine self-efficacy — the belief that they can meet challenges.",
+        "tags": [
+          "wisdom",
+          "courage",
+          "success",
+          "identity",
+          "creative"
+        ]
+      },
+      {
+        "id": "a8_2",
+        "title": "The Magic Mirror Reflection",
+        "type": "mindfulness",
+        "duration_minutes": 10,
+        "materials": [
+          "a mirror"
+        ],
+        "instructions": [
+          "Stand with your child in front of a mirror.",
+          "Together, look into each other's eyes through the reflection.",
+          "Take turns completing these sentences out loud:",
+          "  'One thing I know how to do is...'",
+          "  'One time I was brave was when...'",
+          "  'One thing I love about myself is...'",
+          "End by saying together: 'We are wise. We are brave. We shine!'"
+        ],
+        "parent_note": "This closing ritual for the whole Mirror journey integrates the entire curriculum. Doing it as a shared practice rather than directing it at the child makes it feel celebratory, not evaluated.",
+        "tags": [
+          "wisdom",
+          "courage",
+          "identity",
+          "mindfulness",
+          "success"
+        ]
+      },
+      {
+        "id": "a8_3",
+        "title": "The Victory Celebration",
+        "type": "celebration",
+        "duration_minutes": 10,
+        "materials": [
+          "anything you like!"
+        ],
+        "instructions": [
+          "Look back at all the activities your child has done through the Mirror journey.",
+          "Let your child pick their favourite story, activity, or power word from any chapter.",
+          "Celebrate however they choose — dance, draw, tell the story to someone, or simply sit and say it aloud.",
+          "End with: 'You have learned so much. Your mirror is shining bright. What will you shine on next?'"
+        ],
+        "parent_note": "This is a closing ceremony for the Mirror curriculum. Celebration rituals consolidate learning and create positive emotional anchors. The final open question points the child forward — learning doesn't end here, it begins.",
+        "tags": [
+          "success",
+          "celebration",
+          "reflection",
+          "identity"
+        ]
+      }
+    ],
+    "tags": [
+      "wisdom",
+      "harmony",
+      "action",
+      "success"
+    ]
+  },
+  {
+    "id": 9,
+    "source": "mirror",
+    "target_age": [
+      "3-6"
+    ],
+    "chapter": 10,
+    "title": "The Brilliant Mirror: God in Everything",
+    "theme": "Wonder",
+    "difficulty": "Beginner",
+    "illustration": "/illustrations/mirror/ch10.png",
+    "icon": "/illustrations/mirror/mirror9.png",
+    "audio": "/audio/kids/mirror9.mp3",
+    "topics": [
+      {
+        "title": "Finding God in Brilliance",
+        "chapter": 10,
+        "verse": "41",
+        "verse_ref": "10.41",
+        "content": "Wherever you see something truly beautiful — a rainbow, a firefly, a kind smile — know that a spark of the Divine is shining through it.",
+        "sanskrit": "यद्यद्विभूतिमत्सत्त्वं श्रीमदूर्जितमेव वा ।\nतत्तदेवावगच्छ त्वं मम तेजोंऽशसम्भवम् ।।",
+        "transliteration": "yad yad vibhūtimat sattvaṁ śhrīmad ūrjitam eva vā\ntat tad evāvagachchha tvaṁ mama tejo 'ṁśha-sambhavam",
+        "meaning": "Know that all opulent, beautiful, and glorious creations spring from but a spark of My splendour.",
+        "translation": "Every beautiful and brilliant thing you see is a spark of the Divine.",
+        "story": "The most dazzling things in the world — the brightest star, the most beautiful song, the kindest heart — are all little windows into something much bigger and more wonderful.",
+        "power": "I see the Divine in beautiful things.",
+        "key_takeaway": "Every beautiful and brilliant thing carries a spark of the Divine.",
+        "tags": [
+          "wonder",
+          "divinity",
+          "beauty",
+          "connection"
+        ]
+      }
+    ],
+    "stories": [
+      {
+        "id": "s9_1",
+        "title": "The Firefly Night",
+        "type": "wonder",
+        "duration_minutes": 3,
+        "content": "On a summer night, little Pia and her Papa sat in the garden after dark. Suddenly, a single firefly lit up near the fence — blink. Then another. Then ten. Then a hundred. The whole garden was full of tiny living lights, floating and blinking like stars that had come down to dance. 'Papa, where do they get their light from?' Pia whispered, afraid to break the magic. Papa was quiet for a moment. 'I think,' he said slowly, 'they are showing us something. That the same light that is in the stars is in every living thing. Even in you and me.' Pia held very still and looked at her own hand in the darkness. She almost thought she could see it glowing.",
+        "moral": "The same divine light lives in every beautiful, brilliant thing — including you.",
+        "tags": [
+          "wonder",
+          "divinity",
+          "beauty",
+          "connection"
+        ]
+      },
+      {
+        "id": "s9_2",
+        "title": "The Most Beautiful Thing",
+        "type": "everyday",
+        "duration_minutes": 2,
+        "content": "One afternoon, the teacher asked the class: 'What is the most beautiful thing you have ever seen?' The children answered one by one. 'A rainbow!' said one. 'My mummy's smile!' said another. 'Snow!' 'A butterfly!' 'The sea!' 'My dog's eyes!' The teacher wrote every single answer on the board. Then she stood back and said: 'Look. Every one of you saw something different. But do you notice — every beautiful thing you named has a kind of light inside it? A rainbow is made of light. A smile has a light behind the eyes. Snow glitters. Butterflies shimmer. The sea sparkles. God,' she said quietly, 'is very fond of light. And so are you.'",
+        "moral": "Wherever you find beauty, you find a spark of the Divine.",
+        "tags": [
+          "wonder",
+          "beauty",
+          "divinity",
+          "gratitude"
+        ]
+      },
+      {
+        "id": "s9_3",
+        "title": "The Last Mirror",
+        "type": "bedtime",
+        "duration_minutes": 3,
+        "content": "At the end of the Magic Mirror journey, a child looked into the mirror one final time. But this time, the mirror was different. Instead of just showing the child's face, it showed everything: the stars outside the window, the sleeping cat on the bed, the moonlight on the floor, Mummy's sleeping face in the next room, the roots of the tree outside reaching deep into the earth. All of it — all of them — were in the mirror at once, glowing softly together. 'We are all connected,' the child realised. 'All the light is the same light.' The child smiled. The mirror smiled back. And somewhere very far away — and also very close — something immense and loving and brilliant smiled too.",
+        "moral": "You, and everything beautiful around you, are all made of the same light.",
+        "tags": [
+          "wonder",
+          "connection",
+          "divinity",
+          "identity",
+          "love"
+        ]
+      }
+    ],
+    "activities": [
+      {
+        "id": "a9_1",
+        "title": "My Beautiful Things Collection",
+        "type": "creative",
+        "duration_minutes": 15,
+        "materials": [
+          "a small box or bag",
+          "outdoor walk"
+        ],
+        "instructions": [
+          "Go on a slow 'beauty walk' together — no rushing, just looking.",
+          "Collect 3–5 things that feel beautiful to your child: a leaf, a smooth stone, a feather, a flower.",
+          "Back home, lay them out and look at each one closely.",
+          "For each item, ask: 'What makes this beautiful to you?'",
+          "Keep the collection somewhere special and add to it whenever something beautiful is found."
+        ],
+        "parent_note": "This activity cultivates attention and wonder — two of the deepest spiritual faculties. Over time, children begin to notice beauty automatically, which is both a wellbeing practice and a way of experiencing the sacred in everyday life.",
+        "tags": [
+          "wonder",
+          "beauty",
+          "nature",
+          "divinity"
+        ]
+      },
+      {
+        "id": "a9_2",
+        "title": "Spark Spotting",
+        "type": "observation",
+        "duration_minutes": "ongoing",
+        "materials": [
+          "none"
+        ],
+        "instructions": [
+          "Introduce a simple game for the week: 'Spark Spotting.'",
+          "Whenever anyone in the family sees something truly beautiful — a sunset, a kind act, a piece of music that makes you feel something — call out: 'Spark!'",
+          "At dinner each evening, each person shares their best Spark of the day.",
+          "Ask: 'Where do you think that spark comes from?'"
+        ],
+        "parent_note": "This ongoing game trains the attention to notice beauty as a daily practice. The dinner ritual also builds the habit of gratitude and shared wonder, which is one of the most bonding things a family can do together.",
+        "tags": [
+          "wonder",
+          "divinity",
+          "gratitude",
+          "family"
+        ]
+      },
+      {
+        "id": "a9_3",
+        "title": "Draw Your Own Mirror",
+        "type": "creative",
+        "duration_minutes": 15,
+        "materials": [
+          "paper",
+          "crayons",
+          "glitter or gold pen (optional)"
+        ],
+        "instructions": [
+          "Draw a large mirror frame on paper — as beautiful and decorative as you like.",
+          "Inside the mirror, instead of drawing a face, draw all the things that feel like 'you': your favourite colour, things you love, your pet, your family, a star.",
+          "Around the outside of the mirror, draw all the beautiful things in the world that you have noticed.",
+          "Look at the complete picture and say: 'All of this — inside and outside — is connected. All of it is light.'"
+        ],
+        "parent_note": "This is the final integrative activity for the entire Mirror curriculum. It visually connects the internal self (inner light, identity) with the external world (beauty, divinity) — completing the circle of the whole journey.",
+        "tags": [
+          "wonder",
+          "identity",
+          "connection",
+          "creative",
+          "reflection"
+        ]
+      }
+    ],
+    "tags": [
+      "wonder",
+      "divinity",
+      "beauty",
+      "connection",
+      "gratitude"
+    ]
   }
 ]

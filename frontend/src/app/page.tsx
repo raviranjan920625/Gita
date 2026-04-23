@@ -19,8 +19,8 @@ const LIFE_STAGES = [
   {
     id: '3-6',
     age: '3 – 6',
-    theme: 'The Magic Spark',
-    objective: 'Discovering your inner light and kindness as a superpower.',
+    theme: 'The Magic Mirror',
+    objective: 'Discovering your inner light, making good choices, and being kind — one mirror at a time.',
     focus: 'Mirror',
     icon: <Sparkles />,
     color: '#FFB300',
@@ -105,14 +105,14 @@ export default function LandingPortal() {
       {/* Portal Expansion Overlay */}
       <AnimatePresence>
         {expandingStage && (
-          <motion.div 
+          <motion.div
             initial={{ clipPath: 'circle(10% at 50% 50%)', opacity: 0 }}
             animate={{ clipPath: 'circle(150% at 50% 50%)', opacity: 1 }}
             transition={{ duration: 0.8, ease: "easeInOut" }}
             className={styles.portalOverlay}
             style={{ backgroundColor: expandingStage.color }}
           >
-            <motion.div 
+            <motion.div
               initial={{ opacity: 0, scale: 0.8 }}
               animate={{ opacity: 1, scale: 1 }}
               transition={{ delay: 0.3 }}
