@@ -1,7 +1,7 @@
 .container {
   min-height: 100vh;
-  background: #FFB300; /* Matching the home card color */
-  color: #5D4037;
+  background: var(--bg-deep);
+  color: var(--text-main);
   padding: 2rem;
   display: flex;
   flex-direction: column;
@@ -54,7 +54,7 @@
 .gridHeadline {
   font-size: 3.5rem;
   font-family: 'Cinzel', serif;
-  color: #fff;
+  color: var(--heading-text);
   margin-bottom: 3rem;
   text-shadow: 0 4px 10px rgba(0,0,0,0.1);
 }
@@ -66,12 +66,13 @@
 }
 
 .gridItem {
-  background: rgba(255, 255, 255, 0.9);
+  background: var(--card-bg);
   padding: 3rem 2rem;
   border-radius: 40px;
   cursor: pointer;
   box-shadow: 0 20px 40px rgba(0,0,0,0.1);
   transition: all 0.3s ease;
+  border: 1px solid var(--glass-border);
 }
 
 .gridIcon {
@@ -98,6 +99,7 @@
   font-size: 1.4rem;
   font-weight: 800;
   font-family: 'Cinzel', serif;
+  color: var(--heading-text);
 }
 
 .progress {
@@ -133,11 +135,11 @@
   display: grid;
   grid-template-columns: 1fr 1.2fr;
   gap: 4rem;
-  background: rgba(255, 255, 255, 0.6);
+  background: var(--card-bg);
   backdrop-filter: blur(20px);
   padding: 4rem;
   border-radius: 50px;
-  border: 2px solid #fff;
+  border: 1px solid var(--glass-border);
   box-shadow: 0 30px 60px rgba(0, 0, 0, 0.05);
 }
 
@@ -188,18 +190,18 @@
   font-size: 3rem;
   font-family: 'Cinzel', serif;
   margin-bottom: 2rem;
-  color: #5D4037;
+  color: var(--heading-text);
   line-height: 1.2;
 }
 
 .storyBox {
-  background: rgba(255, 255, 255, 0.8);
+  background: rgba(128, 128, 128, 0.1);
   padding: 2rem;
   border-radius: 30px;
   font-size: 1.4rem;
   line-height: 1.6;
   margin-bottom: 2.5rem;
-  color: #6D4C41;
+  color: var(--text-main);
   border: 1px solid rgba(0,0,0,0.05);
 }
 
@@ -227,7 +229,7 @@
 .translation {
   font-size: 1.2rem;
   font-weight: 600;
-  color: #5D4037;
+  color: var(--text-main);
 }
 
 .powerBox {
@@ -264,8 +266,8 @@
 }
 
 .navBtn {
-  background: #fff;
-  border: none;
+  background: var(--card-bg);
+  border: 1px solid var(--glass-border);
   width: 60px;
   height: 60px;
   border-radius: 50%;
@@ -274,7 +276,7 @@
   justify-content: center;
   cursor: pointer;
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
-  color: #5D4037;
+  color: var(--text-main);
   transition: all 0.3s ease;
 }
 
@@ -628,12 +630,13 @@
 }
 
 .nodeCard {
-  background: rgba(255, 255, 255, 0.92);
+  background: var(--card-bg);
   padding: 1.2rem 2rem;
   border-radius: 20px;
   box-shadow: 0 8px 20px rgba(0,0,0,0.08);
   width: 260px;
   flex-shrink: 0;
+  border: 1px solid var(--glass-border);
 }
 
 .nodeLeft .nodeCard {
@@ -657,7 +660,7 @@
   font-size: 1.15rem;
   font-family: 'Cinzel', serif;
   margin-bottom: 0;
-  color: #5D4037;
+  color: var(--heading-text);
   line-height: 1.3;
 }
 

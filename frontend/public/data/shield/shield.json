@@ -1,12 +1,15 @@
 [
   {
-    "chapter": 1,
-    "verse": 1,
-    "title": "The Starting Line",
+    "id": 1,
+    "source": "teens",
     "target_age": [
       "Teens",
       "Young Adult"
     ],
+    "chapter": 1,
+    "verse": 1,
+    "title": "The Starting Line",
+    "theme": "Self-Awareness",
     "difficulty": "Intermediate",
     "tags": [
       "purpose",
@@ -14,22 +17,26 @@
       "awareness",
       "conflict"
     ],
+    "key_takeaway": "Understanding the internal battle between right and wrong. Gita's opening wisdom on self-awareness.",
     "seo_description": "Understanding the internal battle between right and wrong. Gita's opening wisdom on self-awareness.",
     "sanskrit": "धृतराष्ट्र उवाच\n\nधर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः।\n\nमामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय ।।",
     "transliteration": "dhṛitarāśhtra uvācha\ndharma-kṣhetre kuru-kṣhetre samavetā yuyutsavaḥ\nmāmakāḥ pāṇḍavāśhchaiva kimakurvata sañjaya\n",
     "meaning": "Dhṛtarāṣṭra said: “O Sanjaya, what did my people and the Pāṇḍavas do, gathered together on the holy field of Kurukshetra, eager for battle?”",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "Awareness is step one: before any battle — with exams, friends, or yourself — pause and ask 'what is really happening here?'",
     "illustration": "/assets/illustrations/teens/1_1.png",
     "audio": "/assets/audio/teens/1_1.mp3"
   },
   {
-    "chapter": 2,
-    "verse": 14,
-    "title": "The Weather of the Mind",
+    "id": 2,
+    "source": "teens",
     "target_age": [
       "Kids",
       "Teens"
     ],
+    "chapter": 2,
+    "verse": 14,
+    "title": "The Weather of the Mind",
+    "theme": "Emotional Resilience",
     "difficulty": "Beginner",
     "tags": [
       "resilience",
@@ -37,22 +44,26 @@
       "detachment",
       "emotions"
     ],
+    "key_takeaway": "Ancient wisdom for teen emotional resilience. Learn why feelings are temporary like the weather.",
     "seo_description": "Ancient wisdom for teen emotional resilience. Learn why feelings are temporary like the weather.",
     "sanskrit": "मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदुःखदाः।\n\nआगमापायिनोऽनित्यास्तांस्तितिक्षस्व भारत ।।",
     "transliteration": "mātrā-sparśhās tu kaunteya śhītoṣhṇa-sukha-duḥkha-dāḥ\nāgamāpāyino ’nityās tans-titikṣhasva bhārata\n",
     "meaning": "O son of Kunti! The touches with the matras cause feelings of cold and heat, pleasure and pain; they are of the nature of coming and going and are transient. Bear them, O Descendant of Bharata!",
-    "lifeHack": "Emotional Resilience: Feelings (cold/heat, joy/sorrow) are temporary 'contacts' with the world. Like a bad day at school, they'll pass. Just endure them.",
+    "lifeHack": "Emotions are weather, not climate. A bad mood is a passing cloud, not a permanent forecast. Wait it out.",
     "illustration": "/assets/illustrations/teens/2_14.png",
     "audio": "/assets/audio/teens/2_14.mp3"
   },
   {
-    "chapter": 2,
-    "verse": 19,
-    "title": "The Unbreakable You",
+    "id": 3,
+    "source": "teens",
     "target_age": [
       "Teens",
       "Young Adult"
     ],
+    "chapter": 2,
+    "verse": 19,
+    "title": "The Unbreakable You",
+    "theme": "Identity",
     "difficulty": "Advanced",
     "tags": [
       "identity",
@@ -60,22 +71,26 @@
       "soul",
       "fearlessness"
     ],
+    "key_takeaway": "Discover your true, unbreakable identity beyond the physical body. Overcoming the fear of loss.",
     "seo_description": "Discover your true, unbreakable identity beyond the physical body. Overcoming the fear of loss.",
     "sanskrit": "य एनं वेत्ति हन्तारं यश्चैनं मन्यते हतम्।\n\nउभौ तौ न विजानीतो नायं हन्ति न हन्यते ।।",
     "transliteration": "ya enaṁ vetti hantāraṁ yaśh chainaṁ manyate hatam\nubhau tau na vijānīto nāyaṁ hanti na hanyate\n",
     "meaning": "He who considers It (the self) to be the slayer, and he who thinks of It as slain—both are ignorant. For, the self neither slays nor is being slain.",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "You are not your grades, your body, or your reputation. Those change. The real you does not.",
     "illustration": "/assets/illustrations/teens/2_19.png",
     "audio": "/assets/audio/teens/2_19.mp3"
   },
   {
-    "chapter": 2,
-    "verse": 20,
-    "title": "The Eternal Spark",
+    "id": 4,
+    "source": "teens",
     "target_age": [
       "Kids",
       "Teens"
     ],
+    "chapter": 2,
+    "verse": 20,
+    "title": "The Eternal Spark",
+    "theme": "Inner Light",
     "difficulty": "Beginner",
     "tags": [
       "eternity",
@@ -83,22 +98,26 @@
       "immortality",
       "peace"
     ],
+    "key_takeaway": "Simplified Gita wisdom on the eternal nature of the soul for children and teenagers.",
     "seo_description": "Simplified Gita wisdom on the eternal nature of the soul for children and teenagers.",
     "sanskrit": "न जायते म्रियते वा कदाचि\n\nन्नायं भूत्वा भविता वा न भूयः।\n\nअजो नित्यः शाश्वतोऽयं पुराणो\n\nन हन्यते हन्यमाने शरीरे ।।",
     "transliteration": "na jāyate mriyate vā kadāchin\nnāyaṁ bhūtvā bhavitā vā na bhūyaḥ\najo nityaḥ śhāśhvato ’yaṁ purāṇो\nna hanyate hanyamāne śharīre\n",
     "meaning": "It is never born; it never dies; having come into existence once, it never ceases to exist. Unborn, eternal, perpetual, and primordial, it is not destroyed when the body is destroyed.",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "Fearlessness starts here: if your core self cannot be destroyed, what exactly are you afraid of?",
     "illustration": "/assets/illustrations/teens/2_20.png",
     "audio": "/assets/audio/teens/2_20.mp3"
   },
   {
-    "chapter": 2,
-    "verse": 22,
-    "title": "Changing Clothes",
+    "id": 5,
+    "source": "teens",
     "target_age": [
       "Kids",
       "Teens"
     ],
+    "chapter": 2,
+    "verse": 22,
+    "title": "Changing Clothes",
+    "theme": "Change",
     "difficulty": "Beginner",
     "tags": [
       "change",
@@ -106,22 +125,26 @@
       "body-positivity",
       "soul"
     ],
+    "key_takeaway": "Using the metaphor of clothes to understand the transition of life and death.",
     "seo_description": "Using the metaphor of clothes to understand the transition of life and death.",
     "sanskrit": "वासांसि जीर्णानि यथा विहाय\n\nनवानि गृह्णाति नरोऽपराणि।\n\nतथा शरीराणि विहाय जीर्णा\n\nन्यन्यानि संयाति नवानि देही ।।",
     "transliteration": "vāsānsi jīrṇāni yathā vihāya\nnavāni gṛihṇāti naro ’parāṇi\ntathā śharīrāṇi vihāya jīrṇānya\nnyāni sanyāti navāni dehī\n",
     "meaning": "As after rejecting worn-out clothes, a man takes up other new ones, likewise, after rejecting worn-out bodies, the embodied one unites with other new ones.",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "Change is an upgrade, not a loss. Every phase of life is a new outfit for the same eternal you.",
     "illustration": "/assets/illustrations/teens/2_22.png",
     "audio": "/assets/audio/teens/2_22.mp3"
   },
   {
-    "chapter": 2,
-    "verse": 23,
-    "title": "The Elemental Shield",
+    "id": 6,
+    "source": "teens",
     "target_age": [
       "Teens",
       "Young Adult"
     ],
+    "chapter": 2,
+    "verse": 23,
+    "title": "The Elemental Shield",
+    "theme": "Inner Strength",
     "difficulty": "Intermediate",
     "tags": [
       "protection",
@@ -129,22 +152,26 @@
       "invincibility",
       "courage"
     ],
+    "key_takeaway": "Why the core of your being is untouched by external elements like fire, water, or weapons.",
     "seo_description": "Why the core of your being is untouched by external elements like fire, water, or weapons.",
     "sanskrit": "नैनं छिन्दन्ति शस्त्राणि नैनं दहति पावकः।\n\nन चैनं क्लेदयन्त्यापो न शोषयति मारुतः ।।",
     "transliteration": "nainaṁ chhindanti śhastrāṇi nainaṁ dahati pāvakaḥ\nna chainaṁ kledayantyāpo na śhoṣhayati mārutaḥ\n",
     "meaning": "Weapons cannot cleave It, fire cannot burn It, waters cannot wet It, and wind cannot dry It.",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "No one's words, judgement, or rejection can touch the real you. You are fireproof at the core.",
     "illustration": "/assets/illustrations/teens/2_23.png",
     "audio": "/assets/audio/teens/2_23.mp3"
   },
   {
-    "chapter": 2,
-    "verse": 47,
-    "title": "The Process over the Prize",
+    "id": 7,
+    "source": "teens",
     "target_age": [
       "Teens",
       "Young Adult"
     ],
+    "chapter": 2,
+    "verse": 47,
+    "title": "The Process over the Prize",
+    "theme": "Action & Focus",
     "difficulty": "Intermediate",
     "tags": [
       "productivity",
@@ -152,6 +179,7 @@
       "exams",
       "discipline"
     ],
+    "key_takeaway": "Stop exam anxiety by focusing on effort rather than results. The ultimate productivity life hack.",
     "seo_description": "Stop exam anxiety by focusing on effort rather than results. The ultimate productivity life hack.",
     "sanskrit": "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।\n\nमा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि ।।",
     "transliteration": "karmaṇy-evādhikāras te mā phaleṣhu kadāchana\nmā karma-phala-hetur bhūr mā te saṅgo ’stvakarmaṇi\n",
@@ -161,13 +189,16 @@
     "audio": "/assets/audio/teens/2_47.mp3"
   },
   {
-    "chapter": 2,
-    "verse": 48,
-    "title": "The Steady Anchor",
+    "id": 8,
+    "source": "teens",
     "target_age": [
       "Teens",
       "Young Adult"
     ],
+    "chapter": 2,
+    "verse": 48,
+    "title": "The Steady Anchor",
+    "theme": "Equanimity",
     "difficulty": "Intermediate",
     "tags": [
       "equanimity",
@@ -175,6 +206,7 @@
       "balance",
       "success"
     ],
+    "key_takeaway": "How to maintain mental balance regardless of success or failure. Bhagavad Gita's take on mental health.",
     "seo_description": "How to maintain mental balance regardless of success or failure. Bhagavad Gita's take on mental health.",
     "sanskrit": "योगस्थः कुरु कर्माणि सङ्गं त्यक्त्वा धनञ्जय।\n\nसिद्ध्यसिद्ध्योः समो भूत्वा समत्वं योग उच्यते ।।",
     "transliteration": "yoga-sthaḥ kuru karmāṇi saṅgaṁ tyaktvā dhanañjaya\nsiddhy-asiddhyoḥ samo bhūtvā samatvaṁ yoga uchyate\n",
@@ -184,13 +216,16 @@
     "audio": "/assets/audio/teens/2_48.mp3"
   },
   {
-    "chapter": 2,
-    "verse": 62,
-    "title": "The Chain Reaction",
+    "id": 9,
+    "source": "teens",
     "target_age": [
       "Teens",
       "Young Adult"
     ],
+    "chapter": 2,
+    "verse": 62,
+    "title": "The Chain Reaction",
+    "theme": "Psychology of Desire",
     "difficulty": "Advanced",
     "tags": [
       "desire",
@@ -198,22 +233,26 @@
       "psychology",
       "attachment"
     ],
+    "key_takeaway": "Understanding the psychological link between overthinking, desire, and anger.",
     "seo_description": "Understanding the psychological link between overthinking, desire, and anger.",
     "sanskrit": "ध्यायतो विषयान्पुंसः सङ्गस्तेषूपजायते।\n\nसङ्गात् संजायते कामः कामात्क्रोधोऽभिजायते ।।",
     "transliteration": "dhyāyato viṣhayān puṁsaḥ saṅgas teṣhūpajāyate\nsaṅgāt sañjāyate kāmaḥ kāmāt krodho ’bhijāyate\n",
     "meaning": "When one thinks of objects, attachment to them arises; from attachment, desire is born; from desire, anger arises.",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "The Doom Scroll Effect: overthinking a thing leads to wanting it, wanting it leads to anger when you can't get it. Catch it early.",
     "illustration": "/assets/illustrations/teens/2_62.png",
     "audio": "/assets/audio/teens/2_62.mp3"
   },
   {
-    "chapter": 2,
-    "verse": 63,
-    "title": "The Fog of Anger",
+    "id": 10,
+    "source": "teens",
     "target_age": [
       "Teens",
       "Young Adult"
     ],
+    "chapter": 2,
+    "verse": 63,
+    "title": "The Fog of Anger",
+    "theme": "Anger Management",
     "difficulty": "Advanced",
     "tags": [
       "anger-management",
@@ -221,21 +260,25 @@
       "clarity",
       "decisions"
     ],
+    "key_takeaway": "How anger destroys logic and ruins decision-making. Essential Gita wisdom for temper control.",
     "seo_description": "How anger destroys logic and ruins decision-making. Essential Gita wisdom for temper control.",
     "sanskrit": "क्रोधाद्भवति संमोहः संमोहात्स्मृतिविभ्रमः।\n\nस्मृतिभ्रंशाद् बुद्धिनाशो बुद्धिनाशात्प्रणश्यति ।।",
     "transliteration": "krodhād bhavati sammohaḥ sammohāt smṛiti-vibhramaḥ\nsmṛiti-bhranśhād buddhi-nāśho buddhi-nāśhāt praṇaśhyati\n",
     "meaning": "Anger leads to delusion, which causes the loss of memory; the loss of memory leads to the destruction of discrimination, and with the destruction of discrimination, one is lost.",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "Anger literally turns off your brain's logic centre. Next time you're furious, wait 10 minutes before deciding anything.",
     "illustration": "/assets/illustrations/teens/2_63.png",
     "audio": "/assets/audio/teens/2_63.mp3"
   },
   {
-    "chapter": 2,
-    "verse": 70,
-    "title": "Ocean of Peace",
+    "id": 11,
+    "source": "teens",
     "target_age": [
       "Young Adult"
     ],
+    "chapter": 2,
+    "verse": 70,
+    "title": "Ocean of Peace",
+    "theme": "Inner Peace",
     "difficulty": "Advanced",
     "tags": [
       "peace",
@@ -243,22 +286,26 @@
       "desire",
       "inner-calm"
     ],
+    "key_takeaway": "Achieving peace like an ocean that remains still despite being filled by rivers of desire.",
     "seo_description": "Achieving peace like an ocean that remains still despite being filled by rivers of desire.",
     "sanskrit": "आपूर्यमाणमचलप्रतिष्ठं\n\nसमुद्रमापः प्रविशन्ति यद्वत्।\n\nतद्वत्कामा यं प्रविशन्ति सर्वे\n\nस शान्तिमाप्नोति न कामकामी ।।",
     "transliteration": "āpūryamāṇam achala-pratiṣhṭhaṁ\nsamudram āpaḥ praviśhanti yadvat\ntadvat kāmā yaṁ praviśhanti sarve\nsa śhāntim āpnoti na kāma-kāmī\n",
     "meaning": "He attains peace into whom desires flow as rivers into the ocean, which, though brimming with water, remains ever the same; not he whom desires carry away.",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "Peace is not about having no desires — it's about not being dragged around by them. Be the ocean, not the wave.",
     "illustration": "/assets/illustrations/teens/2_70.png",
     "audio": "/assets/audio/teens/2_70.mp3"
   },
   {
-    "chapter": 3,
-    "verse": 16,
-    "title": "The Cosmic Wheel",
+    "id": 12,
+    "source": "teens",
     "target_age": [
       "Teens",
       "Young Adult"
     ],
+    "chapter": 3,
+    "verse": 16,
+    "title": "The Cosmic Wheel",
+    "theme": "Duty & Ecosystem",
     "difficulty": "Intermediate",
     "tags": [
       "duty",
@@ -266,23 +313,27 @@
       "responsibility",
       "harmony"
     ],
+    "key_takeaway": "Understanding our role in the cycle of life and our responsibility toward the world.",
     "seo_description": "Understanding our role in the cycle of life and our responsibility toward the world.",
     "sanskrit": "एवं प्रवर्तितं चक्रं नानुवर्तयतीह यः।\n\nअघायुरिन्द्रियारामो मोघं पार्थ स जीवति ।।",
     "transliteration": "evaṁ pravartitaṁ chakraṁ nānuvartayatīha yaḥ\naghāyur indriyārāmo moghaṁ pārtha sa jīvati\n",
     "meaning": "He who does not follow the wheel thus set in motion here, lives in sin, satisfying the senses, O Arjuna; he lives in vain.",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "You are part of an ecosystem. What you take from the world, return in some form — through effort, care, or service.",
     "illustration": "/assets/illustrations/teens/3_16.png",
     "audio": "/assets/audio/teens/3_16.mp3"
   },
   {
-    "chapter": 3,
-    "verse": 21,
-    "title": "The Influencer's Code",
+    "id": 13,
+    "source": "teens",
     "target_age": [
       "Kids",
       "Teens",
       "Young Adult"
     ],
+    "chapter": 3,
+    "verse": 21,
+    "title": "The Influencer's Code",
+    "theme": "Leadership",
     "difficulty": "Beginner",
     "tags": [
       "leadership",
@@ -290,6 +341,7 @@
       "integrity",
       "role-model"
     ],
+    "key_takeaway": "Why actions speak louder than words. A Gita guide to becoming a positive role model.",
     "seo_description": "Why actions speak louder than words. A Gita guide to becoming a positive role model.",
     "sanskrit": "यद्यदाचरति श्रेष्ठस्तत्तदेवेतरो जनः।\n\nस यत्प्रमाणं कुरुते लोकस्तदनुवर्तते ।।",
     "transliteration": "yad yad ācharati śhreṣhṭhas tat tad evetaro janaḥ\nsa yat pramāṇaṁ kurute lokas tad anuvartate\n",
@@ -299,12 +351,15 @@
     "audio": "/assets/audio/teens/3_21.mp3"
   },
   {
-    "chapter": 3,
-    "verse": 27,
-    "title": "The Ego Trap",
+    "id": 14,
+    "source": "teens",
     "target_age": [
       "Young Adult"
     ],
+    "chapter": 3,
+    "verse": 27,
+    "title": "The Ego Trap",
+    "theme": "Ego & Humility",
     "difficulty": "Advanced",
     "tags": [
       "ego",
@@ -312,22 +367,26 @@
       "nature",
       "prakriti"
     ],
+    "key_takeaway": "Breaking the illusion of the ego. Understanding that nature is the true doer of all actions.",
     "seo_description": "Breaking the illusion of the ego. Understanding that nature is the true doer of all actions.",
     "sanskrit": "प्रकृतेः क्रियमाणानि गुणैः कर्माणि सर्वशः।\n\nअहङ्कारविमूढात्मा कर्ताऽहमिति मन्यते ।।",
     "transliteration": "prakṛiteḥ kriyamāṇāni guṇaiḥ karmāṇi sarvaśhaḥ\nahankāra-vimūḍhātmā kartāham iti manyate\n",
     "meaning": "Actions are being performed in every way by the Gunas of Prakrti; he whose nature is deluded by egoism, however, thinks, 'I am the doer.'",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "Every time you say 'I did this all by myself' — pause. Nature, teachers, luck, and countless others contributed. Stay humble.",
     "illustration": "/assets/illustrations/teens/3_27.png",
     "audio": "/assets/audio/teens/3_27.mp3"
   },
   {
-    "chapter": 3,
-    "verse": 35,
-    "title": "Stay in Your Lane",
+    "id": 15,
+    "source": "teens",
     "target_age": [
       "Teens",
       "Young Adult"
     ],
+    "chapter": 3,
+    "verse": 35,
+    "title": "Stay in Your Lane",
+    "theme": "Authenticity",
     "difficulty": "Intermediate",
     "tags": [
       "career",
@@ -335,22 +394,26 @@
       "authenticity",
       "vocation"
     ],
+    "key_takeaway": "Why performing your own duty, even imperfectly, is better than following someone else's path.",
     "seo_description": "Why performing your own duty, even imperfectly, is better than following someone else's path.",
     "sanskrit": "श्रेयान्स्वधर्मो विगुणः परधर्मात्स्वनुष्ठितात्।\n\nस्वधर्मे निधनं श्रेयः परधर्मो भयावहः ।।",
     "transliteration": "śhreyān swa-dharmo viguṇaḥ para-dharmāt sv-anuṣhṭhitāt\nswa-dharme nidhanaṁ śhreyaḥ para-dharmo bhayāvahaḥ\n",
     "meaning": "Better is one's own duty, even if done poorly, than the duty of another done well. It is better to die while performing one's own duty; the duty of another is full of fear.",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "Stay in Your Lane: Your imperfect path is worth more than a perfect copy of someone else's journey.",
     "illustration": "/assets/illustrations/teens/3_35.png",
     "audio": "/assets/audio/teens/3_35.mp3"
   },
   {
-    "chapter": 3,
-    "verse": 37,
-    "title": "The Inner Enemy",
+    "id": 16,
+    "source": "teens",
     "target_age": [
       "Teens",
       "Young Adult"
     ],
+    "chapter": 3,
+    "verse": 37,
+    "title": "The Inner Enemy",
+    "theme": "Self-Control",
     "difficulty": "Intermediate",
     "tags": [
       "desire",
@@ -358,22 +421,26 @@
       "self-control",
       "rajas"
     ],
+    "key_takeaway": "Identifying desire and greed as the real enemies of spiritual and personal progress.",
     "seo_description": "Identifying desire and greed as the real enemies of spiritual and personal progress.",
     "sanskrit": "श्री भगवानुवाच\n\nकाम एष क्रोध एष रजोगुणसमुद्भवः।\n\nमहाशनो महापाप्मा विद्ध्येनमिह वैरिणम् ।।",
     "transliteration": "śhrī bhagavān uvācha\nkāma eṣha krodha eṣha rajo-guṇa-samudbhavaḥ\nmahāśhano mahā-pāpmā viddhyenam iha vairiṇam\n",
     "meaning": "The Lord said, \"It is desire, it is wrath, born of the guna of rajas; it is a great devourer, an impeller of sin. Know this to be the enemy here.\"",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "Desire and anger are the two engines of poor decisions. Before acting, check which one is driving.",
     "illustration": "/assets/illustrations/teens/3_37.png",
     "audio": "/assets/audio/teens/3_37.mp3"
   },
   {
-    "chapter": 4,
-    "verse": 7,
-    "title": "The Promise of Balance",
+    "id": 17,
+    "source": "teens",
     "target_age": [
       "Kids",
       "Teens"
     ],
+    "chapter": 4,
+    "verse": 7,
+    "title": "The Promise of Balance",
+    "theme": "Hope & Justice",
     "difficulty": "Beginner",
     "tags": [
       "dharma",
@@ -381,22 +448,26 @@
       "justice",
       "divinity"
     ],
+    "key_takeaway": "God's promise to return whenever goodness decays. A verse of hope and ultimate justice.",
     "seo_description": "God's promise to return whenever goodness decays. A verse of hope and ultimate justice.",
     "sanskrit": "यदा यदा हि धर्मस्य ग्लानिर्भवति भारत।\n\nअभ्युत्थानमधर्मस्य तदाऽऽत्मानं सृजाम्यहम् ।।",
     "transliteration": "yadā yadā hi dharmasya glānir bhavati bhārata\nabhyutthānam adharmasya tadātmānaṁ sṛijāmyaham\n\n",
     "meaning": "Whenever spirituality decays and materialism is rampant, then, O Arjuna, I reincarnate myself.",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "History always self-corrects. When things feel darkest, trust that something is always working to restore balance.",
     "illustration": "/assets/illustrations/teens/4_7.png",
     "audio": "/assets/audio/teens/4_7.mp3"
   },
   {
-    "chapter": 4,
-    "verse": 8,
-    "title": "Restoring Order",
+    "id": 18,
+    "source": "teens",
     "target_age": [
       "Kids",
       "Teens"
     ],
+    "chapter": 4,
+    "verse": 8,
+    "title": "Restoring Order",
+    "theme": "Protection of Good",
     "difficulty": "Beginner",
     "tags": [
       "good-vs-evil",
@@ -404,21 +475,25 @@
       "righteousness",
       "hope"
     ],
+    "key_takeaway": "Why divine intervention happens: to protect the good and establish righteousness.",
     "seo_description": "Why divine intervention happens: to protect the good and establish righteousness.",
     "sanskrit": "परित्राणाय साधूनां विनाशाय च दुष्कृताम्।\n\nधर्मसंस्थापनार्थाय संभवामि युगे युगे ।।",
     "transliteration": "paritrāṇāya sādhūnāṁ vināśhāya cha duṣhkṛitām\ndharma-sansthāpanārthāya sambhavāmi yuge yuge\n\n",
     "meaning": "To protect the righteous, to destroy the wicked, and to establish the kingdom of God, I am reborn from age to age.",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "Good people protecting others and standing for what is right is how balance is restored — and you can be one of them.",
     "illustration": "/assets/illustrations/teens/4_8.png",
     "audio": "/assets/audio/teens/4_8.mp3"
   },
   {
-    "chapter": 4,
-    "verse": 24,
-    "title": "Sacred Actions",
+    "id": 19,
+    "source": "teens",
     "target_age": [
       "Young Adult"
     ],
+    "chapter": 4,
+    "verse": 24,
+    "title": "Sacred Actions",
+    "theme": "Sacred Action",
     "difficulty": "Advanced",
     "tags": [
       "brahman",
@@ -426,22 +501,26 @@
       "perspective",
       "unity"
     ],
+    "key_takeaway": "Seeing every action as a sacred offering to the supreme. The philosophy of Brahm-karma.",
     "seo_description": "Seeing every action as a sacred offering to the supreme. The philosophy of Brahm-karma.",
     "sanskrit": "ब्रह्मार्पणं ब्रह्महविर्ब्रह्माग्नौ ब्रह्मणा हुतम्।\n\nब्रह्मैव तेन गन्तव्यं ब्रह्मकर्मसमाधिना ।।",
     "transliteration": "brahmārpaṇaṁ brahma havir brahmāgnau brahmaṇā hutam\nbrahmaiva tena gantavyaṁ brahma-karma-samādhinā\n\n",
     "meaning": "Brahman is the instrument with which to offer; Brahman is the oblation. By Brahman is the oblation offered into the fire of Brahman; Brahman alone is to be attained by one who meditates on Him in their works.",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "When you treat every action as meaningful — even washing dishes or writing notes — your whole day becomes a practice.",
     "illustration": "/assets/illustrations/teens/4_24.png",
     "audio": "/assets/audio/teens/4_24.mp3"
   },
   {
-    "chapter": 4,
-    "verse": 33,
-    "title": "Wisdom over Wealth",
+    "id": 20,
+    "source": "teens",
     "target_age": [
       "Teens",
       "Young Adult"
     ],
+    "chapter": 4,
+    "verse": 33,
+    "title": "Wisdom over Wealth",
+    "theme": "Wisdom",
     "difficulty": "Intermediate",
     "tags": [
       "knowledge",
@@ -449,22 +528,26 @@
       "value",
       "learning"
     ],
+    "key_takeaway": "Why knowledge is the ultimate sacrifice and the culmination of all physical work.",
     "seo_description": "Why knowledge is the ultimate sacrifice and the culmination of all physical work.",
     "sanskrit": "श्रेयान्द्रव्यमयाद्यज्ञाज्ज्ञानयज्ञः परन्तप।\n\nसर्वं कर्माखिलं पार्थ ज्ञाने परिसमाप्यते ।।",
     "transliteration": "śhreyān dravya-mayād yajñāj jñāna-yajñaḥ parantapa\nsarvaṁ karmākhilaṁ pārtha jñāne parisamāpyate\n\n",
     "meaning": "Superior is wisdom-sacrifice to the sacrifice with objects, O Parantapa (scorcher of the foes). All actions in their entirety, O Arjuna, culminate in knowledge.",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "Knowledge compounds. Every book, every lesson, every mistake you learn from is worth more than any prize.",
     "illustration": "/assets/illustrations/teens/4_33.png",
     "audio": "/assets/audio/teens/4_33.mp3"
   },
   {
-    "chapter": 4,
-    "verse": 38,
-    "title": "The Ultimate Purifier",
+    "id": 21,
+    "source": "teens",
     "target_age": [
       "Teens",
       "Young Adult"
     ],
+    "chapter": 4,
+    "verse": 38,
+    "title": "The Ultimate Purifier",
+    "theme": "Knowledge",
     "difficulty": "Intermediate",
     "tags": [
       "knowledge",
@@ -472,22 +555,26 @@
       "self-realization",
       "yoga"
     ],
+    "key_takeaway": "Bhagavad Gita's teaching on why there is no purifier in the world as powerful as knowledge.",
     "seo_description": "Bhagavad Gita's teaching on why there is no purifier in the world as powerful as knowledge.",
     "sanskrit": "न हि ज्ञानेन सदृशं पवित्रमिह विद्यते।\n\nतत्स्वयं योगसंसिद्धः कालेनात्मनि विन्दति ।।",
     "transliteration": "na hi jñānena sadṛiśhaṁ pavitramiha vidयते\ntatsvayaṁ yogasansiddhaḥ kālenātmani vindati\n\n",
     "meaning": "Verily, there is no purifier in this world like knowledge. He who is perfected in Yoga finds it within the Self in due time.",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "Knowledge is the greatest purifier. With time and sincere effort, it reveals itself from within — not from outside.",
     "illustration": "/assets/illustrations/teens/4_38.png",
     "audio": "/assets/audio/teens/4_38.mp3"
   },
   {
-    "chapter": 4,
-    "verse": 39,
-    "title": "The Peace of Faith",
+    "id": 22,
+    "source": "teens",
     "target_age": [
       "Teens",
       "Young Adult"
     ],
+    "chapter": 4,
+    "verse": 39,
+    "title": "The Peace of Faith",
+    "theme": "Faith & Mastery",
     "difficulty": "Intermediate",
     "tags": [
       "faith",
@@ -495,45 +582,53 @@
       "focus",
       "mastery"
     ],
+    "key_takeaway": "How combining faith with sense control leads to supreme knowledge and immediate peace.",
     "seo_description": "How combining faith with sense control leads to supreme knowledge and immediate peace.",
     "sanskrit": "श्रद्धावाँल्लभते ज्ञानं तत्परः संयतेन्द्रियः।\n\nज्ञानं लब्ध्वा परां शान्तिमचिरेणाधिगच्छति ।।",
     "transliteration": "śhraddhāvān labhate jñānaṁ tat-paraḥ sanyatendriyaḥ\njñānaṁ labdhvā parāṁ śhāntim achireṇādhigachchhati\n\n",
     "meaning": "He who has faith, is intent on it, and has mastered his senses, attains knowledge. Having attained knowledge, he quickly goes to supreme peace.",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "Faith + focus + self-control = fast results. All three work together; removing one breaks the formula.",
     "illustration": "/assets/illustrations/teens/4_39.png",
     "audio": "/assets/audio/teens/4_39.mp3"
   },
   {
-    "chapter": 5,
-    "verse": 10,
-    "sanskrit": "ब्रह्मण्याधाय कर्माणि सङ्गं त्यक्त्वा करोति यः।\n\nलिप्यते न स पापेन पद्मपत्रमिवाम्भसा ।।",
+    "id": 23,
+    "source": "teens",
     "target_age": [
       "Teens",
       "Young Adult"
     ],
-    "difficulty": "Intermediate",
+    "chapter": 5,
+    "verse": 10,
     "title": "The Lotus Life",
+    "theme": "Detachment",
+    "difficulty": "Intermediate",
     "tags": [
       "detachment",
       "purity",
       "focus",
       "work-ethic"
     ],
+    "key_takeaway": "How to live in the world without being affected by its negativity, like a lotus leaf in water.",
     "seo_description": "How to live in the world without being affected by its negativity, like a lotus leaf in water.",
+    "sanskrit": "ब्रह्मण्याधाय कर्माणि सङ्गं त्यक्त्वा करोति यः।\n\nलिप्यते न स पापेन पद्मपत्रमिवाम्भसा ।।",
     "transliteration": "brahmaṇyādhāya karmāṇi saṅgaṁ tyaktvā karoti yaḥ\nlipyate na sa pāpena padma-patram ivāmbhasā\n\n",
     "meaning": "He who acts without attachment, reposing all actions on Brahman (Prakṛti), is untouched by evil, just as a lotus leaf is untouched by water.",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "The Lotus Life: do your work fully, then let it go. Stay in the world without being stained by it.",
     "illustration": "/assets/illustrations/teens/5_10.png",
     "audio": "/assets/audio/teens/5_10.mp3"
   },
   {
-    "chapter": 5,
-    "verse": 18,
-    "title": "Seeing Equality",
+    "id": 24,
+    "source": "teens",
     "target_age": [
       "Teens",
       "Young Adult"
     ],
+    "chapter": 5,
+    "verse": 18,
+    "title": "Seeing Equality",
+    "theme": "Equality",
     "difficulty": "Intermediate",
     "tags": [
       "equality",
@@ -541,22 +636,26 @@
       "empathy",
       "non-discrimination"
     ],
+    "key_takeaway": "The wise look with an equal eye upon all beings. A core Gita teaching on universal empathy.",
     "seo_description": "The wise look with an equal eye upon all beings. A core Gita teaching on universal empathy.",
     "sanskrit": "विद्याविनयसंपन्ने ब्राह्मणे गवि हस्तिनि।\n\nशुनि चैव श्वपाके च पण्डिताः समदर्शिनः ।।",
     "transliteration": "vidyā-vinaya-sampanne brāhmaṇe gavi hastini\nśhuni chaiva śhva-pāke cha paṇḍitāḥ sama-darśhinaḥ\n\n",
     "meaning": "The wise, by nature, look equally upon a Brahmana, rich in learning and humility, a cow, an elephant, and even a dog and a dog-cooker (an outcaste).",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "True intelligence sees the same worth in every person — regardless of status, grades, or background.",
     "illustration": "/assets/illustrations/teens/5_18.png",
     "audio": "/assets/audio/teens/5_18.mp3"
   },
   {
-    "chapter": 5,
-    "verse": 22,
-    "title": "Temporary Joys",
+    "id": 25,
+    "source": "teens",
     "target_age": [
       "Teens",
       "Young Adult"
     ],
+    "chapter": 5,
+    "verse": 22,
+    "title": "Temporary Joys",
+    "theme": "Temporary Pleasures",
     "difficulty": "Advanced",
     "tags": [
       "pleasure",
@@ -564,22 +663,26 @@
       "detachment",
       "wisdom"
     ],
+    "key_takeaway": "Why sensory pleasures are often the source of pain and why the wise don't chase them.",
     "seo_description": "Why sensory pleasures are often the source of pain and why the wise don't chase them.",
     "sanskrit": "ये हि संस्पर्शजा भोगा दुःखयोनय एव ते।\n\nआद्यन्तवन्तः कौन्तेय न तेषु रमते बुधः ।।",
     "transliteration": "ye hi sansparśha-jā bhogā duḥkha-yonaya eva te\nādyantavantaḥ kaunteya na teṣhu ramate budhaḥ\n\n",
     "meaning": "For those pleasures that are born of contact are wombs of pain. They have a beginning and an end, O Arjuna; the wise do not rejoice in them.",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "That thing you're chasing for happiness has an expiry date. Invest in something that doesn't fade.",
     "illustration": "/assets/illustrations/teens/5_22.png",
     "audio": "/assets/audio/teens/5_22.mp3"
   },
   {
-    "chapter": 5,
-    "verse": 29,
-    "title": "The Ultimate Friend",
+    "id": 26,
+    "source": "teens",
     "target_age": [
       "Kids",
       "Teens"
     ],
+    "chapter": 5,
+    "verse": 29,
+    "title": "The Ultimate Friend",
+    "theme": "Divine Friendship",
     "difficulty": "Beginner",
     "tags": [
       "peace",
@@ -587,45 +690,53 @@
       "protection",
       "friendship"
     ],
+    "key_takeaway": "Finding peace by knowing God as the supreme Lord and the closest friend of all beings.",
     "seo_description": "Finding peace by knowing God as the supreme Lord and the closest friend of all beings.",
     "sanskrit": "भोक्तारं यज्ञतपसां सर्वलोकमहेश्वरम्।\n\nसुहृदं सर्वभूतानां ज्ञात्वा मां शान्तिमृच्छति ।।",
     "transliteration": "bhoktāraṁ yajña-tapasāṁ sarva-loka-maheśhvaram\nsuhṛidaṁ sarva-bhūtānāṁ jñātvā māṁ śhāntim ṛichchhati\n\n",
     "meaning": "He who knows Me as the enjoyer of sacrifices and austerities, the great Lord of all the worlds, and the friend of all beings, attains peace.",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "You don't have to carry everything alone. Trust something bigger than yourself — it lightens the load.",
     "illustration": "/assets/illustrations/teens/5_29.png",
     "audio": "/assets/audio/teens/5_29.mp3"
   },
   {
-    "chapter": 6,
-    "verse": 5,
-    "title": "Your Own Best Friend",
+    "id": 27,
+    "source": "teens",
     "target_age": [
       "Kids",
       "Teens",
       "Young Adult"
     ],
+    "chapter": 6,
+    "verse": 5,
+    "title": "Your Own Best Friend",
+    "theme": "Self-Mastery",
     "difficulty": "Beginner",
     "tags": [
       "self-love",
       "accountability",
       "growth-mindset"
     ],
+    "key_takeaway": "Empowering teens to take control of their mental state and be their own best advocate.",
     "seo_description": "Empowering teens to take control of their mental state and be their own best advocate.",
     "sanskrit": "उद्धरेदात्मनाऽऽत्मानं नात्मानमवसादयेत्।\n\nआत्मैव ह्यात्मनो बन्धुरात्मैव रिपुरात्मनः ।।",
     "transliteration": "uddhared ātmanātmānaṁ nātmānam avasādayet\nātmaiva hyātmano bandhur ātmaiva ripur ātmanaḥ",
     "meaning": "One should raise oneself by one's own self alone; let not one lower oneself; for the self alone is one's own friend, and the self alone is one's own enemy.",
-    "lifeHack": "Self-Sovereignty: You have the power to lift yourself up or drag yourself down. Don't let your moods control you—be your own best friend.",
+    "lifeHack": "Self-Sovereignty: You have the power to lift yourself up or drag yourself down. Be your own best coach.",
     "illustration": "/assets/illustrations/teens/6_5.png",
     "audio": "/assets/audio/teens/6_5.mp3"
   },
   {
-    "chapter": 6,
-    "verse": 6,
-    "title": "The Mind's Two Sides",
+    "id": 28,
+    "source": "teens",
     "target_age": [
       "Teens",
       "Young Adult"
     ],
+    "chapter": 6,
+    "verse": 6,
+    "title": "The Mind's Two Sides",
+    "theme": "Mind Control",
     "difficulty": "Intermediate",
     "tags": [
       "self-control",
@@ -633,22 +744,26 @@
       "mindfulness",
       "internal-battle"
     ],
+    "key_takeaway": "How a controlled mind is a friend and an uncontrolled mind is an enemy.",
     "seo_description": "How a controlled mind is a friend and an uncontrolled mind is an enemy.",
     "sanskrit": "बन्धुरात्माऽऽत्मनस्तस्य येनात्मैवात्मना जितः।\n\nअनात्मनस्तु शत्रुत्वे वर्तेतात्मैव शत्रुवत् ।।",
     "transliteration": "bandhur ātmātmanas tasya yenātmaivātmanā jitaḥ\nanātmanas tu śhatrutve vartetātmaiva śhatru-vat\n",
     "meaning": "He who has conquered his own self by the self, his self is his own friend. But for one who has not conquered his own self, his self itself acts like an enemy.",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "The mind unmanaged is your worst bully. The mind trained is your greatest ally. Which one is yours right now?",
     "illustration": "/assets/illustrations/teens/6_6.png",
     "audio": "/assets/audio/teens/6_6.mp3"
   },
   {
-    "chapter": 6,
-    "verse": 17,
-    "title": "The Middle Path",
+    "id": 29,
+    "source": "teens",
     "target_age": [
       "Teens",
       "Young Adult"
     ],
+    "chapter": 6,
+    "verse": 17,
+    "title": "The Middle Path",
+    "theme": "Moderation",
     "difficulty": "Intermediate",
     "tags": [
       "lifestyle",
@@ -656,22 +771,26 @@
       "wellness",
       "moderation"
     ],
+    "key_takeaway": "Yoga as the destroyer of pain through moderation in food, sleep, and work.",
     "seo_description": "Yoga as the destroyer of pain through moderation in food, sleep, and work.",
     "sanskrit": "युक्ताहारविहारस्य युक्तचेष्टस्य कर्मसु।\n\nयुक्तस्वप्नावबोधस्य योगो भवति दुःखहा ।।",
     "transliteration": "yuktāhāra-vihārasya yukta-cheṣhṭasya karmasu\nyukta-svapnāvabodhasya yogo bhavati duḥkha-hā\n",
     "meaning": "Yoga becomes the destroyer of sorrows for those who are temperate in food and recreation, temperate in their actions, and temperate in their sleep and wakefulness.",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "The Middle Path: peak performance comes from moderation — not extreme discipline or extreme laziness.",
     "illustration": "/assets/illustrations/teens/6_17.png",
     "audio": "/assets/audio/teens/6_17.mp3"
   },
   {
-    "chapter": 6,
-    "verse": 35,
-    "title": "Taming the Wild Horse",
+    "id": 30,
+    "source": "teens",
     "target_age": [
       "Teens",
       "Young Adult"
     ],
+    "chapter": 6,
+    "verse": 35,
+    "title": "Taming the Wild Horse",
+    "theme": "Practice & Discipline",
     "difficulty": "Intermediate",
     "tags": [
       "mind-control",
@@ -679,22 +798,26 @@
       "persistence",
       "meditation"
     ],
+    "key_takeaway": "The mind is hard to subdue, but control is possible through practice and detachment.",
     "seo_description": "The mind is hard to subdue, but control is possible through practice and detachment.",
     "sanskrit": "श्री भगवानुवाच\n\nअसंशयं महाबाहो मनो दुर्निग्रहं चलं।\n\nअभ्यासेन तु कौन्तेय वैराग्येण च गृह्यते ।।",
     "transliteration": "śhrī bhagavān uvācha\nasanśhayaṁ mahā-bāho mano durnigrahaṁ chalam\nabhyāsena tu kaunteya vairāgyeṇa cha gṛihयते\n",
     "meaning": "The Lord said, \"The mind is indeed hard to subdue and fickle, O mighty-armed one, but, O son of Kunti, it can be brought under control through practice and the exercise of dispassion.\"",
-    "lifeHack": "Taming the Mind: The mind is like a wild horse (or a social media algorithm). It takes practice and detachment to take back the reins.",
+    "lifeHack": "Taming the Mind: it takes practice and detachment — like learning to ride a bike. Fall, reset, try again.",
     "illustration": "/assets/illustrations/teens/6_35.png",
     "audio": "/assets/audio/teens/6_35.mp3"
   },
   {
-    "chapter": 6,
-    "verse": 40,
-    "title": "Good Never Fails",
+    "id": 31,
+    "source": "teens",
     "target_age": [
       "Teens",
       "Young Adult"
     ],
+    "chapter": 6,
+    "verse": 40,
+    "title": "Good Never Fails",
+    "theme": "Hope",
     "difficulty": "Beginner",
     "tags": [
       "hope",
@@ -702,21 +825,25 @@
       "positivity",
       "safety"
     ],
+    "key_takeaway": "A powerful reminder that no one who does good ever comes to a bad end. Eternal security.",
     "seo_description": "A powerful reminder that no one who does good ever comes to a bad end. Eternal security.",
     "sanskrit": "श्री भगवानुवाच\n\nपार्थ नैवेह नामुत्र विनाशस्तस्य विद्यते।\n\nनहि कल्याणकृत्कश्िचद्दुर्गतिं तात गच्छति ।।",
     "transliteration": "śhrī bhagavān uvācha\npārtha naiveha nāmutra vināśhas tasya vidyate\nna hi kalyāṇa-kṛit kaśhchid durgatiṁ tāta gachchhati\n",
     "meaning": "The Lord said, \"Neither here in this world nor there in the next is there destruction for him. For no one who does good ever comes to an evil end.\"",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "No sincere effort toward good is ever wasted. Even if results don't show yet, you are accumulating something real.",
     "illustration": "/assets/illustrations/teens/6_40.png",
     "audio": "/assets/audio/teens/6_40.mp3"
   },
   {
-    "chapter": 6,
-    "verse": 41,
-    "title": "The Next Chapter",
+    "id": 32,
+    "source": "teens",
     "target_age": [
       "Young Adult"
     ],
+    "chapter": 6,
+    "verse": 41,
+    "title": "The Next Chapter",
+    "theme": "Spiritual Continuity",
     "difficulty": "Advanced",
     "tags": [
       "reincarnation",
@@ -724,21 +851,25 @@
       "spirituality",
       "legacy"
     ],
+    "key_takeaway": "What happens to a spiritual seeker who doesn't complete the journey? The Gita on rebirth.",
     "seo_description": "What happens to a spiritual seeker who doesn't complete the journey? The Gita on rebirth.",
     "sanskrit": "प्राप्य पुण्यकृतां लोकानुषित्वा शाश्वतीः समाः।\n\nशुचीनां श्रीमतां गेहे योगभ्रष्टोऽभिजायते ।।",
     "transliteration": "prāpya puṇya-kṛitāṁ lokān uṣhitvā śhāśhvatīḥ samāḥ\nśhuchīnāṁ śhrīmatāṁ gehe yoga-bhraṣhṭo’bhijāyate\n",
     "meaning": "Attaining the worlds of the righteous and residing there for eternal years, the man who has fallen from Yoga is born in the house of the pious and prosperous.",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "Spiritual growth carries forward — even unfinished. You are not starting from zero; you are continuing a journey.",
     "illustration": "/assets/illustrations/teens/6_41.png",
     "audio": "/assets/audio/teens/6_41.mp3"
   },
   {
-    "chapter": 7,
-    "verse": 3,
-    "title": "The Rare Quest",
+    "id": 33,
+    "source": "teens",
     "target_age": [
       "Young Adult"
     ],
+    "chapter": 7,
+    "verse": 3,
+    "title": "The Rare Quest",
+    "theme": "Spiritual Rarity",
     "difficulty": "Advanced",
     "tags": [
       "perfection",
@@ -746,22 +877,26 @@
       "spiritual-journey",
       "dedication"
     ],
+    "key_takeaway": "How rare it is to strive for perfection and even rarer to truly know the supreme truth.",
     "seo_description": "How rare it is to strive for perfection and even rarer to truly know the supreme truth.",
     "sanskrit": "मनुष्याणां सहस्रेषु कश्िचद्यतति सिद्धये।\n\nयततामपि सिद्धानां कश्िचन्मां वेत्ति तत्त्वतः ।।",
     "transliteration": "manuṣhyāṇāṁ sahasreṣhu kaśhchid yatati siddhaye\nyatatām api siddhānāṁ kaśhchin māṁ vetti tattvataḥ\n",
     "meaning": "Among thousands of men, some strive for perfection; even among those who strive for perfection, only some know Me; and among those who know Me, only some truly know Me.",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "Most people drift. A few strive. Fewer still truly understand. Decide which group you are in.",
     "illustration": "/assets/illustrations/teens/7_3.png",
     "audio": "/assets/audio/teens/7_3.mp3"
   },
   {
-    "chapter": 7,
-    "verse": 7,
-    "title": "The Thread of Life",
+    "id": 34,
+    "source": "teens",
     "target_age": [
       "Kids",
       "Teens"
     ],
+    "chapter": 7,
+    "verse": 7,
+    "title": "The Thread of Life",
+    "theme": "Unity & Connection",
     "difficulty": "Beginner",
     "tags": [
       "unity",
@@ -769,21 +904,25 @@
       "presence",
       "god"
     ],
+    "key_takeaway": "Seeing God as the thread that connects all things in the universe like pearls on a string.",
     "seo_description": "Seeing God as the thread that connects all things in the universe like pearls on a string.",
     "sanskrit": "मत्तः परतरं नान्यत्किञ्चिदस्ति धनञ्जय।\n\nमयि सर्वमिदं प्रोतं सूत्रे मणिगणा इव ।।",
     "transliteration": "mattaḥ parataraṁ nānyat kiñchid asti dhanañjaya\nmayi sarvam idaṁ protaṁ sūtre maṇi-gaṇā iva\n",
     "meaning": "O Dhananjaya, there is nothing else higher than Myself. All this is strung on Me like pearls on a string.",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "Everything is connected. The Divine is the thread; you are a bead on it. You are never truly separate.",
     "illustration": "/assets/illustrations/teens/7_7.png",
     "audio": "/assets/audio/teens/7_7.mp3"
   },
   {
-    "chapter": 7,
-    "verse": 19,
-    "title": "The Vision of Unity",
+    "id": 35,
+    "source": "teens",
     "target_age": [
       "Young Adult"
     ],
+    "chapter": 7,
+    "verse": 19,
+    "title": "The Vision of Unity",
+    "theme": "Enlightenment",
     "difficulty": "Advanced",
     "tags": [
       "enlightenment",
@@ -791,21 +930,25 @@
       "universality",
       "devotion"
     ],
+    "key_takeaway": "The realization of a wise person that the Divine is everywhere and in everything.",
     "seo_description": "The realization of a wise person that the Divine is everywhere and in everything.",
     "sanskrit": "बहूनां जन्मनामन्ते ज्ञानवान्मां प्रपद्यते।\n\nवासुदेवः सर्वमिति स महात्मा सुदुर्लभः ।।",
     "transliteration": "bahūnāṁ janmanām ante jñānavān māṁ prapadyate\nvāsudevaḥ sarvam iti sa mahātmā su-durlabhaḥ\n",
     "meaning": "After many lives, at last the wise one realizes Me as I am. It is very difficult to find a man so enlightened that he sees God everywhere.",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "The ultimate realisation — seeing God in everything — takes many lifetimes. But every step counts. Start now.",
     "illustration": "/assets/illustrations/teens/7_19.png",
     "audio": "/assets/audio/teens/7_19.mp3"
   },
   {
-    "chapter": 8,
-    "verse": 5,
-    "title": "The Last Thought",
+    "id": 36,
+    "source": "teens",
     "target_age": [
       "Young Adult"
     ],
+    "chapter": 8,
+    "verse": 5,
+    "title": "The Last Thought",
+    "theme": "Consciousness",
     "difficulty": "Advanced",
     "tags": [
       "death",
@@ -813,22 +956,26 @@
       "focus",
       "transition"
     ],
+    "key_takeaway": "The importance of one's final thought at the time of death and its impact on the soul's journey.",
     "seo_description": "The importance of one's final thought at the time of death and its impact on the soul's journey.",
     "sanskrit": "अन्तकाले च मामेव स्मरन्मुक्त्वा कलेवरम्।\n\nयः प्रयाति स मद्भावं याति नास्त्यत्र संशयः ।।",
     "transliteration": "anta-kāle cha mām eva smaran muktvā kalevaram\nyaḥ prayāti sa mad-bhāvaṁ yāti nāstyatra sanśhayaḥ\n",
     "meaning": "And at the time of death, anyone who departs, giving up the body while thinking of Me alone, attains My state; there is no doubt about this.",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "What occupies your mind most becomes your identity. Choose your mental diet carefully.",
     "illustration": "/assets/illustrations/teens/8_5.png",
     "audio": "/assets/audio/teens/8_5.mp3"
   },
   {
-    "chapter": 8,
-    "verse": 7,
-    "title": "Meditate and Fight",
+    "id": 37,
+    "source": "teens",
     "target_age": [
       "Teens",
       "Young Adult"
     ],
+    "chapter": 8,
+    "verse": 7,
+    "title": "Meditate and Fight",
+    "theme": "Mindfulness in Action",
     "difficulty": "Intermediate",
     "tags": [
       "mindfulness",
@@ -836,21 +983,25 @@
       "work-life-balance",
       "presence"
     ],
+    "key_takeaway": "How to balance meditation with worldly duties. The concept of being mindful while acting.",
     "seo_description": "How to balance meditation with worldly duties. The concept of being mindful while acting.",
     "sanskrit": "तस्मात्सर्वेषु कालेषु मामनुस्मर युध्य च।\n\nमय्यर्पितमनोबुद्धिर्मामेवैष्यस्यसंशयम् ।।",
     "transliteration": "tasmāt sarveṣhu kāleṣhu mām anusmara yudhya cha\nmayyarpita-mano-buddhir mām evaiṣhyasyasanśhayam\n",
     "meaning": "Therefore, always meditate on Me and fight; if your mind and reason are fixed on Me, you will surely come to Me.",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "Meditate and Fight: you don't have to choose between the spiritual and the practical. Do both simultaneously.",
     "illustration": "/assets/illustrations/teens/8_7.png",
     "audio": "/assets/audio/teens/8_7.mp3"
   },
   {
-    "chapter": 8,
-    "verse": 15,
-    "title": "Beyond Misery",
+    "id": 38,
+    "source": "teens",
     "target_age": [
       "Young Adult"
     ],
+    "chapter": 8,
+    "verse": 15,
+    "title": "Beyond Misery",
+    "theme": "Liberation",
     "difficulty": "Advanced",
     "tags": [
       "liberation",
@@ -858,21 +1009,25 @@
       "suffering",
       "soul"
     ],
+    "key_takeaway": "Attaining a state beyond the misery and transience of earthly life. The goal of perfection.",
     "seo_description": "Attaining a state beyond the misery and transience of earthly life. The goal of perfection.",
     "sanskrit": "मामुपेत्य पुनर्जन्म दुःखालयमशाश्वतम्।\n\nनाप्नुवन्ति महात्मानः संसिद्धिं परमां गताः ।।",
     "transliteration": "mām upetya punar janma duḥkhālayam aśhāśhvatam\nnāpnuvanti mahātmānaḥ sansiddhiṁ paramāṁ gatāḥ\n",
     "meaning": "Coming to Me in this way, these great souls no longer go to the misery and death of earthly life, for they have achieved perfection.",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "There is a state beyond the cycle of anxiety, effort, and loss. It is available to you through sustained inner work.",
     "illustration": "/assets/illustrations/teens/8_15.png",
     "audio": "/assets/audio/teens/8_15.mp3"
   },
   {
-    "chapter": 8,
-    "verse": 20,
-    "title": "The Eternal Unmanifest",
+    "id": 39,
+    "source": "teens",
     "target_age": [
       "Young Adult"
     ],
+    "chapter": 8,
+    "verse": 20,
+    "title": "The Eternal Unmanifest",
+    "theme": "Eternal Reality",
     "difficulty": "Advanced",
     "tags": [
       "eternity",
@@ -880,23 +1035,27 @@
       "spirit",
       "reality"
     ],
+    "key_takeaway": "Understanding the existence of an eternal reality beyond the physical world of birth and death.",
     "seo_description": "Understanding the existence of an eternal reality beyond the physical world of birth and death.",
     "sanskrit": "परस्तस्मात्तु भावोऽन्योऽव्यक्तोऽव्यक्तात्सनातनः।\n\nयः स सर्वेषु भूतेषु नश्यत्सु न विनश्यति ।।",
     "transliteration": "paras tasmāt tu bhāvo ’nyo ’vyakto ’vyaktāt sanātanaḥ\nyaḥ sa sarveṣhu bhūteṣhu naśhyatsu na vinaśhyati\n",
     "meaning": "In truth, therefore, there is the eternal, unmanifest, which is beyond and above the unmanifest spirit of creation, and which is never destroyed when all these beings perish.",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "Beyond the visible world is something permanent. When life feels fragile, anchor yourself to that unchanging ground.",
     "illustration": "/assets/illustrations/teens/8_20.png",
     "audio": "/assets/audio/teens/8_20.mp3"
   },
   {
-    "chapter": 9,
-    "verse": 22,
-    "title": "The Divine Safety Net",
+    "id": 40,
+    "source": "teens",
     "target_age": [
       "Kids",
       "Teens",
       "Young Adult"
     ],
+    "chapter": 9,
+    "verse": 22,
+    "title": "The Divine Safety Net",
+    "theme": "Divine Providence",
     "difficulty": "Intermediate",
     "tags": [
       "protection",
@@ -904,22 +1063,26 @@
       "trust",
       "devotion"
     ],
+    "key_takeaway": "God's promise to take care of the prosperity and welfare of those who focus on the Divine.",
     "seo_description": "God's promise to take care of the prosperity and welfare of those who focus on the Divine.",
     "sanskrit": "अनन्याश्चिन्तयन्तो मां ये जनाः पर्युपासते।\n\nतेषां नित्याभियुक्तानां योगक्षेमं वहाम्यहम् ।।",
     "transliteration": "ananyāśh chintayanto māṁ ye janāḥ paryupāsate\nteṣhāṁ nityābhiyuktānāṁ yoga-kṣhemaṁ vahāmyaham\n",
     "meaning": "Those who, excluding all else, think of Me and worship Me, aspiring after eternal union with Me, I look after their prosperity and welfare (Yoga and Ksema).",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "God carries what you need and protects what you have — but you must stay focused and sincere.",
     "illustration": "/assets/illustrations/teens/9_22.png",
     "audio": "/assets/audio/teens/9_22.mp3"
   },
   {
-    "chapter": 9,
-    "verse": 26,
-    "title": "The Heart's Gift",
+    "id": 41,
+    "source": "teens",
     "target_age": [
       "Kids",
       "Teens"
     ],
+    "chapter": 9,
+    "verse": 26,
+    "title": "The Heart's Gift",
+    "theme": "Devotion & Simplicity",
     "difficulty": "Beginner",
     "tags": [
       "simplicity",
@@ -927,22 +1090,26 @@
       "intention",
       "authenticity"
     ],
+    "key_takeaway": "Why a simple leaf or flower offered with love is more valuable than grand material gifts.",
     "seo_description": "Why a simple leaf or flower offered with love is more valuable than grand material gifts.",
     "sanskrit": "पत्रं पुष्पं फलं तोयं यो मे भक्त्या प्रयच्छति।\n\nतदहं भक्त्युपहृतमश्नामि प्रयतात्मनः ।।",
     "transliteration": "patraṁ puṣhpaṁ phalaṁ toyaṁ yo me bhaktyā prayachchhati\ntadahaṁ bhaktyupahṛitam aśhnāmi prayatātmanaḥ\n",
     "meaning": "Whoever offers Me with true devotion a leaf, a flower, a fruit, or some water, I accept this offering made with devotion by them who are pure of heart.",
-    "lifeHack": "Intention over Scale: It's not about how big your gift is, but how much heart you put into it. Authenticity beats quantity every time.",
+    "lifeHack": "Intention over Scale: it's not about how big your gift is, but how much heart you put into it.",
     "illustration": "/assets/illustrations/teens/9_26.png",
     "audio": "/assets/audio/teens/9_26.mp3"
   },
   {
-    "chapter": 9,
-    "verse": 27,
-    "title": "Living as an Offering",
+    "id": 42,
+    "source": "teens",
     "target_age": [
       "Teens",
       "Young Adult"
     ],
+    "chapter": 9,
+    "verse": 27,
+    "title": "Living as an Offering",
+    "theme": "Living as Offering",
     "difficulty": "Intermediate",
     "tags": [
       "mindfulness",
@@ -950,22 +1117,26 @@
       "dedication",
       "spirituality"
     ],
+    "key_takeaway": "How to turn every daily activity—eating, working, giving—into a spiritual offering.",
     "seo_description": "How to turn every daily activity—eating, working, giving—into a spiritual offering.",
     "sanskrit": "यत्करोषि यदश्नासि यज्जुहोषि ददासि यत्।\n\nयत्तपस्यसि कौन्तेय तत्कुरुष्व मदर्पणम् ।।",
     "transliteration": "yat karoṣhi yad aśhnāsi yaj juhoṣhi dadāsi yat\nyat tapasyasi kaunteya tat kuruṣhva mad-arpaṇam\n",
     "meaning": "Whatever you do, whatever you eat, whatever you offer, whatever you give away, whatever austerity you practice, O Arjuna, do that as an offering to Me.",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "Turn your entire day into an offering — study, eat, rest, help — all of it can be done as devotion.",
     "illustration": "/assets/illustrations/teens/9_27.png",
     "audio": "/assets/audio/teens/9_27.mp3"
   },
   {
-    "chapter": 9,
-    "verse": 34,
-    "title": "The Supreme Goal",
+    "id": 43,
+    "source": "teens",
     "target_age": [
       "Teens",
       "Young Adult"
     ],
+    "chapter": 9,
+    "verse": 34,
+    "title": "The Supreme Goal",
+    "theme": "Devotional Focus",
     "difficulty": "Intermediate",
     "tags": [
       "devotion",
@@ -973,22 +1144,26 @@
       "goal-setting",
       "purpose"
     ],
+    "key_takeaway": "The four pillars of spiritual focus: thinking of God, devotion, worship, and surrender.",
     "seo_description": "The four pillars of spiritual focus: thinking of God, devotion, worship, and surrender.",
     "sanskrit": "मन्मना भव मद्भक्तो मद्याजी मां नमस्कुरु।\n\nमामेवैष्यसि युक्त्वैवमात्मानं मत्परायणः ।।",
     "transliteration": "man-manā bhava mad-bhakto mad-yājī māṁ namaskuru\nmām evaiṣhyasi yuktvaivam ātmānaṁ mat-parāyaṇaḥ\n",
     "meaning": "Focus your mind on Me, be My devotee, worship Me. Bow down to Me. Engaging your mind in this manner and regarding Me as the supreme goal, you will come to Me.",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "The four pillars: think of the highest good, be devoted, act accordingly, and bow to what is greater than you.",
     "illustration": "/assets/illustrations/teens/9_34.png",
     "audio": "/assets/audio/teens/9_34.mp3"
   },
   {
-    "chapter": 10,
-    "verse": 8,
-    "title": "The Source of All",
+    "id": 44,
+    "source": "teens",
     "target_age": [
       "Teens",
       "Young Adult"
     ],
+    "chapter": 10,
+    "verse": 8,
+    "title": "The Source of All",
+    "theme": "Source of All",
     "difficulty": "Intermediate",
     "tags": [
       "origin",
@@ -996,22 +1171,26 @@
       "devotion",
       "wisdom"
     ],
+    "key_takeaway": "Understanding that everything flows from the Divine source. A verse for spiritual clarity.",
     "seo_description": "Understanding that everything flows from the Divine source. A verse for spiritual clarity.",
     "sanskrit": "अहं सर्वस्य प्रभवो मत्तः सर्वं प्रवर्तते।\n\nइति मत्वा भजन्ते मां बुधा भावसमन्विताः ।।",
     "transliteration": "ahaṁ sarvasya prabhavo mattaḥ sarvaṁ pravartate\niti matvā bhajante māṁ budhā bhāva-samanvitāḥ\n",
     "meaning": "I am the source of all; from me everything flows. Therefore, the wise worship me with an unchanging devotion.",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "Everything flows from one source. When you feel lost, return to that source — stillness, breath, or prayer.",
     "illustration": "/assets/illustrations/teens/10_8.png",
     "audio": "/assets/audio/teens/10_8.mp3"
   },
   {
-    "chapter": 10,
-    "verse": 20,
-    "title": "The Inner Guide",
+    "id": 45,
+    "source": "teens",
     "target_age": [
       "Kids",
       "Teens"
     ],
+    "chapter": 10,
+    "verse": 20,
+    "title": "The Inner Guide",
+    "theme": "Divine Within",
     "difficulty": "Beginner",
     "tags": [
       "presence",
@@ -1019,22 +1198,26 @@
       "beginning-and-end",
       "identity"
     ],
+    "key_takeaway": "God as the Self seated in the hearts of all beings. Understanding the Divine within.",
     "seo_description": "God as the Self seated in the hearts of all beings. Understanding the Divine within.",
     "sanskrit": "अहमात्मा गुडाकेश सर्वभूताशयस्थितः।\n\nअहमादिश्च मध्यं च भूतानामन्त एव च ।।",
     "transliteration": "aham ātmā guḍākeśha sarva-bhūtāśhaya-sthitaḥ\naham ādiśh cha madhyaṁ cha bhūtānām anta eva cha\n",
     "meaning": "O Arjuna! I am the Self, seated in the hearts of all beings; I am the beginning, the life, and the end of them all.",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "God is seated in your heart right now — not far away. The divine guide is already inside you.",
     "illustration": "/assets/illustrations/teens/10_20.png",
     "audio": "/assets/audio/teens/10_20.mp3"
   },
   {
-    "chapter": 10,
-    "verse": 41,
-    "title": "Sparks of Glory",
+    "id": 46,
+    "source": "teens",
     "target_age": [
       "Teens",
       "Young Adult"
     ],
+    "chapter": 10,
+    "verse": 41,
+    "title": "Sparks of Glory",
+    "theme": "Divine Splendour",
     "difficulty": "Intermediate",
     "tags": [
       "splendor",
@@ -1042,21 +1225,25 @@
       "manifestation",
       "excellence"
     ],
+    "key_takeaway": "Recognizing beauty, power, and prosperity in the world as manifestations of Divine splendor.",
     "seo_description": "Recognizing beauty, power, and prosperity in the world as manifestations of Divine splendor.",
     "sanskrit": "यद्यद्विभूतिमत्सत्त्वं श्रीमदूर्जितमेव वा।\n\nतत्तदेवावगच्छ त्वं मम तेजोंऽशसंभवम् ।।",
     "transliteration": "yad yad vibhūtimat sattvaṁ śhrīmad ūrjitam eva vā\ntat tad evāvagachchha tvaṁ mama tejo ’nśha-sambhavam\n",
     "meaning": "Whatever being there is glorious, prosperous, or powerful, know that to be a manifestation of a part of My splendor.",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "Wherever you see brilliance — in a song, a sunrise, a kind act — recognise it as a spark of the Divine.",
     "illustration": "/assets/illustrations/teens/10_41.png",
     "audio": "/assets/audio/teens/10_41.mp3"
   },
   {
-    "chapter": 10,
-    "verse": 42,
-    "title": "The Fragmented Whole",
+    "id": 47,
+    "source": "teens",
     "target_age": [
       "Young Adult"
     ],
+    "chapter": 10,
+    "verse": 42,
+    "title": "The Fragmented Whole",
+    "theme": "Cosmic Power",
     "difficulty": "Advanced",
     "tags": [
       "universe",
@@ -1064,21 +1251,25 @@
       "infinity",
       "knowledge"
     ],
+    "key_takeaway": "Understanding that the entire universe is sustained by just a fragment of Divine power.",
     "seo_description": "Understanding that the entire universe is sustained by just a fragment of Divine power.",
     "sanskrit": "अथवा बहुनैतेन किं ज्ञातेन तवार्जुन।\n\nविष्टभ्याहमिदं कृत्स्नमेकांशेन स्थितो जगत् ।।",
     "transliteration": "atha vā bahunaitena kiṁ jñātena tavārjuna\nviṣhṭabhyāham idaṁ kṛitsnam ekānśhena sthito jagat\n",
     "meaning": "But of what use is all this extensive knowledge to you, O Arjuna? I sustain this whole universe with only a fragment of My power.",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "The entire universe runs on a fraction of divine power. Scale your worries accordingly.",
     "illustration": "/assets/illustrations/teens/10_42.png",
     "audio": "/assets/audio/teens/10_42.mp3"
   },
   {
-    "chapter": 11,
-    "verse": 32,
-    "title": "The Master of Time",
+    "id": 48,
+    "source": "teens",
     "target_age": [
       "Young Adult"
     ],
+    "chapter": 11,
+    "verse": 32,
+    "title": "The Master of Time",
+    "theme": "Time & Impermanence",
     "difficulty": "Advanced",
     "tags": [
       "time",
@@ -1086,22 +1277,26 @@
       "inevitability",
       "perspective"
     ],
+    "key_takeaway": "The world-destroying power of time and its role in the cycle of life. A cosmic perspective.",
     "seo_description": "The world-destroying power of time and its role in the cycle of life. A cosmic perspective.",
     "sanskrit": "श्री भगवानुवाच\n\nकालोऽस्मि लोकक्षयकृत्प्रवृद्धो\n\nलोकान्समाहर्तुमिह प्रवृत्तः।\n\nऋतेऽपि त्वां न भविष्यन्ति सर्वे\n\nयेऽवस्थिताः प्रत्यनीकेषु योधाः ।।",
     "transliteration": "śhrī-bhagavān uvācha\nkālo ’smi loka-kṣhaya-kṛit pravṛiddho\nlokān samāhartum iha pravṛittaḥ\nṛite ’pi tvāṁ na bhaviṣhyanti sarve\nye ’vasthitāḥ pratyanīkeṣhu yodhāḥ\n",
     "meaning": "The Blessed Lord said, \"I am the world-destroying Time, grown in stature and now engaged in annihilating the creatures. Even without you, all the warriors arrayed in the confronting armies will cease to exist!\"",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "Time destroys everything — but that means your failures and pain are also temporary. Don't cling to either.",
     "illustration": "/assets/illustrations/teens/11_32.png",
     "audio": "/assets/audio/teens/11_32.mp3"
   },
   {
-    "chapter": 11,
-    "verse": 33,
-    "title": "Be the Instrument",
+    "id": 49,
+    "source": "teens",
     "target_age": [
       "Teens",
       "Young Adult"
     ],
+    "chapter": 11,
+    "verse": 33,
+    "title": "Be the Instrument",
+    "theme": "Instrument of Purpose",
     "difficulty": "Intermediate",
     "tags": [
       "purpose",
@@ -1109,22 +1304,26 @@
       "destiny",
       "detachment"
     ],
+    "key_takeaway": "Rising to perform your duty as a mere instrument of the Divine plan. Overcoming hesitation.",
     "seo_description": "Rising to perform your duty as a mere instrument of the Divine plan. Overcoming hesitation.",
     "sanskrit": "तस्मात्त्वमुत्तिष्ठ यशो लभस्व\n\nजित्वा शत्रून् भुङ्क्ष्व राज्यं समृद्धम्।\n\nमयैवैते निहताः पूर्वमेव\n\nनिमित्तमात्रं भव सव्यसाचिन् ।।",
     "transliteration": "tasmāt tvam uttiṣhṭha yaśho labhasva\njitvā śhatrūn bhuṅकṣhva rājyaṁ samṛiddham\nmayaivaite nihatāḥ pūrvam eva\nnimitta-mātraṁ भव सव्यसाचिन्\n",
     "meaning": "Therefore, rise up and gain fame; and, defeating the enemies, enjoy a prosperous kingdom. These have been killed by Me even earlier; be you merely an instrument, O Savyasacin (Arjuna).",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "Be the Instrument: you are not the author of outcomes. Show up, do your part, and trust the bigger picture.",
     "illustration": "/assets/illustrations/teens/11_33.png",
     "audio": "/assets/audio/teens/11_33.mp3"
   },
   {
-    "chapter": 11,
-    "verse": 55,
-    "title": "Path to Peace",
+    "id": 50,
+    "source": "teens",
     "target_age": [
       "Teens",
       "Young Adult"
     ],
+    "chapter": 11,
+    "verse": 55,
+    "title": "Path to Peace",
+    "theme": "Path to the Divine",
     "difficulty": "Intermediate",
     "tags": [
       "detachment",
@@ -1132,22 +1331,26 @@
       "compassion",
       "spirituality"
     ],
+    "key_takeaway": "The formula for attaining the Divine: acting for God, being devoted, and showing no hatred.",
     "seo_description": "The formula for attaining the Divine: acting for God, being devoted, and showing no hatred.",
     "sanskrit": "मत्कर्मकृन्मत्परमो मद्भक्तः सङ्गवर्जितः।\n\nनिर्वैरः सर्वभूतेषु यः स मामेति पाण्डव ।।",
     "transliteration": "mat-karma-kṛin mat-paramo mad-bhaktaḥ saṅga-varjitaḥ\nnirvairaḥ sarva-bhūteṣhu yaḥ sa mām eti pāṇḍava\n",
     "meaning": "He who performs actions for Me, who regards Me as his supreme goal, who is devoted to Me, who is free from attachment, and who is free from hatred towards all beings—he attains Me, O son of Pandu!",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "Four keys: act for a higher purpose, stay devoted, release attachment, hold no hatred for anyone.",
     "illustration": "/assets/illustrations/teens/11_55.png",
     "audio": "/assets/audio/teens/11_55.mp3"
   },
   {
-    "chapter": 12,
-    "verse": 8,
-    "title": "Clinging to Wisdom",
+    "id": 51,
+    "source": "teens",
     "target_age": [
       "Teens",
       "Young Adult"
     ],
+    "chapter": 12,
+    "verse": 8,
+    "title": "Clinging to Wisdom",
+    "theme": "Single-Pointed Focus",
     "difficulty": "Intermediate",
     "tags": [
       "focus",
@@ -1155,22 +1358,26 @@
       "mindfulness",
       "devotion"
     ],
+    "key_takeaway": "The power of fixing your mind and intellect on the Divine for spiritual growth.",
     "seo_description": "The power of fixing your mind and intellect on the Divine for spiritual growth.",
     "sanskrit": "मय्येव मन आधत्स्व मयि बुद्धिं निवेशय।निवसिष्यसि मय्येव अत ऊर्ध्वं न संशयः ।।",
     "transliteration": "mayy eva mana ādhatsva mayi buddhiṁ niveśhaya\nnivasiṣhyasi mayy eva ata ūrdhvaṁ na sanśhayaḥ\n",
     "meaning": "Then let your mind cling only to Me, let your intellect abide in Me; and without doubt, you will live hereafter in Me alone.",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "The simplest path: fix your mind on what is highest and let your intellect follow. Everything else aligns.",
     "illustration": "/assets/illustrations/teens/12_8.png",
     "audio": "/assets/audio/teens/12_8.mp3"
   },
   {
-    "chapter": 12,
-    "verse": 13,
-    "title": "The Friendly Soul",
+    "id": 52,
+    "source": "teens",
     "target_age": [
       "Kids",
       "Teens"
     ],
+    "chapter": 12,
+    "verse": 13,
+    "title": "The Friendly Soul",
+    "theme": "Compassion",
     "difficulty": "Beginner",
     "tags": [
       "compassion",
@@ -1178,22 +1385,26 @@
       "ego-less",
       "endurance"
     ],
+    "key_takeaway": "Characteristics of a beloved devotee: friendly, compassionate, and free from 'I' and 'mine'.",
     "seo_description": "Characteristics of a beloved devotee: friendly, compassionate, and free from 'I' and 'mine'.",
     "sanskrit": "अद्वेष्टा सर्वभूतानां मैत्रः करुण एव च।निर्ममो निरहङ्कारः समदुःखसुखः क्षमी ।।",
     "transliteration": "adveṣhṭā sarva-bhūtānāṁ maitraḥ karuṇa eva cha\nnirmamo nirahankāraḥ sama-duḥkha-sukhaḥ kṣhamī\n",
     "meaning": "He who never hates any being, who is friendly and compassionate, who is free from the feelings of \"I\" and \"mine,\" who looks upon all pain and pleasure equally, and who is enduring;",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "Compassion is not weakness — it is the signature of someone who has done the inner work.",
     "illustration": "/assets/illustrations/teens/12_13.png",
     "audio": "/assets/audio/teens/12_13.mp3"
   },
   {
-    "chapter": 12,
-    "verse": 14,
-    "title": "The Content Heart",
+    "id": 53,
+    "source": "teens",
     "target_age": [
       "Teens",
       "Young Adult"
     ],
+    "chapter": 12,
+    "verse": 14,
+    "title": "The Content Heart",
+    "theme": "Contentment",
     "difficulty": "Intermediate",
     "tags": [
       "contentment",
@@ -1201,22 +1412,26 @@
       "self-control",
       "devotion"
     ],
+    "key_takeaway": "Being resolute and content. Why a dedicated mind is dear to the Divine.",
     "seo_description": "Being resolute and content. Why a dedicated mind is dear to the Divine.",
     "sanskrit": "सन्तुष्टः सततं योगी यतात्मा दृढनिश्चयः।मय्यर्पितमनोबुद्धिर्यो मद्भक्तः स मे प्रियः ।।",
     "transliteration": "santuṣhṭaḥ satataṁ yogī yatātmā dṛiḍha-niśhchayaḥ\nmayy arpita-mano-buddhir yo mad-bhaktaḥ sa me priyaḥ\n",
     "meaning": "Always content, self-centered, self-controlled, resolute, with mind and reason dedicated to Me, such a devotee of Mine is beloved to Me.",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "Contentment is a superpower. A steady, satisfied person achieves far more than a restless, hungry one.",
     "illustration": "/assets/illustrations/teens/12_14.png",
     "audio": "/assets/audio/teens/12_14.mp3"
   },
   {
-    "chapter": 12,
-    "verse": 15,
-    "title": "Unshakeable Peace",
+    "id": 54,
+    "source": "teens",
     "target_age": [
       "Teens",
       "Young Adult"
     ],
+    "chapter": 12,
+    "verse": 15,
+    "title": "Unshakeable Peace",
+    "theme": "Unshakeable Peace",
     "difficulty": "Intermediate",
     "tags": [
       "peace",
@@ -1224,21 +1439,25 @@
       "fearlessness",
       "emotional-stability"
     ],
+    "key_takeaway": "Being neither disturbed by the world nor a source of disturbance to it. Freedom from fear and anxiety.",
     "seo_description": "Being neither disturbed by the world nor a source of disturbance to it. Freedom from fear and anxiety.",
     "sanskrit": "यस्मान्नोद्विजते लोको लोकान्नोद्विजते च यः।हर्षामर्षभयोद्वेगैर्मुक्तो यः स च मे प्रियः ।।",
     "transliteration": "yasmān nodvijate loko lokān nodvijate cha yaḥ\nharṣhāmarṣha-bhayodvegair mukto yaḥ sa cha me priyaḥ\n",
     "meaning": "He, too, owing to whom the world is not disturbed, and who is not disturbed by the world, who is free from joy, impatience, fear, and anxiety, is dear to me.",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "Unshakeable Peace: don't disturb others, don't be disturbed. Be a stabilising presence wherever you go.",
     "illustration": "/assets/illustrations/teens/12_15.png",
     "audio": "/assets/audio/teens/12_15.mp3"
   },
   {
-    "chapter": 12,
-    "verse": 16,
-    "title": "The Dexterous Devotee",
+    "id": 55,
+    "source": "teens",
     "target_age": [
       "Young Adult"
     ],
+    "chapter": 12,
+    "verse": 16,
+    "title": "The Dexterous Devotee",
+    "theme": "Purity & Skill",
     "difficulty": "Advanced",
     "tags": [
       "purity",
@@ -1246,21 +1465,25 @@
       "impartiality",
       "detachment"
     ],
+    "key_takeaway": "Developing purity and skill without desire or fear. The characteristics of a true seeker.",
     "seo_description": "Developing purity and skill without desire or fear. The characteristics of a true seeker.",
     "sanskrit": "अनपेक्षः शुचिर्दक्ष उदासीनो गतव्यथः।सर्वारम्भपरित्यागी यो मद्भक्तः स मे प्रियः ।।",
     "transliteration": "anapekṣhaḥ śhuchir dakṣha udāsīno gata-vyathaḥ\nsarvārambha-parityāgī yo mad-bhaktaḥ sa me priyaḥ\n",
     "meaning": "He who has no desires, who is pure, dexterous, impartial, free from fear, and who has renounced every undertaking—such a devotee of Mine is dear to Me.",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "Purity and skill without neediness — this is what makes someone truly trusted and effective.",
     "illustration": "/assets/illustrations/teens/12_16.png",
     "audio": "/assets/audio/teens/12_16.mp3"
   },
   {
-    "chapter": 12,
-    "verse": 17,
-    "title": "Beyond Dualities",
+    "id": 56,
+    "source": "teens",
     "target_age": [
       "Young Adult"
     ],
+    "chapter": 12,
+    "verse": 17,
+    "title": "Beyond Dualities",
+    "theme": "Beyond Duality",
     "difficulty": "Advanced",
     "tags": [
       "equanimity",
@@ -1268,22 +1491,26 @@
       "detachment",
       "devotion"
     ],
+    "key_takeaway": "Being free from rejoicing or lamenting. Rising above the duality of good and bad.",
     "seo_description": "Being free from rejoicing or lamenting. Rising above the duality of good and bad.",
     "sanskrit": "यो न हृष्यति न द्वेष्टि न शोचति न काङ्क्षति।शुभाशुभपरित्यागी भक्ितमान्यः स मे प्रियः ।।",
     "transliteration": "yo na hṛiṣhyati na dveṣhṭi na śhochati na kāṅkṣhati\nśhubhāśhubha-parityāgī bhaktimān yaḥ sa me priyaḥ\n",
     "meaning": "He who does not rejoice, nor fret, nor lament, nor hanker; who gives up both good and bad, and is filled with devotion—he is dear to Me.",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "Rise above good news and bad news. Both are temporary. Your steadiness is the real asset.",
     "illustration": "/assets/illustrations/teens/12_17.png",
     "audio": "/assets/audio/teens/12_17.mp3"
   },
   {
-    "chapter": 12,
-    "verse": 18,
-    "title": "The Same Eye",
+    "id": 57,
+    "source": "teens",
     "target_age": [
       "Teens",
       "Young Adult"
     ],
+    "chapter": 12,
+    "verse": 18,
+    "title": "The Same Eye",
+    "theme": "Equanimity",
     "difficulty": "Intermediate",
     "tags": [
       "equality",
@@ -1291,21 +1518,25 @@
       "detachment",
       "resilience"
     ],
+    "key_takeaway": "Treating friend and foe, honor and dishonor, pleasure and pain with the same even mind.",
     "seo_description": "Treating friend and foe, honor and dishonor, pleasure and pain with the same even mind.",
     "sanskrit": "समः शत्रौ च मित्रे च तथा मानापमानयोः।शीतोष्णसुखदुःखेषु समः सङ्गविवर्जितः ।।",
     "transliteration": "samaḥ śhatrau cha mitre cha tathā mānāpamānayoḥ\nśhītoṣhṇa-sukha-duḥkheṣhu samaḥ saṅga-vivarjitaḥ\n",
     "meaning": "He who is the same to foe and friend, and also in honor and dishonor, who is the same in cold and heat, in pleasure and pain, and who is free from attachment.",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "Treat friend and foe the same — not because you're indifferent, but because you see past the surface.",
     "illustration": "/assets/illustrations/teens/12_18.png",
     "audio": "/assets/audio/teens/12_18.mp3"
   },
   {
-    "chapter": 12,
-    "verse": 19,
-    "title": "Steady Minded",
+    "id": 58,
+    "source": "teens",
     "target_age": [
       "Young Adult"
     ],
+    "chapter": 12,
+    "verse": 19,
+    "title": "Steady Minded",
+    "theme": "Silence & Steadiness",
     "difficulty": "Advanced",
     "tags": [
       "silence",
@@ -1313,21 +1544,25 @@
       "focus",
       "devotion"
     ],
+    "key_takeaway": "Valuing silence and contentment. Why a steady-minded person is dear to the Divine.",
     "seo_description": "Valuing silence and contentment. Why a steady-minded person is dear to the Divine.",
     "sanskrit": "तुल्यनिन्दास्तुतिर्मौनी सन्तुष्टो येनकेनचित्।अनिकेतः स्थिरमतिर्भक्ितमान्मे प्रियो नरः ।।",
     "transliteration": "tulya-nindā-stutir maunī santuṣhṭो yena kenachit\naniketaḥ sthira-matir bhaktimān me priyo naraḥ\n",
     "meaning": "To whom blame and praise are equal; who is silent (does not over-speak) and is content with whatever comes to him; who has no fixed thoughts in the mundane life; who is yet steady-minded in spiritual practice and is full of devotion—that man is dear to Me.",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "Silence is not emptiness — it is where wisdom lives. Practise saying less and observing more.",
     "illustration": "/assets/illustrations/teens/12_19.png",
     "audio": "/assets/audio/teens/12_19.mp3"
   },
   {
-    "chapter": 13,
-    "verse": 2,
-    "title": "The Field and the Knower",
+    "id": 59,
+    "source": "teens",
     "target_age": [
       "Young Adult"
     ],
+    "chapter": 13,
+    "verse": 2,
+    "title": "The Field and the Knower",
+    "theme": "Body & Self",
     "difficulty": "Advanced",
     "tags": [
       "body",
@@ -1335,21 +1570,25 @@
       "knowledge",
       "identity"
     ],
+    "key_takeaway": "The difference between the physical body (the field) and the conscious observer (the knower).",
     "seo_description": "The difference between the physical body (the field) and the conscious observer (the knower).",
     "sanskrit": "श्री भगवानुवाचइदं शरीरं कौन्तेय क्षेत्रमित्यभिधीयते।एतद्यो वेत्ति तं प्राहुः क्षेत्रज्ञ इति तद्विदः ।।",
     "transliteration": "śhrī-bhagavān uvācha\nidaṁ śharīraṁ kaunteya kṣhetram ity abhidhīyate\netad yo vetti taṁ prāhuḥ kṣhetra-jña iti tad-vidaḥ\n",
     "meaning": "The Blessed Lord said, \"O Arjuna, this body is called the field; he who knows it is called the knower of the field by those who know them.\"",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "You are not your body — you are the one who is aware of the body. That awareness is who you really are.",
     "illustration": "/assets/illustrations/teens/13_2.png",
     "audio": "/assets/audio/teens/13_2.mp3"
   },
   {
-    "chapter": 13,
-    "verse": 13,
-    "title": "Supreme Truth",
+    "id": 60,
+    "source": "teens",
     "target_age": [
       "Young Adult"
     ],
+    "chapter": 13,
+    "verse": 13,
+    "title": "Supreme Truth",
+    "theme": "Supreme Truth",
     "difficulty": "Advanced",
     "tags": [
       "bliss",
@@ -1357,21 +1596,25 @@
       "brahman",
       "reality"
     ],
+    "key_takeaway": "Understanding the eternal spirit that dwells within—the source of immortal bliss.",
     "seo_description": "Understanding the eternal spirit that dwells within—the source of immortal bliss.",
     "sanskrit": "ज्ञेयं यत्तत्प्रवक्ष्यामि यज्ज्ञात्वाऽमृतमश्नुते।अनादिमत्परं ब्रह्म न सत्तन्नासदुच्यते ।।",
     "transliteration": "jñeyaṁ yat tat pravakṣhyāmi yaj jñātvāmṛitam aśhnute\nanādi mat-paraṁ brahma na sat tan nāsad uchyate\n",
     "meaning": "I will now speak to you of that great truth which one ought to know, since by it one will attain immortal bliss—that which is without beginning, the eternal spirit which dwells in me, neither with form nor without it.",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "Brahman — the ultimate truth — is beyond all categories of being and non-being. It is experienced, not defined.",
     "illustration": "/assets/illustrations/teens/13_13.png",
     "audio": "/assets/audio/teens/13_13.mp3"
   },
   {
-    "chapter": 13,
-    "verse": 22,
-    "title": "The Soul in Nature",
+    "id": 61,
+    "source": "teens",
     "target_age": [
       "Young Adult"
     ],
+    "chapter": 13,
+    "verse": 22,
+    "title": "The Soul in Nature",
+    "theme": "Soul & Nature",
     "difficulty": "Advanced",
     "tags": [
       "soul",
@@ -1379,22 +1622,26 @@
       "qualities",
       "rebirth"
     ],
+    "key_takeaway": "How the soul experiences qualities of nature and why attachment leads to cycles of rebirth.",
     "seo_description": "How the soul experiences qualities of nature and why attachment leads to cycles of rebirth.",
     "sanskrit": "पुरुषः प्रकृतिस्थो हि भुङ्क्ते प्रकृतिजान्गुणान्।कारणं गुणसङ्गोऽस्य सदसद्योनिजन्मसु ।।",
     "transliteration": "puruṣhaḥ prakṛiti-stho hi bhuṅkte prakṛiti-jān guṇān\nkāraṇaṁ guṇa-saṅgo ’sya sad-asad-yoni-janmasu\n",
     "meaning": "The soul seated in Nature experiences the qualities born of Nature; attachment to the qualities is the cause of its birth in good and evil wombs.",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "Every attachment to a quality of nature — good or bad — creates a new cycle. Liberation means watching without grabbing.",
     "illustration": "/assets/illustrations/teens/13_22.png",
     "audio": "/assets/audio/teens/13_22.mp3"
   },
   {
-    "chapter": 13,
-    "verse": 28,
-    "title": "Seeing Truly",
+    "id": 62,
+    "source": "teens",
     "target_age": [
       "Teens",
       "Young Adult"
     ],
+    "chapter": 13,
+    "verse": 28,
+    "title": "Seeing Truly",
+    "theme": "True Vision",
     "difficulty": "Intermediate",
     "tags": [
       "perception",
@@ -1402,21 +1649,25 @@
       "divinity",
       "vision"
     ],
+    "key_takeaway": "Seeing the imperishable Divine in all perishable beings. The definition of true vision.",
     "seo_description": "Seeing the imperishable Divine in all perishable beings. The definition of true vision.",
     "sanskrit": "समं सर्वेषु भूतेषु तिष्ठन्तं परमेश्वरम्।विनश्यत्स्वविनश्यन्तं यः पश्यति स पश्यति ।।",
     "transliteration": "samaṁ sarveṣhu bhūteṣhu tiṣhṭhantaṁ parameśhvaram\nvinaśhyatsv avinaśhyantaṁ yaḥ paśhyati sa paśhyati\n",
     "meaning": "He who sees the Supreme Lord existing truly in all beings, the imperishable within the perishable, sees indeed.",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "See Truly: when you see the same Divine spark in every person, harming them becomes impossible.",
     "illustration": "/assets/illustrations/teens/13_28.png",
     "audio": "/assets/audio/teens/13_28.mp3"
   },
   {
-    "chapter": 13,
-    "verse": 30,
-    "title": "Nature's Actions",
+    "id": 63,
+    "source": "teens",
     "target_age": [
       "Young Adult"
     ],
+    "chapter": 13,
+    "verse": 30,
+    "title": "Nature's Actions",
+    "theme": "Nature as Actor",
     "difficulty": "Advanced",
     "tags": [
       "nature",
@@ -1424,22 +1675,26 @@
       "self",
       "observer"
     ],
+    "key_takeaway": "Recognizing that actions are performed by nature while the inner Self remains an observer.",
     "seo_description": "Recognizing that actions are performed by nature while the inner Self remains an observer.",
     "sanskrit": "प्रकृत्यैव च कर्माणि क्रियमाणानि सर्वशः।यः पश्यति तथाऽऽत्मानमकर्तारं स पश्यति ।।",
     "transliteration": "prakṛityaiva cha karmāṇi kriyamāṇāni sarvaśhaḥ\nyaḥ paśhyati tathātmānam akartāraṁ sa paśhyati\n",
     "meaning": "He sees, who sees that all actions are performed solely by Nature and that the Self is without action.",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "You are the observer, not the actor. Nature acts through you. Rest in that witnessing awareness.",
     "illustration": "/assets/illustrations/teens/13_30.png",
     "audio": "/assets/audio/teens/13_30.mp3"
   },
   {
-    "chapter": 14,
-    "verse": 5,
-    "title": "The Three Strings",
+    "id": 64,
+    "source": "teens",
     "target_age": [
       "Teens",
       "Young Adult"
     ],
+    "chapter": 14,
+    "verse": 5,
+    "title": "The Three Strings",
+    "theme": "Three Qualities",
     "difficulty": "Intermediate",
     "tags": [
       "qualities",
@@ -1447,22 +1702,26 @@
       "purity",
       "passion"
     ],
+    "key_takeaway": "Understanding the three qualities of nature—purity, passion, and inertia—that bind the soul.",
     "seo_description": "Understanding the three qualities of nature—purity, passion, and inertia—that bind the soul.",
     "sanskrit": "सत्त्वं रजस्तम इति गुणाः प्रकृतिसंभवाः।निबध्नन्ति महाबाहो देहे देहिनमव्ययम् ।।",
     "transliteration": "sattvaṁ rajas tama iti guṇāḥ prakṛiti-sambhavāḥ\nnibadhnanti mahā-bāho dehe dehinam avyayam\n",
     "meaning": "These qualities, O Arjuna, born of Nature, bind fast in the body of the embodied, the indestructible: purity, passion, and inertia.",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "You operate in three modes: clarity (sattva), passion (rajas), inertia (tamas). Notice which one is running you right now.",
     "illustration": "/assets/illustrations/teens/14_5.png",
     "audio": "/assets/audio/teens/14_5.mp3"
   },
   {
-    "chapter": 14,
-    "verse": 17,
-    "title": "Fruits of Qualities",
+    "id": 65,
+    "source": "teens",
     "target_age": [
       "Teens",
       "Young Adult"
     ],
+    "chapter": 14,
+    "verse": 17,
+    "title": "Fruits of Qualities",
+    "theme": "Fruits of Qualities",
     "difficulty": "Intermediate",
     "tags": [
       "knowledge",
@@ -1470,21 +1729,25 @@
       "delusion",
       "psychology"
     ],
+    "key_takeaway": "How purity leads to knowledge, passion to greed, and inertia to delusion.",
     "seo_description": "How purity leads to knowledge, passion to greed, and inertia to delusion.",
     "sanskrit": "सत्त्वात्सञ्जायते ज्ञानं रजसो लोभ एव च।प्रमादमोहौ तमसो भवतोऽज्ञानमेव च ।।",
     "transliteration": "sattvāt sañjāyate jñānaṁ rajaso lobha eva cha\npramāda-mohau tamaso bhavato ’jñānam eva cha\n",
     "meaning": "From Sattva arises knowledge, and greed from Rajas; heedlessness and delusion arise from Tamas, and also ignorance.",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "Clarity breeds wisdom. Passion breeds greed. Inertia breeds confusion. Cultivate clarity deliberately.",
     "illustration": "/assets/illustrations/teens/14_17.png",
     "audio": "/assets/audio/teens/14_17.mp3"
   },
   {
-    "chapter": 14,
-    "verse": 20,
-    "title": "Transcending Limits",
+    "id": 66,
+    "source": "teens",
     "target_age": [
       "Young Adult"
     ],
+    "chapter": 14,
+    "verse": 20,
+    "title": "Transcending Limits",
+    "theme": "Transcendence",
     "difficulty": "Advanced",
     "tags": [
       "immortality",
@@ -1492,21 +1755,25 @@
       "growth",
       "soul"
     ],
+    "key_takeaway": "Rising beyond the three qualities to attain freedom from aging, birth, and death.",
     "seo_description": "Rising beyond the three qualities to attain freedom from aging, birth, and death.",
     "sanskrit": "गुणानेतानतीत्य त्रीन्देही देहसमुद्भवान्।जन्ममृत्युजरादुःखैर्विमुक्तोऽमृतमश्नुते ।।",
     "transliteration": "guṇān etān atītya trīn dehī deha-samudbhavān\njanma-mṛityu-jarā-duḥkhair vimukto ’mṛitam aśhnute\n",
     "meaning": "The embodied Self, crossing beyond these three Gunas that arise in the body, and being freed from birth, death, aging, and pain, attains immortality.",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "The goal is not just to be sattvic — it is to transcend all three modes and be free of the pull entirely.",
     "illustration": "/assets/illustrations/teens/14_20.png",
     "audio": "/assets/audio/teens/14_20.mp3"
   },
   {
-    "chapter": 14,
-    "verse": 26,
-    "title": "Beyond the Gunas",
+    "id": 67,
+    "source": "teens",
     "target_age": [
       "Young Adult"
     ],
+    "chapter": 14,
+    "verse": 26,
+    "title": "Beyond the Gunas",
+    "theme": "Devotion beyond Qualities",
     "difficulty": "Advanced",
     "tags": [
       "devotion",
@@ -1514,21 +1781,25 @@
       "qualities",
       "spirituality"
     ],
+    "key_takeaway": "How unswerving devotion helps one transcend the qualities of nature and qualify for Brahman.",
     "seo_description": "How unswerving devotion helps one transcend the qualities of nature and qualify for Brahman.",
     "sanskrit": "मां च योऽव्यभिचारेण भक्ितयोगेन सेवते।स गुणान्समतीत्यैतान् ब्रह्मभूयाय कल्पते ।।",
     "transliteration": "māṁ cha yo ’vyabhichāreṇa bhakti-yogena sevate\nsa guṇān samatītyaitān brahma-bhūyāya kalpate\n\n",
     "meaning": "And he who serves Me through the unswerving Yoga of Devotion, he, having gone beyond these qualities, qualifies for becoming Brahman.",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "Unswerving devotion is the fast track to transcending your own limitations and conditioning.",
     "illustration": "/assets/illustrations/teens/14_26.png",
     "audio": "/assets/audio/teens/14_26.mp3"
   },
   {
-    "chapter": 15,
-    "verse": 1,
-    "title": "The Upside Down Tree",
+    "id": 68,
+    "source": "teens",
     "target_age": [
       "Young Adult"
     ],
+    "chapter": 15,
+    "verse": 1,
+    "title": "The Upside Down Tree",
+    "theme": "World as Symbol",
     "difficulty": "Advanced",
     "tags": [
       "symbolism",
@@ -1536,21 +1807,25 @@
       "vedas",
       "wisdom"
     ],
+    "key_takeaway": "The metaphor of the imperishable Peepul tree with roots upward and branches downward.",
     "seo_description": "The metaphor of the imperishable Peepul tree with roots upward and branches downward.",
     "sanskrit": "श्री भगवानुवाचऊर्ध्वमूलमधःशाखमश्वत्थं प्राहुरव्ययम्।छन्दांसि यस्य पर्णानि यस्तं वेद स वेदवित् ।।",
     "transliteration": "śhrī-bhagavān uvācha\nūrdhva-mūlam adhaḥ-śhākham aśhvatthaṁ prāhur avyayam\nchhandānsi yasya parṇāni yas taṁ veda sa veda-vit\n",
     "meaning": "The Blessed Lord said, \"They say that the peepul tree, which has its roots upward and its branches downward, and of which the Vedas are the leaves, is imperishable. He who realizes it is a knower of the Vedas.\"",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "The world is an upside-down tree — its roots are in the Divine, its branches in the material. Cut attachment at the root.",
     "illustration": "/assets/illustrations/teens/15_1.png",
     "audio": "/assets/audio/teens/15_1.mp3"
   },
   {
-    "chapter": 15,
-    "verse": 2,
-    "title": "Roots of Action",
+    "id": 69,
+    "source": "teens",
     "target_age": [
       "Young Adult"
     ],
+    "chapter": 15,
+    "verse": 2,
+    "title": "Roots of Action",
+    "theme": "Roots of Action",
     "difficulty": "Advanced",
     "tags": [
       "actions",
@@ -1558,22 +1833,26 @@
       "nature",
       "attachment"
     ],
+    "key_takeaway": "How the branches of the worldly tree are nourished by the qualities and rooted in action.",
     "seo_description": "How the branches of the worldly tree are nourished by the qualities and rooted in action.",
     "sanskrit": "अधश्चोर्ध्वं प्रसृतास्तस्य शाखा     गुणप्रवृद्धा विषयप्रवालाः।अधश्च मूलान्यनुसन्ततानि     कर्मानुबन्धीनि मनुष्यलोके ।।",
     "transliteration": "adhaśh chordhvaṁ prasṛitās tasya śhākhā\nguṇa-pravṛiddhā viṣhaya-pravālāḥ\nadhaśh cha mūlāny anusantatāni\nkarmānubandhīni manuṣhya-loke\n",
     "meaning": "Its branches spread below and above, nourished by the Gunas; its buds are sense-objects, and its roots stretch forth below in the world of men, originating action.",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "Your senses and desires are the branches. Know where they come from and you will not be lost in them.",
     "illustration": "/assets/illustrations/teens/15_2.png",
     "audio": "/assets/audio/teens/15_2.mp3"
   },
   {
-    "chapter": 15,
-    "verse": 6,
-    "title": "The Supreme Abode",
+    "id": 70,
+    "source": "teens",
     "target_age": [
       "Teens",
       "Young Adult"
     ],
+    "chapter": 15,
+    "verse": 6,
+    "title": "The Supreme Abode",
+    "theme": "Supreme Abode",
     "difficulty": "Intermediate",
     "tags": [
       "light",
@@ -1581,22 +1860,26 @@
       "eternity",
       "beyond"
     ],
+    "key_takeaway": "A state of existence that needs no sun, moon, or fire. The eternal home of the soul.",
     "seo_description": "A state of existence that needs no sun, moon, or fire. The eternal home of the soul.",
     "sanskrit": "न तद्भासयते सूर्यो न शशाङ्को न पावकः।यद्गत्वा न निवर्तन्ते तद्धाम परमं मम ।।",
     "transliteration": "na tad bhāsayate sūryo na śhaśhāṅko na pāvakaḥ\nyad gatvā na nivartante tad dhāma paramaṁ mama\n\n",
     "meaning": "Neither does the sun illuminate there, nor the moon, nor the fire; having gone there, they do not return; that is My supreme abode.",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "There is a place within you that needs no external light. Find it. That is your true home.",
     "illustration": "/assets/illustrations/teens/15_6.png",
     "audio": "/assets/audio/teens/15_6.mp3"
   },
   {
-    "chapter": 15,
-    "verse": 7,
-    "title": "A Piece of the Divine",
+    "id": 71,
+    "source": "teens",
     "target_age": [
       "Kids",
       "Teens"
     ],
+    "chapter": 15,
+    "verse": 7,
+    "title": "A Piece of the Divine",
+    "theme": "Divine Fragment",
     "difficulty": "Beginner",
     "tags": [
       "identity",
@@ -1604,22 +1887,26 @@
       "soul",
       "belonging"
     ],
+    "key_takeaway": "Every living being is an eternal fragment of the Divine. A verse on true self-worth.",
     "seo_description": "Every living being is an eternal fragment of the Divine. A verse on true self-worth.",
     "sanskrit": "ममैवांशो जीवलोके जीवभूतः सनातनः।मनःषष्ठानीन्द्रियाणि प्रकृतिस्थानि कर्षति ।।",
     "transliteration": "mamaivānśho jīva-loke jīva-bhūtaḥ sanātanaḥ\nmanaḥ-ṣhaṣhṭhānīndriyāṇi prakṛiti-sthāni karṣhati\n",
     "meaning": "An eternal portion of Myself having become a living soul in the world of life, draws to itself the five senses, with the mind as the sixth, abiding in Nature.",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "You are an eternal fragment of the Divine, temporarily entangled in the senses. Remember who you really are.",
     "illustration": "/assets/illustrations/teens/15_7.png",
     "audio": "/assets/audio/teens/15_7.mp3"
   },
   {
-    "chapter": 15,
-    "verse": 15,
-    "title": "The Source of Memory",
+    "id": 72,
+    "source": "teens",
     "target_age": [
       "Teens",
       "Young Adult"
     ],
+    "chapter": 15,
+    "verse": 15,
+    "title": "The Source of Memory",
+    "theme": "Divine Memory",
     "difficulty": "Intermediate",
     "tags": [
       "memory",
@@ -1627,22 +1914,26 @@
       "heart",
       "intellect"
     ],
+    "key_takeaway": "God as the source of memory, knowledge, and discernment dwelling in the heart.",
     "seo_description": "God as the source of memory, knowledge, and discernment dwelling in the heart.",
     "sanskrit": "सर्वस्य चाहं हृदि सन्निविष्टो    मत्तः स्मृतिर्ज्ञानमपोहनं च।वेदैश्च सर्वैरहमेव वेद्यो    वेदान्तकृद्वेदविदेव चाहम् ।।",
     "transliteration": "sarvasya chāhaṁ hṛidi sanniviṣhṭo\nmattaḥ smṛitir jñānam apohanaṁ cha\nvedaiśh cha sarvair aham eva vedyo\nvedānta-kṛid veda-vid eva chāham\n\n",
     "meaning": "I am entered in the hearts of all; from Me come the faculties of memory, knowledge, and discernment; none but Me is to be known by means of all the Vedas, and I am alone the author of the final part of the Vedas and also the author of the Vedas themselves.",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "Every memory, every insight, every moment of forgetting — all of it comes from the same divine source within.",
     "illustration": "/assets/illustrations/teens/15_15.png",
     "audio": "/assets/audio/teens/15_15.mp3"
   },
   {
-    "chapter": 16,
-    "verse": 1,
-    "title": "The Noble Qualities",
+    "id": 73,
+    "source": "teens",
     "target_age": [
       "Teens",
       "Young Adult"
     ],
+    "chapter": 16,
+    "verse": 1,
+    "title": "The Noble Qualities",
+    "theme": "Divine Qualities",
     "difficulty": "Intermediate",
     "tags": [
       "fearlessness",
@@ -1650,22 +1941,26 @@
       "knowledge",
       "values"
     ],
+    "key_takeaway": "A list of divine qualities like fearlessness and purity of heart for personal growth.",
     "seo_description": "A list of divine qualities like fearlessness and purity of heart for personal growth.",
     "sanskrit": "श्री भगवानुवाच\n\nअभयं सत्त्वसंशुद्धिः ज्ञानयोगव्यवस्थितिः।\n\nदानं दमश्च यज्ञश्च स्वाध्यायस्तप आर्जवम् ।।",
     "transliteration": "śhrī-bhagavān uvācha\nabhayaṁ sattva-sanśhuddhir jñāna-yoga-vyavasthitiḥ\ndānaṁ damaśh cha yajñaśh cha svādhyāyas tapa ārjavam\n",
     "meaning": "The Blessed Lord said: Fearlessness, purity of heart, steadfastness in knowledge and yoga, almsgiving, control of the senses, sacrifice, study of scriptures, austerity, and straightforwardness.",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "Your real superpowers: fearlessness, purity, honesty, generosity. These outperform talent every time.",
     "illustration": "/assets/illustrations/teens/16_1.png",
     "audio": "/assets/audio/teens/16_1.mp3"
   },
   {
-    "chapter": 16,
-    "verse": 2,
-    "title": "The Compassionate Path",
+    "id": 74,
+    "source": "teens",
     "target_age": [
       "Kids",
       "Teens"
     ],
+    "chapter": 16,
+    "verse": 2,
+    "title": "The Compassionate Path",
+    "theme": "Non-Violence & Truth",
     "difficulty": "Beginner",
     "tags": [
       "non-violence",
@@ -1673,22 +1968,26 @@
       "compassion",
       "gentleness"
     ],
+    "key_takeaway": "Embracing harmlessness, truth, and compassion. Core values for a peaceful life.",
     "seo_description": "Embracing harmlessness, truth, and compassion. Core values for a peaceful life.",
     "sanskrit": "अहिंसा सत्यमक्रोधस्त्यागः शान्तिरपैशुनम्।दया भूतेष्वलोलुप्त्वं मार्दवं ह्रीरचापलम् ।।",
     "transliteration": "ahinsā satyam akrodhas tyāgaḥ śhāntir apaiśhunam\ndayā bhūteṣhv aloluptvaṁ mārdavaṁ hrīr achāpalam\n",
     "meaning": "Harmlessness, truth, absence of anger, renunciation, peacefulness, absence of crookedness, compassion for beings, non-covetousness, gentleness, modesty, and absence of fickleness.",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "Non-violence, truth, and compassion are not signs of weakness — they are the marks of extraordinary strength.",
     "illustration": "/assets/illustrations/teens/16_2.png",
     "audio": "/assets/audio/teens/16_2.mp3"
   },
   {
-    "chapter": 16,
-    "verse": 3,
-    "title": "Inner Fortitude",
+    "id": 75,
+    "source": "teens",
     "target_age": [
       "Teens",
       "Young Adult"
     ],
+    "chapter": 16,
+    "verse": 3,
+    "title": "Inner Fortitude",
+    "theme": "Inner Fortitude",
     "difficulty": "Intermediate",
     "tags": [
       "forgiveness",
@@ -1696,22 +1995,26 @@
       "purity",
       "humility"
     ],
+    "key_takeaway": "The divine nature: vigor, forgiveness, and freedom from haughtiness.",
     "seo_description": "The divine nature: vigor, forgiveness, and freedom from haughtiness.",
     "sanskrit": "तेजः क्षमा धृतिः शौचमद्रोहो नातिमानिता।\n\nभवन्ति सम्पदं दैवीमभिजातस्य भारत ।।",
     "transliteration": "tejaḥ kṣhamā dhṛitiḥ śhaucham adroho nāti-mānitā\nbhavanti sampadaṁ daivīm abhijātasya bhārata\n",
     "meaning": "Vigour, forgiveness, fortitude, purity, freedom from malice, absence of haughtiness—these, O scion of the Bharata dynasty, are the qualities of one born destined to have the divine nature.",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "Vigour + forgiveness + humility: the combination that builds real, lasting character.",
     "illustration": "/assets/illustrations/teens/16_3.png",
     "audio": "/assets/audio/teens/16_3.mp3"
   },
   {
-    "chapter": 16,
-    "verse": 21,
-    "title": "The Three Gates",
+    "id": 76,
+    "source": "teens",
     "target_age": [
       "Teens",
       "Young Adult"
     ],
+    "chapter": 16,
+    "verse": 21,
+    "title": "The Three Gates",
+    "theme": "Three Dangers",
     "difficulty": "Beginner",
     "tags": [
       "anger",
@@ -1719,21 +2022,25 @@
       "desire",
       "warning"
     ],
+    "key_takeaway": "Avoiding the three gateways to ruin: desire, wrath, and greed. A warning for self-preservation.",
     "seo_description": "Avoiding the three gateways to ruin: desire, wrath, and greed. A warning for self-preservation.",
     "sanskrit": "त्रिविधं नरकस्येदं द्वारं नाशनमात्मनः।कामः क्रोधस्तथा लोभस्तस्मादेतत्त्रयं त्यजेत् ।।",
     "transliteration": "tri-vidhaṁ narakasyedaṁ dvāraṁ nāśhanam ātmanaḥ\nkāmaḥ krodhas tathā lobhas tasmād etat trayaṁ tyajet\n",
     "meaning": "Desire, wrath, and greed—these are the three gateways to Naraka, ruinous to the self. Therefore, one should abandon these three.",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "Three traps: lust (wanting), wrath (reacting), and greed (hoarding). Avoid all three as doorways to self-destruction.",
     "illustration": "/assets/illustrations/teens/16_21.png",
     "audio": "/assets/audio/teens/16_21.mp3"
   },
   {
-    "chapter": 16,
-    "verse": 24,
-    "title": "Authority of Wisdom",
+    "id": 77,
+    "source": "teens",
     "target_age": [
       "Young Adult"
     ],
+    "chapter": 16,
+    "verse": 24,
+    "title": "Authority of Wisdom",
+    "theme": "Authority of Scripture",
     "difficulty": "Advanced",
     "tags": [
       "guidance",
@@ -1741,22 +2048,26 @@
       "action",
       "wisdom"
     ],
+    "key_takeaway": "Using timeless wisdom as an authority for determining right and wrong action.",
     "seo_description": "Using timeless wisdom as an authority for determining right and wrong action.",
     "sanskrit": "तस्माच्छास्त्रं प्रमाणं ते कार्याकार्यव्यवस्थितौ।ज्ञात्वा शास्त्रविधानोक्तं कर्म कर्तुमिहार्हसि ।।",
     "transliteration": "tasmāch chhāstraṁ pramāṇaṁ te kāryākārya-vyavasthitau\njñātvā śhāstra-vidhānoktaṁ karma kartum ihārhasi\n",
     "meaning": "Therefore, let the scripture be thy authority in determining what ought to be done and what ought not to be done. Having known what is said in the ordinance of the scriptures, thou shouldst act in this world.",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "When unsure what to do, consult timeless wisdom — not just trending opinion. Truth has a longer track record.",
     "illustration": "/assets/illustrations/teens/16_24.png",
     "audio": "/assets/audio/teens/16_24.mp3"
   },
   {
-    "chapter": 17,
-    "verse": 3,
-    "title": "The Power of Belief",
+    "id": 78,
+    "source": "teens",
     "target_age": [
       "Teens",
       "Young Adult"
     ],
+    "chapter": 17,
+    "verse": 3,
+    "title": "The Power of Belief",
+    "theme": "Power of Belief",
     "difficulty": "Intermediate",
     "tags": [
       "belief",
@@ -1764,22 +2075,26 @@
       "identity",
       "faith"
     ],
+    "key_takeaway": "How our faith and beliefs shape who we become. A verse on the power of the mind.",
     "seo_description": "How our faith and beliefs shape who we become. A verse on the power of the mind.",
     "sanskrit": "सत्त्वानुरूपा सर्वस्य श्रद्धा भवति भारत।श्रद्धामयोऽयं पुरुषो यो यच्छ्रद्धः स एव सः ।।",
     "transliteration": "sattvānurūpā sarvasya śhraddhā bhavati bhārata\nśhraddhā-mayo ‘yaṁ puruṣho yo yach-chhraddhaḥ sa eva saḥ\n",
     "meaning": "Corresponding to one's own sattva, O descendant of Bharata, everybody has faith. The person predominantly consists of faith. Whatever one has faith in, that he becomes certainly.",
-    "lifeHack": "The Power of Belief: You are literally built from your beliefs. If you believe you can grow, you will. Choose your faith wisely.",
+    "lifeHack": "The Power of Belief: you are literally built from your beliefs. If you believe you can grow, you will. Choose your faith wisely.",
     "illustration": "/assets/illustrations/teens/17_3.png",
     "audio": "/assets/audio/teens/17_3.mp3"
   },
   {
-    "chapter": 17,
-    "verse": 20,
-    "title": "The Right Gift",
+    "id": 79,
+    "source": "teens",
     "target_age": [
       "Kids",
       "Teens"
     ],
+    "chapter": 17,
+    "verse": 20,
+    "title": "The Right Gift",
+    "theme": "Sattvic Giving",
     "difficulty": "Beginner",
     "tags": [
       "giving",
@@ -1787,22 +2102,26 @@
       "intention",
       "kindness"
     ],
+    "key_takeaway": "The purest form of giving: helping someone without expecting anything in return at the right time.",
     "seo_description": "The purest form of giving: helping someone without expecting anything in return at the right time.",
     "sanskrit": "दातव्यमिति यद्दानं दीयतेऽनुपकारिणे।देशे काले च पात्रे च तद्दानं सात्त्विकं स्मृतम् ।।",
     "transliteration": "dātavyam iti yad dānaṁ dīyate ‘nupakāriṇe\ndeśhe kāle cha pātre cha tad dānaṁ sāttvikaṁ smṛitam\n",
     "meaning": "A gift that is given with the thought that 'one must give' and is given in an appropriate place and at the right time to a worthy person who is unable to repay—that gift is considered to be of the Sattva.",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "Give without expecting anything back, at the right time, to the right person. That is the purest form of generosity.",
     "illustration": "/assets/illustrations/teens/17_20.png",
     "audio": "/assets/audio/teens/17_20.mp3"
   },
   {
-    "chapter": 17,
-    "verse": 28,
-    "title": "Value of Faith",
+    "id": 80,
+    "source": "teens",
     "target_age": [
       "Teens",
       "Young Adult"
     ],
+    "chapter": 17,
+    "verse": 28,
+    "title": "Value of Faith",
+    "theme": "Sincere Intent",
     "difficulty": "Intermediate",
     "tags": [
       "faith",
@@ -1810,21 +2129,25 @@
       "sincerity",
       "spirituality"
     ],
+    "key_takeaway": "Why actions performed without faith have no value. The importance of sincere intention.",
     "seo_description": "Why actions performed without faith have no value. The importance of sincere intention.",
     "sanskrit": "अश्रद्धया हुतं दत्तं तपस्तप्तं कृतं च यत्।असदित्युच्यते पार्थ न च तत्प्रेत्य नो इह ।।",
     "transliteration": "aśhraddhayā hutaṁ dattaṁ tapas taptaṁ kṛitaṁ cha yat\nasad ity uchyate pārtha na cha tat pretya no iha\n",
     "meaning": "Whatever is sacrificed, given, or performed, and whatever austerity is practiced without faith, it is called 'Asat', O Arjuna; it is of no value here or hereafter (after death).",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "Anything done without sincerity — rituals, gifts, study — has no real value. Intention is the activating ingredient.",
     "illustration": "/assets/illustrations/teens/17_28.png",
     "audio": "/assets/audio/teens/17_28.mp3"
   },
   {
-    "chapter": 18,
-    "verse": 5,
-    "title": "Pillars of Purity",
+    "id": 81,
+    "source": "teens",
     "target_age": [
       "Young Adult"
     ],
+    "chapter": 18,
+    "verse": 5,
+    "title": "Pillars of Purity",
+    "theme": "Purification",
     "difficulty": "Advanced",
     "tags": [
       "purification",
@@ -1832,22 +2155,26 @@
       "charity",
       "wisdom"
     ],
+    "key_takeaway": "Acts of sacrifice, gifts, and austerities should not be given up; they are means of purification.",
     "seo_description": "Acts of sacrifice, gifts, and austerities should not be given up; they are means of purification.",
     "sanskrit": "यज्ञदानतपःकर्म न त्याज्यं कार्यमेव तत्।यज्ञो दानं तपश्चैव पावनानि मनीषिणाम् ।।",
     "transliteration": "yajña-dāna-tapaḥ-karma na tyājyaṁ kāryam eva tat\nyajño dānaṁ tapaśh chaiva pāvanāni manīṣhiṇām\n",
     "meaning": "(a) The acts of sacrifice, gifts, and austerities should not be relinquished; but should be performed...\n\n(b) ...For sacrifices, gifts, and austerities are the means of purification for the wise.",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "Never give up on sacrifice, giving, and self-discipline. They are the tools that refine you over a lifetime.",
     "illustration": "/assets/illustrations/teens/18_5.png",
     "audio": "/assets/audio/teens/18_5.mp3"
   },
   {
-    "chapter": 18,
-    "verse": 6,
-    "title": "Relinquishing Results",
+    "id": 82,
+    "source": "teens",
     "target_age": [
       "Teens",
       "Young Adult"
     ],
+    "chapter": 18,
+    "verse": 6,
+    "title": "Relinquishing Results",
+    "theme": "Detached Action",
     "difficulty": "Intermediate",
     "tags": [
       "detachment",
@@ -1855,22 +2182,26 @@
       "focus",
       "work-ethic"
     ],
+    "key_takeaway": "Performing duties without attachment to the results. The ultimate guide to selfless action.",
     "seo_description": "Performing duties without attachment to the results. The ultimate guide to selfless action.",
     "sanskrit": "एतान्यपि तु कर्माणि सङ्गं त्यक्त्वा फलानि च।कर्तव्यानीति मे पार्थ निश्िचतं मतमुत्तमम् ।।",
     "transliteration": "etāny api tu karmāṇi saṅgaṁ tyaktvā phalāni cha\nkartavyānīti me pārtha niśhchitaṁ matam uttamam\n",
     "meaning": "It is My decided and final view that even these acts should be done, O Arjuna, with relinquishment of attachment and the forsaking of the fruits thereof.",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "Do your duties fully — but release attachment to whether they go well or badly. That is spiritual maturity.",
     "illustration": "/assets/illustrations/teens/18_6.png",
     "audio": "/assets/audio/teens/18_6.mp3"
   },
   {
-    "chapter": 18,
-    "verse": 45,
-    "title": "Success in Duty",
+    "id": 83,
+    "source": "teens",
     "target_age": [
       "Teens",
       "Young Adult"
     ],
+    "chapter": 18,
+    "verse": 45,
+    "title": "Success in Duty",
+    "theme": "Duty & Success",
     "difficulty": "Intermediate",
     "tags": [
       "success",
@@ -1878,21 +2209,25 @@
       "dedication",
       "achievement"
     ],
+    "key_takeaway": "How being devoted to one's own duty leads to complete success and fulfillment.",
     "seo_description": "How being devoted to one's own duty leads to complete success and fulfillment.",
     "sanskrit": "स्वे स्वे कर्मण्यभिरतः संसिद्धिं लभते नरः।स्वकर्मनिरतः सिद्धिं यथा विन्दति तच्छृणु ।।",
     "transliteration": "sve sve karmaṇy abhirataḥ sansiddhiṁ labhate naraḥ\nsva-karma-nirataḥ siddhiṁ yathā vindati tach chhṛiṇu\n",
     "meaning": "Being devoted to his own duty, one attains complete success. Hear how one devoted to their own duty achieves success.",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "Success comes from mastering your own lane — not from comparing yourself to everyone else.",
     "illustration": "/assets/illustrations/teens/18_45.png",
     "audio": "/assets/audio/teens/18_45.mp3"
   },
   {
-    "chapter": 18,
-    "verse": 55,
-    "title": "Knowing through Devotion",
+    "id": 84,
+    "source": "teens",
     "target_age": [
       "Young Adult"
     ],
+    "chapter": 18,
+    "verse": 55,
+    "title": "Knowing through Devotion",
+    "theme": "Devotional Knowledge",
     "difficulty": "Advanced",
     "tags": [
       "devotion",
@@ -1900,21 +2235,25 @@
       "unity",
       "spirituality"
     ],
+    "key_takeaway": "How devotion allows one to truly know the Divine and enter into that supreme state.",
     "seo_description": "How devotion allows one to truly know the Divine and enter into that supreme state.",
     "sanskrit": "भक्त्या मामभिजानाति यावान्यश्चास्मि तत्त्वतः।ततो मां तत्त्वतो ज्ञात्वा विशते तदनन्तरम् ।।",
     "transliteration": "bhaktyā mām abhijānāti yāvān yaśh chāsmi tattvataḥ\ntato māṁ tattvato jñātvā viśhate tad-anantaram\n",
     "meaning": "Through devotion he comes to know of Me: Who I am and how, in fact, I am—having correctly known Me, he enters into Me. Then afterwards,",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "True knowledge of the Divine comes not from study alone, but from devotion — loving inquiry from the heart.",
     "illustration": "/assets/illustrations/teens/18_55.png",
     "audio": "/assets/audio/teens/18_55.mp3"
   },
   {
-    "chapter": 18,
-    "verse": 61,
-    "title": "The Inner Machine",
+    "id": 85,
+    "source": "teens",
     "target_age": [
       "Young Adult"
     ],
+    "chapter": 18,
+    "verse": 61,
+    "title": "The Inner Machine",
+    "theme": "Divine in the Heart",
     "difficulty": "Advanced",
     "tags": [
       "god",
@@ -1922,22 +2261,26 @@
       "nature",
       "illusion"
     ],
+    "key_takeaway": "The Divine dwelling in the hearts of all, guiding the movement of life like a machine.",
     "seo_description": "The Divine dwelling in the hearts of all, guiding the movement of life like a machine.",
     "sanskrit": "ईश्वरः सर्वभूतानां हृद्देशेऽर्जुन तिष्ठति।भ्रामयन्सर्वभूतानि यन्त्रारूढानि मायया ।।",
     "transliteration": "īśhvaraḥ sarva-bhūtāśhaya-sthitaḥ\nbhrāmayan sarva-bhūtāni yantrārūḍhāni māyayā\n",
     "meaning": "The Lord dwells in the hearts of all beings, O Arjuna, causing all beings, by His illusory power, to revolve as if mounted on a machine.",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "The Divine is operating within you right now — guiding, sustaining, and witnessing. You are never alone.",
     "illustration": "/assets/illustrations/teens/18_61.png",
     "audio": "/assets/audio/teens/18_61.mp3"
   },
   {
-    "chapter": 18,
-    "verse": 63,
-    "title": "The Freedom to Choose",
+    "id": 86,
+    "source": "teens",
     "target_age": [
       "Teens",
       "Young Adult"
     ],
+    "chapter": 18,
+    "verse": 63,
+    "title": "The Freedom to Choose",
+    "theme": "Free Will",
     "difficulty": "Advanced",
     "tags": [
       "autonomy",
@@ -1945,22 +2288,26 @@
       "decisions",
       "philosophy"
     ],
+    "key_takeaway": "Understanding free will and the power of personal choice in a complex world.",
     "seo_description": "Understanding free will and the power of personal choice in a complex world.",
     "sanskrit": "इति ते ज्ञानमाख्यातं गुह्याद्गुह्यतरं मया।विमृश्यैतदशेषेण यथेच्छसि तथा कुरु ।।",
     "transliteration": "iti te jñānam ākhyātaṁ guhyād guhyataraṁ mayā\nvimṛiśhyaitad aśheṣheṇa yathechchhasi tathā kuru",
     "meaning": "Thus, I have revealed to you the truth, the mystery of mysteries. Having thought it over, you are free to act as you wish.",
-    "lifeHack": "Free Will: Krishna gives Arjuna all the logic, then says 'Think it over, then do as you wish.' Your life is YOUR choice.",
+    "lifeHack": "Free Will: Krishna gives Arjuna all the wisdom, then says 'Think it over, then do as you wish.' Your life is YOUR choice.",
     "illustration": "/assets/illustrations/teens/18_63.png",
     "audio": "/assets/audio/teens/18_63.mp3"
   },
   {
-    "chapter": 18,
-    "verse": 66,
-    "title": "The Trust Fall",
+    "id": 87,
+    "source": "teens",
     "target_age": [
       "Kids",
       "Teens"
     ],
+    "chapter": 18,
+    "verse": 66,
+    "title": "The Trust Fall",
+    "theme": "Surrender",
     "difficulty": "Beginner",
     "tags": [
       "surrender",
@@ -1968,23 +2315,27 @@
       "peace",
       "protection"
     ],
+    "key_takeaway": "Letting go of sorrow and finding refuge in the Divine. A verse of ultimate comfort.",
     "seo_description": "Letting go of sorrow and finding refuge in the Divine. A verse of ultimate comfort.",
     "sanskrit": "सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज।अहं त्वा सर्वपापेभ्यो मोक्षयिष्यामि मा शुचः ।।",
     "transliteration": "sarva-dharmān parityajya mām ekaṁ śharaṇaṁ vraja\nahaṁ tvāṁ sarva-pāpebhyo mokṣhayiṣhyāmi mā śhuchaḥ\n",
     "meaning": "Abandon all attributes and come to Me as your only refuge; I will rescue you from all sins; do not be sorrowful.",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "Complete surrender to the Divine is the ultimate rest — not giving up, but trusting something infinitely wiser.",
     "illustration": "/assets/illustrations/teens/18_66.png",
     "audio": "/assets/audio/teens/18_66.mp3"
   },
   {
-    "chapter": 18,
-    "verse": 78,
-    "title": "The Winning Team",
+    "id": 88,
+    "source": "teens",
     "target_age": [
       "Kids",
       "Teens",
       "Young Adult"
     ],
+    "chapter": 18,
+    "verse": 78,
+    "title": "The Winning Team",
+    "theme": "Wisdom + Courage",
     "difficulty": "Beginner",
     "tags": [
       "success",
@@ -1992,12 +2343,388 @@
       "harmony",
       "action"
     ],
+    "key_takeaway": "The formula for victory: pairing wisdom with courage. The final concluding verse of the Gita.",
     "seo_description": "The formula for victory: pairing wisdom with courage. The final concluding verse of the Gita.",
     "sanskrit": "यत्र योगेश्वरः कृष्णो यत्र पार्थो धनुर्धरः।\n\nतत्र श्रीर्विजयो भूतिर्ध्रुवा नीतिर्मतिर्मम।। ।।",
     "transliteration": "yatra yogeśhvaraḥ kṛiṣhṇo yatra pārtho dhanur-dharaḥ\ntatra śhrīr vijayo bhūtir dhruvā nītir matir mama\n",
     "meaning": "Where Krishna, the Lord of Yogis, remains, where the son of Prtha holds his bow, there lies fortune, victory, prosperity, and firm justice—so I believe.",
-    "lifeHack": "Understand your true nature and act with purpose.",
+    "lifeHack": "Where wisdom meets courage — there you find victory, prosperity, and justice. Build both within yourself.",
     "illustration": "/assets/illustrations/teens/18_78.png",
     "audio": "/assets/audio/teens/18_78.mp3"
+  },
+  {
+    "source": "teens",
+    "target_age": [
+      "Teens",
+      "Young Adult"
+    ],
+    "chapter": 2,
+    "verse": 7,
+    "title": "Strength in Seeking Help",
+    "theme": "Vulnerability",
+    "difficulty": "Intermediate",
+    "tags": [
+      "mental-health",
+      "guidance",
+      "vulnerability",
+      "courage"
+    ],
+    "key_takeaway": "Asking for help when you are confused or overwhelmed is a sign of immense strength, not weakness.",
+    "seo_description": "Asking for help when you are confused or overwhelmed is a sign of immense strength, not weakness.",
+    "sanskrit": "कार्पण्यदोषोपहतस्वभावः\nपृच्छामि त्वां धर्मसम्मूढचेताः ।\nयच्छ्रेयः स्यान्निश्चितं ब्रूहि तन्मे\nशिष्यस्तेऽहं शाधि मां त्वां प्रपन्नम् ॥",
+    "transliteration": "kārpaṇya-doṣhopahata-svabhāvaḥ\npṛichchhāmi tvāṁ dharma-sammūḍha-chetāḥ\nyach chhreyaḥ syān niśhchitaṁ brūhi tan me\nśhiṣhyas te 'haṁ śhādhi māṁ tvāṁ prapannam",
+    "meaning": "Now I am confused about my duty and have lost all composure because of miserly weakness. In this condition I am asking You to tell me for certain what is best for me.",
+    "lifeHack": "Life Hack: Even Arjuna, the greatest warrior, broke down and asked for help. When you feel lost, admit it and seek guidance. It's the bravest thing you can do.",
+    "illustration": "/assets/illustrations/teens/2_7.png",
+    "audio": "/assets/audio/teens/2_7.mp3",
+    "id": 89
+  },
+  {
+    "source": "teens",
+    "target_age": [
+      "Teens",
+      "Young Adult"
+    ],
+    "chapter": 2,
+    "verse": 27,
+    "title": "The Cycle of Change",
+    "theme": "Impermanence",
+    "difficulty": "Intermediate",
+    "tags": [
+      "grief",
+      "impermanence",
+      "change",
+      "acceptance"
+    ],
+    "key_takeaway": "Everything that begins must end, and everything that ends brings a new beginning. Accepting this brings peace.",
+    "seo_description": "Everything that begins must end, and everything that ends brings a new beginning. Accepting this brings peace.",
+    "sanskrit": "जातस्य हि ध्रुवो मृत्युर्ध्रुवं जन्म मृतस्य च ।\nतस्मादपरिहार्येऽर्थे न त्वं शोचितुमर्हसि ॥",
+    "transliteration": "jātasya hi dhruvo mṛityur dhruvaṁ janma mṛitasya cha\ntasmād aparihārye 'rthe na tvaṁ śhochitum arhasi",
+    "meaning": "For one who is born, death is certain, and for one who dies, birth is certain. Therefore, you should not lament over the inevitable.",
+    "lifeHack": "Life Hack: Breakups, moving away, finishing school—all 'endings' are just the start of something else. Grieve, but know the cycle continues.",
+    "illustration": "/assets/illustrations/teens/2_27.png",
+    "audio": "/assets/audio/teens/2_27.mp3",
+    "id": 90
+  },
+  {
+    "source": "teens",
+    "target_age": [
+      "Teens",
+      "Young Adult"
+    ],
+    "chapter": 2,
+    "verse": 55,
+    "title": "Portrait of Peace",
+    "theme": "Inner Contentment",
+    "difficulty": "Advanced",
+    "tags": [
+      "peace",
+      "contentment",
+      "mental-health",
+      "stability"
+    ],
+    "key_takeaway": "True peace of mind means abandoning the endless loop of desires and finding satisfaction within yourself.",
+    "seo_description": "True peace of mind means abandoning the endless loop of desires and finding satisfaction within yourself.",
+    "sanskrit": "श्री भगवानुवाच\nप्रजहाति यदा कामान् सर्वान् पार्थ मनोगतान् ।\nआत्मन्येवात्मना तुष्टः स्थितप्रज्ञस्तदोच्यते ॥",
+    "transliteration": "śhrī bhagavān uvācha\nprajahāti yadā kāmān sarvān pārtha mano-gatān\nātmany evātmanā tuṣhṭaḥ sthita-prajñas tadochyate",
+    "meaning": "The Supreme Personality of Godhead said: O Arjuna, when a man gives up all varieties of desire for sense gratification and finds satisfaction in the self alone, he is said to be in pure transcendental consciousness.",
+    "lifeHack": "Life Hack: If your happiness depends entirely on getting likes, good grades, or a specific person, it's fragile. Build happiness from within.",
+    "illustration": "/assets/illustrations/teens/2_55.png",
+    "audio": "/assets/audio/teens/2_55.mp3",
+    "id": 91
+  },
+  {
+    "source": "teens",
+    "target_age": [
+      "Teens",
+      "Young Adult"
+    ],
+    "chapter": 2,
+    "verse": 71,
+    "title": "The Ego Drop",
+    "theme": "Freedom",
+    "difficulty": "Advanced",
+    "tags": [
+      "freedom",
+      "ego",
+      "desire",
+      "peace"
+    ],
+    "key_takeaway": "Giving up the sense of 'I' and 'mine' is the ultimate key to attaining true peace.",
+    "seo_description": "Giving up the sense of 'I' and 'mine' is the ultimate key to attaining true peace.",
+    "sanskrit": "विहाय कामान्यः सर्वान्पुमांश्चरति निःस्पृहः ।\nनिर्ममो निरहङ्कारः स शान्तिमधिगच्छति ॥",
+    "transliteration": "vihāya kāmān yaḥ sarvān pumānśh charati niḥspṛihaḥ\nnirmamo nirahaṅkāraḥ sa śhāntim adhigachchhati",
+    "meaning": "A person who has given up all desires for sense gratification, who lives free from desires, who has given up all sense of proprietorship and is devoid of false ego—he alone can attain real peace.",
+    "lifeHack": "Life Hack: The less you obsess over 'your' status, 'your' things, and 'your' image, the more freedom and peace you'll actually feel.",
+    "illustration": "/assets/illustrations/teens/2_71.png",
+    "audio": "/assets/audio/teens/2_71.mp3",
+    "id": 92
+  },
+  {
+    "source": "teens",
+    "target_age": [
+      "Teens",
+      "Young Adult"
+    ],
+    "chapter": 6,
+    "verse": 10,
+    "title": "The Secret Space",
+    "theme": "Meditation",
+    "difficulty": "Intermediate",
+    "tags": [
+      "solitude",
+      "meditation",
+      "focus",
+      "mindfulness"
+    ],
+    "key_takeaway": "Finding a quiet space for solitude is the first step to mastering your own mind.",
+    "seo_description": "Finding a quiet space for solitude is the first step to mastering your own mind.",
+    "sanskrit": "योगी युञ्जीत सततमात्मानं रहसि स्थितः ।\nएकाकी यतचित्तात्मा निराशीरपरिग्रहः ॥",
+    "transliteration": "yogī yuñjīta satatam ātmānaṁ rahasi sthitaḥ\nekākī yata-chittātmā nirāśhīr aparigrahaḥ",
+    "meaning": "A transcendentalist should always engage his body, mind and self in relationship with the Supreme; he should live alone in a secluded place and should always carefully control his mind.",
+    "lifeHack": "Life Hack: Dedicate 10 minutes a day to zero distractions. No phone, no music, no people. Just you and your breath. It's a game changer.",
+    "illustration": "/assets/illustrations/teens/6_10.png",
+    "audio": "/assets/audio/teens/6_10.mp3",
+    "id": 93
+  },
+  {
+    "source": "teens",
+    "target_age": [
+      "Teens",
+      "Young Adult"
+    ],
+    "chapter": 6,
+    "verse": 19,
+    "title": "The Windless Flame",
+    "theme": "Steadiness",
+    "difficulty": "Intermediate",
+    "tags": [
+      "focus",
+      "steadiness",
+      "concentration",
+      "calm"
+    ],
+    "key_takeaway": "A focused mind is as perfectly still as a candle flame in a windless room.",
+    "seo_description": "A focused mind is as perfectly still as a candle flame in a windless room.",
+    "sanskrit": "यथा दीपो निवातस्थो नेङ्गते सोपमा स्मृता ।\nयोगिनो यतचित्तस्य युञ्जतो योगमात्मनः ॥",
+    "transliteration": "yathā dīpo nivāta-stho neṅgate sopamā smṛitā\nyogino yata-chittasya yuñjato yogam ātmanaḥ",
+    "meaning": "As a lamp in a windless place does not waver, so the transcendentalist, whose mind is controlled, remains always steady in his meditation on the transcendent Self.",
+    "lifeHack": "Life Hack: When studying, turn off notifications. Remove the 'wind' of distractions, and your focus will burn bright and steady.",
+    "illustration": "/assets/illustrations/teens/6_19.png",
+    "audio": "/assets/audio/teens/6_19.mp3",
+    "id": 94
+  },
+  {
+    "source": "teens",
+    "target_age": [
+      "Teens",
+      "Young Adult"
+    ],
+    "chapter": 6,
+    "verse": 20,
+    "title": "Joy in Stillness",
+    "theme": "Joy",
+    "difficulty": "Advanced",
+    "tags": [
+      "joy",
+      "stillness",
+      "meditation",
+      "fulfillment"
+    ],
+    "key_takeaway": "The deepest joy isn't found in external thrills, but in the profound quiet when the mind is finally still.",
+    "seo_description": "The deepest joy isn't found in external thrills, but in the profound quiet when the mind is finally still.",
+    "sanskrit": "यत्रोपरमते चित्तं निरुद्धं योगसेवया ।\nयत्र चैवात्मनात्मानं पश्यन्नात्मनि तुष्यति ॥",
+    "transliteration": "yatroparamate chittaṁ niruddhaṁ yoga-sevayā\nyatra chaivātmanātmānaṁ paśhyann ātmani tuṣhyati",
+    "meaning": "In the stage of perfection called trance, or samadhi, one's mind is completely restrained from material mental activities by practice of yoga. This perfection is characterized by one's ability to see the Self by the pure mind and to relish and rejoice in the Self.",
+    "lifeHack": "Life Hack: Doomscrolling gives you cheap dopamine. Meditation gives you deep contentment. Trade the cheap thrills for the real thing.",
+    "illustration": "/assets/illustrations/teens/6_20.png",
+    "audio": "/assets/audio/teens/6_20.mp3",
+    "id": 95
+  },
+  {
+    "source": "teens",
+    "target_age": [
+      "Teens",
+      "Young Adult"
+    ],
+    "chapter": 6,
+    "verse": 26,
+    "title": "The Gentle Return",
+    "theme": "Mindfulness",
+    "difficulty": "Intermediate",
+    "tags": [
+      "patience",
+      "mind-control",
+      "forgiveness",
+      "focus"
+    ],
+    "key_takeaway": "Whenever your mind wanders, gently but firmly bring it back. The act of returning IS the meditation.",
+    "seo_description": "Whenever your mind wanders, gently but firmly bring it back. The act of returning IS the meditation.",
+    "sanskrit": "यतो यतो निश्चरति मनश्चञ्चलमस्थिरम् ।\nततस्ततो नियम्यैतदात्मन्येव वशं नयेत् ॥",
+    "transliteration": "yato yato niśhcharati manaśh chañchalam asthiram\ntatas tato niyamyaitad ātmany eva vaśhaṁ nayet",
+    "meaning": "From whatever and wherever the mind wanders due to its flickering and unsteady nature, one must certainly withdraw it and bring it back under the control of the Self.",
+    "lifeHack": "Life Hack: When you get distracted, don't beat yourself up. Just notice it and refocus. That mental flex is how you build a strong brain.",
+    "illustration": "/assets/illustrations/teens/6_26.png",
+    "audio": "/assets/audio/teens/6_26.mp3",
+    "id": 96
+  },
+  {
+    "source": "teens",
+    "target_age": [
+      "Teens",
+      "Young Adult"
+    ],
+    "chapter": 4,
+    "verse": 34,
+    "title": "The Guru Verse",
+    "theme": "Mentorship",
+    "difficulty": "Intermediate",
+    "tags": [
+      "mentorship",
+      "learning",
+      "humility",
+      "guidance"
+    ],
+    "key_takeaway": "You cannot figure everything out alone. Find wise mentors, ask questions, and serve them.",
+    "seo_description": "You cannot figure everything out alone. Find wise mentors, ask questions, and serve them.",
+    "sanskrit": "तद्विद्धि प्रणिपातेन परिप्रश्नेन सेवया ।\nउपदेक्ष्यन्ति ते ज्ञानं ज्ञानिनस्तत्त्वदर्शिनः ॥",
+    "transliteration": "tad viddhi praṇipātena paripraśhnena sevayā\nupadekṣhyanti te jñānaṁ jñāninas tattva-darśhinaḥ",
+    "meaning": "Just try to learn the truth by approaching a spiritual master. Inquire from him submissively and render service unto him.",
+    "lifeHack": "Life Hack: Find someone who is where you want to be. Approach them with respect, ask smart questions, and listen. Mentors are cheat codes for life.",
+    "illustration": "/assets/illustrations/teens/4_34.png",
+    "audio": "/assets/audio/teens/4_34.mp3",
+    "id": 97
+  },
+  {
+    "source": "teens",
+    "target_age": [
+      "Teens",
+      "Young Adult"
+    ],
+    "chapter": 7,
+    "verse": 14,
+    "title": "The Grand Illusion",
+    "theme": "Maya",
+    "difficulty": "Advanced",
+    "tags": [
+      "illusion",
+      "maya",
+      "clarity",
+      "surrender"
+    ],
+    "key_takeaway": "The world is an incredibly powerful illusion designed to distract you. Surrender is the only way out.",
+    "seo_description": "The world is an incredibly powerful illusion designed to distract you. Surrender is the only way out.",
+    "sanskrit": "दैवी ह्येषा गुणमयी मम माया दुरत्यया ।\nमामेव ये प्रपद्यन्ते मायामेतां तरन्ति ते ॥",
+    "transliteration": "daivī hy eṣhā guṇa-mayī mama māyā duratyayā\nmām eva ye prapadyante māyām etāṁ taranti te",
+    "meaning": "This divine energy of Mine, consisting of the three modes of material nature, is difficult to overcome. But those who have surrendered unto Me can easily cross beyond it.",
+    "lifeHack": "Life Hack: Social media, status, gossip—it's all 'Maya' (illusion). It feels super real and urgent, but it's not. Don't let it consume you.",
+    "illustration": "/assets/illustrations/teens/7_14.png",
+    "audio": "/assets/audio/teens/7_14.mp3",
+    "id": 98
+  },
+  {
+    "source": "teens",
+    "target_age": [
+      "Teens",
+      "Young Adult"
+    ],
+    "chapter": 9,
+    "verse": 2,
+    "title": "The Royal Secret",
+    "theme": "Highest Knowledge",
+    "difficulty": "Advanced",
+    "tags": [
+      "knowledge",
+      "secret",
+      "wisdom",
+      "experience"
+    ],
+    "key_takeaway": "This is the king of education, the most profound secret, and it can be directly experienced.",
+    "seo_description": "This is the king of education, the most profound secret, and it can be directly experienced.",
+    "sanskrit": "राजविद्या राजगुह्यं पवित्रमिदमुत्तमम् ।\nप्रत्यक्षावगमं धर्म्यं सुसुखं कर्तुमव्ययम् ॥",
+    "transliteration": "rāja-vidyā rāja-guhyaṁ pavitram idam uttamam\npratyakṣhāvagamaṁ dharmyaṁ su-sukhaṁ kartum avyayam",
+    "meaning": "This knowledge is the king of education, the most secret of all secrets. It is the purest knowledge, and because it gives direct perception of the self by realization, it is the perfection of religion.",
+    "lifeHack": "Life Hack: Spiritual truth isn't just theory or belief; it's something you test and experience for yourself in your daily life.",
+    "illustration": "/assets/illustrations/teens/9_2.png",
+    "audio": "/assets/audio/teens/9_2.mp3",
+    "id": 99
+  },
+  {
+    "source": "teens",
+    "target_age": [
+      "Teens",
+      "Young Adult"
+    ],
+    "chapter": 18,
+    "verse": 13,
+    "title": "Five Causes of Action",
+    "theme": "Agency",
+    "difficulty": "Advanced",
+    "tags": [
+      "action",
+      "ownership",
+      "ego",
+      "systems"
+    ],
+    "key_takeaway": "Every action requires five elements. Understanding this kills the ego that says 'I did this all alone.'",
+    "seo_description": "Every action requires five elements. Understanding this kills the ego that says 'I did this all alone.'",
+    "sanskrit": "पञ्चैतानि महाबाहो कारणानि निबोध मे ।\nसाङ्ख्ये कृतान्ते प्रोक्तानि सिद्धये सर्वकर्मणाम् ॥",
+    "transliteration": "pañchaitāni mahā-bāho kāraṇāni nibodha me\nsāṅkhye kṛitānte proktāni siddhaye sarva-karmaṇām",
+    "meaning": "O mighty-armed Arjuna, according to the Vedanta there are five causes for the accomplishment of all action. Now learn of these from Me.",
+    "lifeHack": "Life Hack: Success involves your body, the situation, your effort, your tools, and destiny/luck. You only control the effort. Stay humble.",
+    "illustration": "/assets/illustrations/teens/18_13.png",
+    "audio": "/assets/audio/teens/18_13.mp3",
+    "id": 100
+  },
+  {
+    "source": "teens",
+    "target_age": [
+      "Teens",
+      "Young Adult"
+    ],
+    "chapter": 18,
+    "verse": 41,
+    "title": "Dignity of Work",
+    "theme": "Vocation",
+    "difficulty": "Intermediate",
+    "tags": [
+      "purpose",
+      "career",
+      "dignity",
+      "calling"
+    ],
+    "key_takeaway": "Every person has a unique nature and a specific kind of work that suits them. All work has profound dignity.",
+    "seo_description": "Every person has a unique nature and a specific kind of work that suits them. All work has profound dignity.",
+    "sanskrit": "ब्राह्मणक्षत्रियविशां शूद्राणां च परन्तप ।\nकर्माणि प्रविभक्तानि स्वभावप्रभवैर्गुणैः ॥",
+    "transliteration": "brāhmaṇa-kṣhatriya-viśhāṁ śhūdrāṇāṁ cha parantapa\nkarmāṇi pravibhaktāni svabhāva-prabhavair guṇaiḥ",
+    "meaning": "Brahmanas, ksatriyas, vaisyas and sudras are distinguished by the qualities born of their own natures in accordance with the material modes.",
+    "lifeHack": "Life Hack: Don't chase a career just for money or status. Find what aligns with your inherent nature. When you work in your zone of genius, work becomes joy.",
+    "illustration": "/assets/illustrations/teens/18_41.png",
+    "audio": "/assets/audio/teens/18_41.mp3",
+    "id": 101
+  },
+  {
+    "id": 102,
+    "source": "shield",
+    "target_age": [
+      "Shield"
+    ],
+    "chapter": 16,
+    "verse": "1-3",
+    "title": "The 26 Divine Qualities",
+    "theme": "Divine",
+    "difficulty": "Intermediate",
+    "tags": [
+      "divine",
+      "character"
+    ],
+    "key_takeaway": "Fearlessness, purity of heart, and steadfastness are divine qualities.",
+    "seo_description": "Bhagavad Gita 16.1-3: Fearlessness, purity of heart, and steadfastness are divine qualities.",
+    "sanskrit": "// Sanskrit for 16.1-3 pending",
+    "transliteration": "// Transliteration for 16.1-3 pending",
+    "meaning": "// Meaning for 16.1-3 pending",
+    "lifeHack": "Fearlessness, purity of heart, and steadfastness are divine qualities.",
+    "illustration": "/assets/illustrations/shield/16_1_3.png",
+    "audio": "/assets/audio/shield/16_1_3.mp3"
   }
 ]

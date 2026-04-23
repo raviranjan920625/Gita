@@ -1,0 +1,314 @@
+[
+  {
+    "id": 1,
+    "source": "map",
+    "target_age": [
+      "Map"
+    ],
+    "chapter": 2,
+    "verse": 11,
+    "title": "Beyond Grief",
+    "theme": "Grief",
+    "difficulty": "Intermediate",
+    "tags": [
+      "grief",
+      "wisdom"
+    ],
+    "key_takeaway": "Do not grieve for what is not worth grieving.",
+    "seo_description": "Bhagavad Gita 2.11: Do not grieve for what is not worth grieving.",
+    "sanskrit": "// Sanskrit for 2.11 pending",
+    "transliteration": "// Transliteration for 2.11 pending",
+    "meaning": "// Meaning for 2.11 pending",
+    "lifeHack": "Do not grieve for what is not worth grieving.",
+    "illustration": "/assets/illustrations/map/2_11.png",
+    "audio": "/assets/audio/map/2_11.mp3"
+  },
+  {
+    "id": 2,
+    "source": "map",
+    "target_age": [
+      "Map"
+    ],
+    "chapter": 2,
+    "verse": 17,
+    "title": "The Indestructible",
+    "theme": "Soul",
+    "difficulty": "Intermediate",
+    "tags": [
+      "soul",
+      "eternity"
+    ],
+    "key_takeaway": "The soul pervades everything and cannot be destroyed.",
+    "seo_description": "Bhagavad Gita 2.17: The soul pervades everything and cannot be destroyed.",
+    "sanskrit": "// Sanskrit for 2.17 pending",
+    "transliteration": "// Transliteration for 2.17 pending",
+    "meaning": "// Meaning for 2.17 pending",
+    "lifeHack": "The soul pervades everything and cannot be destroyed.",
+    "illustration": "/assets/illustrations/map/2_17.png",
+    "audio": "/assets/audio/map/2_17.mp3"
+  },
+  {
+    "id": 3,
+    "source": "map",
+    "target_age": [
+      "Map"
+    ],
+    "chapter": 6,
+    "verse": 19,
+    "title": "The Steady Lamp",
+    "theme": "Focus",
+    "difficulty": "Intermediate",
+    "tags": [
+      "focus",
+      "meditation"
+    ],
+    "key_takeaway": "A concentrated mind is like a windless lamp.",
+    "seo_description": "Bhagavad Gita 6.19: A concentrated mind is like a windless lamp.",
+    "sanskrit": "// Sanskrit for 6.19 pending",
+    "transliteration": "// Transliteration for 6.19 pending",
+    "meaning": "// Meaning for 6.19 pending",
+    "lifeHack": "A concentrated mind is like a windless lamp.",
+    "illustration": "/assets/illustrations/map/6_19.png",
+    "audio": "/assets/audio/map/6_19.mp3"
+  },
+  {
+    "id": 4,
+    "source": "map",
+    "target_age": [
+      "Map"
+    ],
+    "chapter": 6,
+    "verse": 20,
+    "title": "State of Trance",
+    "theme": "Joy",
+    "difficulty": "Intermediate",
+    "tags": [
+      "joy",
+      "stillness"
+    ],
+    "key_takeaway": "In meditation, the mind finds ultimate joy.",
+    "seo_description": "Bhagavad Gita 6.20: In meditation, the mind finds ultimate joy.",
+    "sanskrit": "// Sanskrit for 6.20 pending",
+    "transliteration": "// Transliteration for 6.20 pending",
+    "meaning": "// Meaning for 6.20 pending",
+    "lifeHack": "In meditation, the mind finds ultimate joy.",
+    "illustration": "/assets/illustrations/map/6_20.png",
+    "audio": "/assets/audio/map/6_20.mp3"
+  },
+  {
+    "id": 5,
+    "source": "map",
+    "target_age": [
+      "Map"
+    ],
+    "chapter": 6,
+    "verse": 26,
+    "title": "The Gentle Return",
+    "theme": "Mindfulness",
+    "difficulty": "Intermediate",
+    "tags": [
+      "mindfulness",
+      "patience"
+    ],
+    "key_takeaway": "Gently bring the wandering mind back.",
+    "seo_description": "Bhagavad Gita 6.26: Gently bring the wandering mind back.",
+    "sanskrit": "// Sanskrit for 6.26 pending",
+    "transliteration": "// Transliteration for 6.26 pending",
+    "meaning": "// Meaning for 6.26 pending",
+    "lifeHack": "Gently bring the wandering mind back.",
+    "illustration": "/assets/illustrations/map/6_26.png",
+    "audio": "/assets/audio/map/6_26.mp3"
+  },
+  {
+    "id": 6,
+    "source": "map",
+    "target_age": [
+      "Map"
+    ],
+    "chapter": 7,
+    "verse": 14,
+    "title": "Crossing Maya",
+    "theme": "Illusion",
+    "difficulty": "Intermediate",
+    "tags": [
+      "illusion",
+      "surrender"
+    ],
+    "key_takeaway": "Divine illusion is hard to cross without surrender.",
+    "seo_description": "Bhagavad Gita 7.14: Divine illusion is hard to cross without surrender.",
+    "sanskrit": "// Sanskrit for 7.14 pending",
+    "transliteration": "// Transliteration for 7.14 pending",
+    "meaning": "// Meaning for 7.14 pending",
+    "lifeHack": "Divine illusion is hard to cross without surrender.",
+    "illustration": "/assets/illustrations/map/7_14.png",
+    "audio": "/assets/audio/map/7_14.mp3"
+  },
+  {
+    "id": 7,
+    "source": "map",
+    "target_age": [
+      "Map"
+    ],
+    "chapter": 13,
+    "verse": "7-8",
+    "title": "Qualities of Knowledge",
+    "theme": "Knowledge",
+    "difficulty": "Intermediate",
+    "tags": [
+      "knowledge",
+      "humility"
+    ],
+    "key_takeaway": "Humility and nonviolence are true knowledge.",
+    "seo_description": "Bhagavad Gita 13.7-8: Humility and nonviolence are true knowledge.",
+    "sanskrit": "// Sanskrit for 13.7-8 pending",
+    "transliteration": "// Transliteration for 13.7-8 pending",
+    "meaning": "// Meaning for 13.7-8 pending",
+    "lifeHack": "Humility and nonviolence are true knowledge.",
+    "illustration": "/assets/illustrations/map/13_7_8.png",
+    "audio": "/assets/audio/map/13_7_8.mp3"
+  },
+  {
+    "id": 8,
+    "source": "map",
+    "target_age": [
+      "Map"
+    ],
+    "chapter": 18,
+    "verse": 13,
+    "title": "Causes of Action",
+    "theme": "Action",
+    "difficulty": "Intermediate",
+    "tags": [
+      "action",
+      "causes"
+    ],
+    "key_takeaway": "Every action has five root causes.",
+    "seo_description": "Bhagavad Gita 18.13: Every action has five root causes.",
+    "sanskrit": "// Sanskrit for 18.13 pending",
+    "transliteration": "// Transliteration for 18.13 pending",
+    "meaning": "// Meaning for 18.13 pending",
+    "lifeHack": "Every action has five root causes.",
+    "illustration": "/assets/illustrations/map/18_13.png",
+    "audio": "/assets/audio/map/18_13.mp3"
+  },
+  {
+    "id": 9,
+    "source": "map",
+    "target_age": [
+      "Map"
+    ],
+    "chapter": 18,
+    "verse": 46,
+    "title": "Work as Worship",
+    "theme": "Work",
+    "difficulty": "Intermediate",
+    "tags": [
+      "work",
+      "worship"
+    ],
+    "key_takeaway": "Worship the divine through your own daily work.",
+    "seo_description": "Bhagavad Gita 18.46: Worship the divine through your own daily work.",
+    "sanskrit": "// Sanskrit for 18.46 pending",
+    "transliteration": "// Transliteration for 18.46 pending",
+    "meaning": "// Meaning for 18.46 pending",
+    "lifeHack": "Worship the divine through your own daily work.",
+    "illustration": "/assets/illustrations/map/18_46.png",
+    "audio": "/assets/audio/map/18_46.mp3"
+  },
+  {
+    "id": 10,
+    "source": "map",
+    "target_age": [
+      "Map"
+    ],
+    "chapter": 3,
+    "verse": 27,
+    "title": "The Ego and the Doer",
+    "theme": "Ego",
+    "difficulty": "Intermediate",
+    "tags": [
+      "ego",
+      "action"
+    ],
+    "key_takeaway": "The bewildered spirit soul, under the influence of the three modes, thinks himself the doer.",
+    "seo_description": "Bhagavad Gita 3.27: The bewildered spirit soul, under the influence of the three modes, thinks himself the doer.",
+    "sanskrit": "// Sanskrit for 3.27 pending",
+    "transliteration": "// Transliteration for 3.27 pending",
+    "meaning": "// Meaning for 3.27 pending",
+    "lifeHack": "The bewildered spirit soul, under the influence of the three modes, thinks himself the doer.",
+    "illustration": "/assets/illustrations/map/3_27.png",
+    "audio": "/assets/audio/map/3_27.mp3"
+  },
+  {
+    "id": 11,
+    "source": "map",
+    "target_age": [
+      "Map"
+    ],
+    "chapter": 14,
+    "verse": 5,
+    "title": "The Three Gunas",
+    "theme": "Gunas",
+    "difficulty": "Intermediate",
+    "tags": [
+      "gunas",
+      "energy"
+    ],
+    "key_takeaway": "Material nature consists of three modes: goodness, passion, and ignorance.",
+    "seo_description": "Bhagavad Gita 14.5: Material nature consists of three modes: goodness, passion, and ignorance.",
+    "sanskrit": "// Sanskrit for 14.5 pending",
+    "transliteration": "// Transliteration for 14.5 pending",
+    "meaning": "// Meaning for 14.5 pending",
+    "lifeHack": "Material nature consists of three modes: goodness, passion, and ignorance.",
+    "illustration": "/assets/illustrations/map/14_5.png",
+    "audio": "/assets/audio/map/14_5.mp3"
+  },
+  {
+    "id": 12,
+    "source": "map",
+    "target_age": [
+      "Map"
+    ],
+    "chapter": 14,
+    "verse": 17,
+    "title": "Results of the Gunas",
+    "theme": "Gunas",
+    "difficulty": "Intermediate",
+    "tags": [
+      "gunas",
+      "results"
+    ],
+    "key_takeaway": "From goodness develops real knowledge; from passion develops greed.",
+    "seo_description": "Bhagavad Gita 14.17: From goodness develops real knowledge; from passion develops greed.",
+    "sanskrit": "// Sanskrit for 14.17 pending",
+    "transliteration": "// Transliteration for 14.17 pending",
+    "meaning": "// Meaning for 14.17 pending",
+    "lifeHack": "From goodness develops real knowledge; from passion develops greed.",
+    "illustration": "/assets/illustrations/map/14_17.png",
+    "audio": "/assets/audio/map/14_17.mp3"
+  },
+  {
+    "id": 13,
+    "source": "map",
+    "target_age": [
+      "Map"
+    ],
+    "chapter": 5,
+    "verse": 10,
+    "title": "Like a Lotus Leaf",
+    "theme": "Detachment",
+    "difficulty": "Intermediate",
+    "tags": [
+      "detachment",
+      "purity"
+    ],
+    "key_takeaway": "One who performs his duty without attachment is like a lotus leaf untouched by water.",
+    "seo_description": "Bhagavad Gita 5.10: One who performs his duty without attachment is like a lotus leaf untouched by water.",
+    "sanskrit": "// Sanskrit for 5.10 pending",
+    "transliteration": "// Transliteration for 5.10 pending",
+    "meaning": "// Meaning for 5.10 pending",
+    "lifeHack": "One who performs his duty without attachment is like a lotus leaf untouched by water.",
+    "illustration": "/assets/illustrations/map/5_10.png",
+    "audio": "/assets/audio/map/5_10.mp3"
+  }
+]

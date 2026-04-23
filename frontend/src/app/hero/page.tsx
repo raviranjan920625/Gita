@@ -11,7 +11,7 @@ export default function HeroPage() {
         metaphor="Hero"
         color="#FF6D00"
         title="The Hero's Journey"
-        dataPath="/data/kids/kids.json"
+        dataPath="/data/hero/hero.json"
       />
     </main>
   );

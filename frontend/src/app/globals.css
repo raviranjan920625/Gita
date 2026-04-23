@@ -8,7 +8,45 @@
   --glass-border: rgba(255, 215, 0, 0.3);
   --text-main: #FFFFFF;
   --text-dim: #D1D5DB;
+  --card-bg: rgba(15, 20, 25, 0.85);
+  --heading-text: #FFFFFF;
   --transition: all 0.5s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+:root.light {
+  --primary: #D4AF37;
+  --primary-glow: rgba(212, 175, 55, 0.3);
+  --bg-deep: #F8FAFC;
+  --glass-bg: rgba(255, 255, 255, 0.85);
+  --glass-border: rgba(0, 0, 0, 0.1);
+  --text-main: #0F172A;
+  --text-dim: #475569;
+  --card-bg: rgba(255, 255, 255, 0.95);
+  --heading-text: #5D4037;
+}
+
+:root.light .app-background {
+  filter: saturate(1.2) brightness(1) !important;
+  opacity: 0.2 !important;
+}
+
+:root.light .glass-card {
+  background: rgba(255, 255, 255, 0.85) !important;
+  border: 1px solid rgba(0, 0, 0, 0.1) !important;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05) !important;
+}
+
+:root.light .sanskrit-text {
+  text-shadow: none !important;
+  background: linear-gradient(135deg, #0F172A 0%, var(--primary) 100%) !important;
+  -webkit-background-clip: text !important;
+  background-clip: text !important;
+}
+
+:root.light .spiritual-font {
+  background: linear-gradient(135deg, #1A1A1A 0%, #D4AF37 50%, #8C6A00 100%) !important;
+  -webkit-background-clip: text !important;
+  background-clip: text !important;
 }
 
 * {

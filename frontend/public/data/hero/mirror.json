@@ -1,0 +1,573 @@
+[
+  {
+    "id": 1,
+    "source": "mirror",
+    "target_age": [
+      "3-6"
+    ],
+    "chapter": 1,
+    "title": "The Magic Mirror: Your Inner Light",
+    "theme": "Inner Light",
+    "difficulty": "Beginner",
+    "illustration": "/illustrations/mirror/ch1.png",
+    "icon": "/illustrations/mirror/mirror1.png",
+    "audio": "/audio/kids/mirror1.mp3",
+    "topics": [
+      {
+        "title": "Forever You",
+        "chapter": 2,
+        "verse": "20",
+        "verse_ref": "2.20",
+        "content": "Look into your magic mirror! It shows a tiny light inside you that never goes away. Even when you sleep or grow big, your light is always there.",
+        "sanskrit": "न जायते म्रियते वा कदाचिन्\nनायं भूत्वा भविता वा न भूयः ।\nअजो नित्यः शाश्वतोऽयं पुराणो\nन हन्यते हन्यमाने शरीरे ॥",
+        "transliteration": "na jāyate mriyate vā kadāchin\nnāyaṁ bhūtvā bhavitā vā na bhūyaḥ\najo nityaḥ śhāśhvato 'yaṁ purāṇo\nna hanyate hanyamāne śharīre",
+        "meaning": "It is never born; it never dies. Having once come into existence, it never ceases to be. Unborn, eternal, ever-existing, and primordial, it is not slain when the body is slain.",
+        "translation": "Your true self never ends.",
+        "story": "Just like you wear a raincoat to stay dry but YOU are still under it, your body is like a coat for your soul. You are eternal and amazing!",
+        "power": "My light is always safe.",
+        "key_takeaway": "Your true self is eternal and can never be hurt.",
+        "tags": [
+          "identity",
+          "fearlessness",
+          "eternity",
+          "self-worth"
+        ]
+      },
+      {
+        "title": "Little Star Inside",
+        "chapter": 15,
+        "verse": "7",
+        "verse_ref": "15.7",
+        "content": "You have a little star inside your heart. It is a piece of something very special and loving. You are bright and important!",
+        "sanskrit": "ममैवांशो जीवलोके जीवभूतः सनातनः ।\nमनःषष्ठानीन्द्रियाणि प्रकृतिस्थानि कर्षति ॥",
+        "transliteration": "mamaivānśho jīva-loke jīva-bhūtaḥ sanātanaḥ\nmanaḥ-ṣhaṣhṭhānīndriyāṇi prakṛiti-sthāni karṣhati",
+        "meaning": "An eternal portion of Myself having become a living soul in the world of life, draws to itself the five senses, with the mind as the sixth, abiding in Nature.",
+        "translation": "You are a tiny part of something very special.",
+        "story": "A giant bonfire has a million tiny sparks. You are one of those sparks — a part of the big, beautiful light of God!",
+        "power": "I am special and shining.",
+        "key_takeaway": "You carry a piece of the Divine within you.",
+        "tags": [
+          "connection",
+          "divinity",
+          "unity",
+          "worth"
+        ]
+      },
+      {
+        "title": "Growing Up",
+        "chapter": 2,
+        "verse": "13",
+        "verse_ref": "2.13",
+        "content": "Just like you grow from a baby to a bigger child, your soul stays the same even as your body gets bigger.",
+        "sanskrit": "देहिनोऽस्मिन्यथा देहे कौमारं यौवनं जरा ।\nतथा देहान्तरप्राप्तिर्धीरस्तत्र न मुह्यति ॥",
+        "transliteration": "dehino 'smin yathā dehe kaumāraṁ yauvanaṁ jarā\ntathā dehāntara-prāptir dhīras tatra na muhyati",
+        "meaning": "As the embodied soul continuously passes, in this body, from boyhood to youth to old age, the soul similarly passes into another body at death.",
+        "translation": "You grow, but your soul stays the same.",
+        "story": "Think of your favorite t-shirt. When you get too big for it, you get a new one, but YOU are still the same amazing you!",
+        "power": "I am always me.",
+        "key_takeaway": "Your body changes as you grow, but your inner self is always the same.",
+        "tags": [
+          "growth",
+          "identity",
+          "soul",
+          "eternity"
+        ]
+      }
+    ],
+    "tags": [
+      "eternity",
+      "divinity",
+      "identity",
+      "connection",
+      "fearlessness",
+      "self-worth",
+      "worth",
+      "unity"
+    ]
+  },
+  {
+    "id": 2,
+    "source": "mirror",
+    "target_age": [
+      "3-6"
+    ],
+    "chapter": 2,
+    "title": "The Happy Mirror: Just Try Your Best",
+    "theme": "Action",
+    "difficulty": "Beginner",
+    "illustration": "/illustrations/mirror/ch2.png",
+    "icon": "/illustrations/mirror/mirror2.png",
+    "audio": "/audio/kids/mirror2.mp3",
+    "topics": [
+      {
+        "title": "Do and Smile",
+        "chapter": 2,
+        "verse": "47",
+        "verse_ref": "2.47",
+        "content": "When you draw, play, or build, just have fun! Don't worry about winning. Your mirror smiles when you try your best.",
+        "sanskrit": "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन ।\nमा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि ॥",
+        "transliteration": "karmaṇy-evādhikāras te mā phaleṣhu kadāchana\nmā karma-phala-hetur bhūr mā te saṅgo 'stvakarmaṇi",
+        "meaning": "Your right is only to work, but never to its results. Let not the fruits of action be your motive, nor let your attachment be to inaction.",
+        "translation": "Just do your best and enjoy.",
+        "story": "Build a sandcastle for the fun of it! If a wave comes, don't be sad. The joy was in the playing, not just the castle.",
+        "power": "I try and smile!",
+        "key_takeaway": "Focus on the fun of doing, not just winning.",
+        "tags": [
+          "effort",
+          "detachment",
+          "focus",
+          "joy"
+        ]
+      }
+    ],
+    "tags": [
+      "joy",
+      "effort",
+      "focus",
+      "detachment"
+    ]
+  },
+  {
+    "id": 3,
+    "source": "mirror",
+    "target_age": [
+      "3-6"
+    ],
+    "chapter": 3,
+    "title": "The Calm Mirror: Happy Mind",
+    "theme": "Mental Health & Peace",
+    "difficulty": "Beginner",
+    "illustration": "/illustrations/mirror/ch3.png",
+    "icon": "/illustrations/mirror/mirror3.png",
+    "audio": "/audio/kids/mirror3.mp3",
+    "topics": [
+      {
+        "title": "My Mind Buddy",
+        "chapter": 6,
+        "verse": "5",
+        "verse_ref": "6.5",
+        "content": "Your mind is like a little friend. If you talk nicely to it, it helps you feel happy. If you get upset, take a deep breath and help your mind calm down.",
+        "sanskrit": "उद्धरेदात्मनात्मानं नात्मानमवसादयेत् ।\nआत्मैव ह्यात्मनो बन्धुरात्मैव रिपुरात्मनः ॥",
+        "transliteration": "uddhared ātmanātmānaṁ nātmānam avasādayet\nātmaiva hyātmano bandhur ātmaiva ripur ātmanaḥ",
+        "meaning": "Let a person lift themselves by their own self; let them not lower themselves. For the self alone is the friend of the self, and the self alone is the enemy of the self.",
+        "translation": "Your mind can help you or trouble you.",
+        "story": "You are the gardener of your own heart. Choose to plant happy thoughts and you will be your own best friend!",
+        "power": "I make my mind my friend.",
+        "key_takeaway": "You have the power to choose your own thoughts.",
+        "tags": [
+          "mindfulness",
+          "self-love",
+          "thoughts",
+          "responsibility"
+        ]
+      },
+      {
+        "title": "Big Friend Helps Me",
+        "chapter": 5,
+        "verse": "29",
+        "verse_ref": "5.29",
+        "content": "You don't have to do everything alone. There is a big loving friend who helps you. You can relax and feel safe.",
+        "sanskrit": "भोक्तारं यज्ञतपसां सर्वलोकमहेश्वरम् ।\nसुहृदं सर्वभूतानां ज्ञात्वा मां शान्तिमृच्छति ॥",
+        "transliteration": "bhoktāraṁ yajña-tapasāṁ sarva-loka-maheśhvaram\nsuhṛidaṁ sarva-bhūtānāṁ jñātvā māṁ śhāntim ṛichchhati",
+        "meaning": "He who knows Me as the enjoyer of all sacrifices and austerities, the supreme Lord of all worlds, and the friend of all beings, attains peace.",
+        "translation": "A big friend is always there for you.",
+        "story": "Krishna is like a super-strong friend who is always watching over you, making sure you are safe and happy.",
+        "power": "I am safe and calm.",
+        "key_takeaway": "There is a loving friend always helping you.",
+        "tags": [
+          "peace",
+          "protection",
+          "trust",
+          "friendship"
+        ]
+      },
+      {
+        "title": "The Quiet Lamp",
+        "chapter": 6,
+        "verse": "19",
+        "verse_ref": "6.19",
+        "content": "When you sit quietly and take a deep breath, your mind becomes like a little candle flame with no wind to blow it around. It stands tall and bright.",
+        "sanskrit": "यथा दीपो निवातस्थो नेङ्गते सोपमा स्मृता ।\nयोगिनो यतचित्तस्य युञ्जतो योगमात्मनः ॥",
+        "transliteration": "yathā dīpo nivāta-stho neṅgate sopamā smṛitā\nyogino yata-chittasya yuñjato yogam ātmanaḥ",
+        "meaning": "As a lamp in a windless place does not waver, so the transcendentalist, whose mind is controlled, remains always steady in his meditation on the transcendent Self.",
+        "translation": "A quiet mind is like a steady lamp.",
+        "story": "Imagine a candle in a quiet room. The flame is perfectly still. When you breathe slowly, your mind becomes just as still and bright.",
+        "power": "My mind is calm and bright.",
+        "key_takeaway": "Meditation and slow breathing help make your mind steady.",
+        "tags": [
+          "meditation",
+          "calm",
+          "focus",
+          "peace"
+        ]
+      },
+      {
+        "title": "Bring It Back",
+        "chapter": 6,
+        "verse": "26",
+        "verse_ref": "6.26",
+        "content": "If your mind starts thinking about a hundred different things, it's okay! Just smile, and gently bring it back to what you are doing right now.",
+        "sanskrit": "यतो यतो निश्चरति मनश्चञ्चलमस्थिरम् ।\nततस्ततो नियम्यैतदात्मन्येव वशं नयेत् ॥",
+        "transliteration": "yato yato niśhcharati manaśh chañchalam asthiram\ntatas tato niyamyaitad ātmany eva vaśhaṁ nayet",
+        "meaning": "From whatever and wherever the mind wanders due to its flickering and unsteady nature, one must certainly withdraw it and bring it back under the control of the Self.",
+        "translation": "Gently bring your wandering mind back.",
+        "story": "Your mind is like a playful puppy. If it runs away to chase a butterfly, just call it back gently with a smile. No need to be angry!",
+        "power": "I can focus my mind.",
+        "key_takeaway": "It is normal for the mind to wander; just gently guide it back.",
+        "tags": [
+          "focus",
+          "gentleness",
+          "patience",
+          "mindfulness"
+        ]
+      }
+    ],
+    "tags": [
+      "self-love",
+      "protection",
+      "responsibility",
+      "trust",
+      "thoughts",
+      "mindfulness",
+      "peace",
+      "friendship"
+    ]
+  },
+  {
+    "id": 4,
+    "source": "mirror",
+    "target_age": [
+      "3-6"
+    ],
+    "chapter": 4,
+    "title": "The Kind Mirror: Be a Helper",
+    "theme": "Leadership",
+    "difficulty": "Beginner",
+    "illustration": "/illustrations/mirror/ch4.png",
+    "icon": "/illustrations/mirror/mirror4.png",
+    "audio": "/audio/kids/mirror4.mp3",
+    "topics": [
+      {
+        "title": "I Show the Way",
+        "chapter": 3,
+        "verse": "21",
+        "verse_ref": "3.21",
+        "content": "When you share toys or help someone, others learn from you. You become a little leader!",
+        "sanskrit": "यद्यदाचरति श्रेष्ठस्तत्तदेवेतरो जनः ।\nस यत्प्रमाणं कुरुते लोकस्तदनुवर्तते ॥",
+        "transliteration": "yad yad ācharati śhreṣhṭhas tat tad evetaro janaḥ\nsa yat pramāṇaṁ kurute lokas tad anuvartate",
+        "meaning": "Whatever a great person does, others will follow. Whatever standard they set, the world will follow.",
+        "translation": "Others follow what you do.",
+        "story": "When the Queen Bee works hard and is kind, all the other bees learn to be kind too. You can be a leader too!",
+        "power": "I help and share.",
+        "key_takeaway": "Your good actions inspire others to be good too.",
+        "tags": [
+          "leadership",
+          "integrity",
+          "role-model",
+          "action"
+        ]
+      }
+    ],
+    "tags": [
+      "leadership",
+      "role-model",
+      "action",
+      "integrity"
+    ]
+  },
+  {
+    "id": 5,
+    "source": "mirror",
+    "target_age": [
+      "3-6"
+    ],
+    "chapter": 5,
+    "title": "The Love Mirror: Kind Heart",
+    "theme": "Kindness",
+    "difficulty": "Beginner",
+    "illustration": "/illustrations/mirror/ch5.png",
+    "icon": "/illustrations/mirror/mirror5.png",
+    "audio": "/audio/kids/mirror5.mp3",
+    "topics": [
+      {
+        "title": "Always Helped",
+        "chapter": 9,
+        "verse": "22",
+        "verse_ref": "9.22",
+        "content": "When you feel love and trust, help comes to you in many ways.",
+        "sanskrit": "अनन्याश्चिन्तयन्तो मां ये जनाः पर्युपासते ।\nतेषां नित्याभियुक्तानां योगक्षेमं वहाम्यहम् ॥",
+        "transliteration": "ananyāśh chintayanto māṁ ye janāḥ paryupāsate\nteṣhāṁ nityābhiyuktānāṁ yoga-kṣhemaṁ vahāmyaham",
+        "meaning": "For those who worship Me with devotion, meditating on My transcendental form, I carry what they lack and preserve what they have.",
+        "translation": "You are always cared for.",
+        "story": "Imagine a giant umbrella of love that follows you everywhere, keeping you safe from any storm.",
+        "power": "I am cared for.",
+        "key_takeaway": "The universe protects those who stay focused on goodness.",
+        "tags": [
+          "faith",
+          "security",
+          "providence",
+          "trust"
+        ]
+      },
+      {
+        "title": "Tiny Gift, Big Love",
+        "chapter": 9,
+        "verse": "26",
+        "verse_ref": "9.26",
+        "content": "A smile, a hug, or a flower is a big gift when given with love.",
+        "sanskrit": "पत्रं पुष्पं फलं तोयं यो मे भक्त्या प्रयच्छति ।\nतदहं भक्त्युपहृतमश्नामि प्रयतात्मनः ॥",
+        "transliteration": "patraṁ puṣhpaṁ phalaṁ toyaṁ yo me bhaktyā prayachchhati\ntadahaṁ bhaktyupahṛitam aśhnāmi prayatātmanaḥ",
+        "meaning": "Whoever offers Me with devotion a leaf, a flower, a fruit, or water, I accept that offering made with love by one of pure heart.",
+        "translation": "Small things with love are special.",
+        "story": "A little squirrel brought a single leaf with lots of love. It was the best gift ever because it came from the heart!",
+        "power": "My kindness is powerful.",
+        "key_takeaway": "The intention of love matters more than the size of the gift.",
+        "tags": [
+          "devotion",
+          "simplicity",
+          "love",
+          "sincerity"
+        ]
+      },
+      {
+        "title": "Kind to Everyone",
+        "chapter": 12,
+        "verse": "13",
+        "verse_ref": "12.13-14",
+        "content": "A real superhero is someone who is kind to everyone, shares with friends, and forgives quickly.",
+        "sanskrit": "अद्वेष्टा सर्वभूतानां मैत्रः करुण एव च ।\nनिर्ममो निरहङ्कारः समदुःखसुखः क्षमी ॥",
+        "transliteration": "adveṣhṭā sarva-bhūtānāṁ maitraḥ karuṇa eva cha\nnirmamo nirahaṅkāraḥ sama-duḥkha-sukhaḥ kṣhamī",
+        "meaning": "One who is not envious but is a kind friend to all living entities, who does not think himself a proprietor and is free from false ego, who is equal in both happiness and distress, who is tolerant...",
+        "translation": "Be a kind and forgiving friend to all.",
+        "story": "A kind heart is the best magic trick. When you share a smile with someone who is sad, you both become happy!",
+        "power": "I am a kind friend to all.",
+        "key_takeaway": "Kindness and forgiveness make you a true friend to the world.",
+        "tags": [
+          "compassion",
+          "kindness",
+          "friendship",
+          "forgiveness"
+        ]
+      }
+    ],
+    "tags": [
+      "sincerity",
+      "faith",
+      "simplicity",
+      "providence",
+      "trust",
+      "devotion",
+      "security",
+      "love"
+    ]
+  },
+  {
+    "id": 6,
+    "source": "mirror",
+    "target_age": [
+      "3-6"
+    ],
+    "chapter": 6,
+    "title": "The Time Mirror: Everything Changes",
+    "theme": "Understanding",
+    "difficulty": "Beginner",
+    "illustration": "/illustrations/mirror/ch6.png",
+    "icon": "/illustrations/mirror/mirror6.png",
+    "audio": "/audio/kids/mirror6.mp3",
+    "topics": [
+      {
+        "title": "Things Get Better",
+        "chapter": 4,
+        "verse": "7",
+        "verse_ref": "4.7",
+        "content": "If something feels sad, don't worry. It will pass, and happy times will come again.",
+        "sanskrit": "यदा यदा हि धर्मस्य ग्लानिर्भवति भारत ।\nअभ्युत्थानमधर्मस्य तदात्मानं सृजाम्यहम् ॥",
+        "transliteration": "yadā yadā hi dharmasya glānir bhavati bhārata\nabhyutthānam adharmasya tadātmānaṁ sṛijāmyaham",
+        "meaning": "Whenever there is a decline in righteousness and a rise in unrighteousness, O Arjuna, I manifest Myself.",
+        "translation": "Things become good again.",
+        "story": "Whenever the world feels a bit dark, a special Hero of Light appears to make everything bright and happy again.",
+        "power": "Good times will come.",
+        "key_takeaway": "Goodness always returns to the world.",
+        "tags": [
+          "dharma",
+          "hope",
+          "balance",
+          "justice"
+        ]
+      },
+      {
+        "title": "Little Moments",
+        "chapter": 11,
+        "verse": "32",
+        "verse_ref": "11.32",
+        "content": "Big feelings don't last forever. They come and go like clouds.",
+        "sanskrit": "कालोऽस्मि लोकक्षयकृत्प्रवृद्धो\nलोकान्समाहर्तुमिह प्रवृत्तः ।\nऋतेऽपि त्वां न भविष्यन्ति सर्वे\nयेऽवस्थिताः प्रत्यनीकेषु योधाः ॥",
+        "transliteration": "kālo 'smi loka-kṣhaya-kṛit pravṛiddho\nlokān samāhartum iha pravṛittaḥ\nṛite 'pi tvāṁ na bhaviṣhyanti sarve\nye 'vasthitāḥ pratyanīkeṣhu yodhāḥ",
+        "meaning": "I am Time, the great destroyer of worlds, and I have come here to destroy all people. With the exception of you, all the soldiers standing on both sides will be slain.",
+        "translation": "Time keeps moving.",
+        "story": "Time is like a giant clock that changes the seasons. God is the one who keeps the clock ticking rhythmically.",
+        "power": "This will pass.",
+        "key_takeaway": "Everything changes — big feelings pass like clouds.",
+        "tags": [
+          "time",
+          "impermanence",
+          "humility",
+          "perspective"
+        ]
+      },
+      {
+        "title": "Everything Has a Season",
+        "chapter": 2,
+        "verse": "27",
+        "verse_ref": "2.27",
+        "content": "Just like summer turns into fall, and winter turns into spring, everything in the world changes. And that is perfectly okay.",
+        "sanskrit": "जातस्य हि ध्रुवो मृत्युर्ध्रुवं जन्म मृतस्य च ।\nतस्मादपरिहार्येऽर्थे न त्वं शोचितुमर्हसि ॥",
+        "transliteration": "jātasya hi dhruvo mṛityur dhruvaṁ janma mṛitasya cha\ntasmād aparihārye 'rthe na tvaṁ śhochitum arhasi",
+        "meaning": "For one who has taken his birth, death is certain; and for one who is dead, birth is certain. Therefore, in the unavoidable discharge of your duty, you should not lament.",
+        "translation": "Change is natural, so don't be sad.",
+        "story": "When a beautiful flower fades away, it leaves seeds so new flowers can grow next year. The magic never really ends, it just changes shape.",
+        "power": "I accept change like the seasons.",
+        "key_takeaway": "Change is a natural part of life, and it brings new beginnings.",
+        "tags": [
+          "change",
+          "seasons",
+          "grief-relief",
+          "nature"
+        ]
+      }
+    ],
+    "tags": [
+      "perspective",
+      "balance",
+      "impermanence",
+      "time",
+      "hope",
+      "justice",
+      "dharma",
+      "humility"
+    ]
+  },
+  {
+    "id": 7,
+    "source": "mirror",
+    "target_age": [
+      "3-6"
+    ],
+    "chapter": 7,
+    "title": "The Choice Mirror: I Can Choose",
+    "theme": "Freedom",
+    "difficulty": "Beginner",
+    "illustration": "/illustrations/mirror/ch7.png",
+    "icon": "/illustrations/mirror/mirror7.png",
+    "audio": "/audio/kids/mirror7.mp3",
+    "topics": [
+      {
+        "title": "Let It Go",
+        "chapter": 18,
+        "verse": "66",
+        "verse_ref": "18.66",
+        "content": "If you feel upset, you can let it go like a balloon flying away.",
+        "sanskrit": "सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज ।\nअहं त्वां सर्वपापेभ्यो मोक्षयिष्यामि मा शुचः ॥",
+        "transliteration": "sarva-dharmān parityajya mām ekaṁ śharaṇaṁ vraja\nahaṁ tvāṁ sarva-pāpebhyo mokṣhayiṣhyāmi mā śhuchaḥ",
+        "meaning": "Abandon all varieties of religion and just surrender unto Me. I shall deliver you from all sinful reactions. Do not fear.",
+        "translation": "Let go and feel free.",
+        "story": "Close your eyes and fall back — God's arms are always there to catch you and keep you safe from any worry.",
+        "power": "I can let go.",
+        "key_takeaway": "Letting go of worry brings true freedom.",
+        "tags": [
+          "surrender",
+          "forgiveness",
+          "fear-relief",
+          "protection"
+        ]
+      },
+      {
+        "title": "Choose Kindness",
+        "chapter": 18,
+        "verse": "63",
+        "verse_ref": "18.63",
+        "content": "Every day, you can choose to be kind, brave, and happy.",
+        "sanskrit": "इति ते ज्ञानमाख्यातं गुह्याद्गुह्यतरं मया ।\nविमृश्यैतदशेषेण यथेच्छसि तथा कुरु ॥",
+        "transliteration": "iti te jñānam ākhyātaṁ guhyād guhyataraṁ mayā\nvimṛiśhyaitad aśheṣheṇa yathechchhasi tathā kuru",
+        "meaning": "Thus I have explained to you the most confidential of all knowledge. Deliberate on this fully, and then do what you wish to do.",
+        "translation": "You can choose what to do.",
+        "story": "Imagine a path with many turns. God gives you a map and light, but YOU are the one who chooses which way to walk!",
+        "power": "I choose kindness.",
+        "key_takeaway": "You can choose to be kind, brave, and happy every day.",
+        "tags": [
+          "free-will",
+          "sovereignty",
+          "decisions",
+          "wisdom"
+        ]
+      }
+    ],
+    "tags": [
+      "surrender",
+      "free-will",
+      "wisdom",
+      "fear-relief",
+      "forgiveness",
+      "protection",
+      "sovereignty",
+      "decisions"
+    ]
+  },
+  {
+    "id": 8,
+    "source": "mirror",
+    "target_age": [
+      "3-6"
+    ],
+    "chapter": 8,
+    "title": "The Victory Mirror: Shine Bright",
+    "theme": "Success",
+    "difficulty": "Beginner",
+    "illustration": "/illustrations/mirror/ch8.png",
+    "icon": "/illustrations/mirror/mirror8.png",
+    "audio": "/audio/kids/mirror8.mp3",
+    "topics": [
+      {
+        "title": "Think and Do",
+        "chapter": 18,
+        "verse": "78",
+        "verse_ref": "18.78",
+        "content": "When you think good thoughts and do good actions, you shine bright like a star!",
+        "sanskrit": "यत्र योगेश्वरः कृष्णो यत्र पार्थो धनुर्धरः ।\nतत्र श्रीर्विजयो भूतिर्ध्रुवा नीतिर्मतिर्मम ॥",
+        "transliteration": "yatra yogeśhvaraḥ kṛiṣhṇo yatra pārtho dhanur-dharaḥ\ntatra śhrīr vijayo bhūtir dhruvā nītir matir mama",
+        "meaning": "Wherever there is Krishna, the master of all mystics, and wherever there is Arjuna, the supreme archer, there will also certainly be opulence, victory, extraordinary power, and morality.",
+        "translation": "Good thinking and action bring success.",
+        "story": "When Wisdom (Krishna) and Courage (Arjuna) play on the same team, they always win the game of Life!",
+        "power": "I shine bright!",
+        "key_takeaway": "When wisdom and courage work together, you always win.",
+        "tags": [
+          "success",
+          "harmony",
+          "action",
+          "wisdom"
+        ]
+      }
+    ],
+    "tags": [
+      "wisdom",
+      "harmony",
+      "action",
+      "success"
+    ]
+  },
+  {
+    "id": 9,
+    "chapter": 10,
+    "title": "Chapter 10",
+    "topics": [
+      {
+        "title": "Finding God in Brilliance",
+        "content": "Wherever you see beauty and brilliance, know it comes from the Divine spark.",
+        "verse": "41",
+        "sloka": "// Sanskrit for 10.41",
+        "translation": "// Meaning for 10.41",
+        "power": "Wherever you see beauty and brilliance, know it comes from the Divine spark."
+      }
+    ]
+  }
+]

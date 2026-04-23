@@ -1,0 +1,458 @@
+[
+  {
+    "id": 1,
+    "source": "anchor",
+    "target_age": [
+      "Anchor"
+    ],
+    "chapter": 2,
+    "verse": 13,
+    "title": "The Changing Body",
+    "theme": "Aging",
+    "difficulty": "Intermediate",
+    "tags": [
+      "aging",
+      "soul"
+    ],
+    "key_takeaway": "The soul passes from childhood to youth to old age.",
+    "seo_description": "Bhagavad Gita 2.13: The soul passes from childhood to youth to old age.",
+    "sanskrit": "// Sanskrit for 2.13 pending",
+    "transliteration": "// Transliteration for 2.13 pending",
+    "meaning": "// Meaning for 2.13 pending",
+    "lifeHack": "The soul passes from childhood to youth to old age.",
+    "illustration": "/assets/illustrations/anchor/2_13.png",
+    "audio": "/assets/audio/anchor/2_13.mp3"
+  },
+  {
+    "id": 2,
+    "source": "anchor",
+    "target_age": [
+      "Anchor"
+    ],
+    "chapter": 2,
+    "verse": 27,
+    "title": "Accepting Death",
+    "theme": "Acceptance",
+    "difficulty": "Intermediate",
+    "tags": [
+      "acceptance",
+      "death"
+    ],
+    "key_takeaway": "Death is certain for the born.",
+    "seo_description": "Bhagavad Gita 2.27: Death is certain for the born.",
+    "sanskrit": "// Sanskrit for 2.27 pending",
+    "transliteration": "// Transliteration for 2.27 pending",
+    "meaning": "// Meaning for 2.27 pending",
+    "lifeHack": "Death is certain for the born.",
+    "illustration": "/assets/illustrations/anchor/2_27.png",
+    "audio": "/assets/audio/anchor/2_27.mp3"
+  },
+  {
+    "id": 3,
+    "source": "anchor",
+    "target_age": [
+      "Anchor"
+    ],
+    "chapter": 2,
+    "verse": 55,
+    "title": "The Steady Mind",
+    "theme": "Peace",
+    "difficulty": "Intermediate",
+    "tags": [
+      "peace",
+      "desire"
+    ],
+    "key_takeaway": "Give up desires and find peace within.",
+    "seo_description": "Bhagavad Gita 2.55: Give up desires and find peace within.",
+    "sanskrit": "// Sanskrit for 2.55 pending",
+    "transliteration": "// Transliteration for 2.55 pending",
+    "meaning": "// Meaning for 2.55 pending",
+    "lifeHack": "Give up desires and find peace within.",
+    "illustration": "/assets/illustrations/anchor/2_55.png",
+    "audio": "/assets/audio/anchor/2_55.mp3"
+  },
+  {
+    "id": 4,
+    "source": "anchor",
+    "target_age": [
+      "Anchor"
+    ],
+    "chapter": 2,
+    "verse": 71,
+    "title": "True Peace",
+    "theme": "Ego",
+    "difficulty": "Intermediate",
+    "tags": [
+      "ego",
+      "peace"
+    ],
+    "key_takeaway": "Relinquishing 'I' and 'mine' brings peace.",
+    "seo_description": "Bhagavad Gita 2.71: Relinquishing 'I' and 'mine' brings peace.",
+    "sanskrit": "// Sanskrit for 2.71 pending",
+    "transliteration": "// Transliteration for 2.71 pending",
+    "meaning": "// Meaning for 2.71 pending",
+    "lifeHack": "Relinquishing 'I' and 'mine' brings peace.",
+    "illustration": "/assets/illustrations/anchor/2_71.png",
+    "audio": "/assets/audio/anchor/2_71.mp3"
+  },
+  {
+    "id": 5,
+    "source": "anchor",
+    "target_age": [
+      "Anchor"
+    ],
+    "chapter": 6,
+    "verse": 10,
+    "title": "Solitary Practice",
+    "theme": "Meditation",
+    "difficulty": "Intermediate",
+    "tags": [
+      "meditation",
+      "solitude"
+    ],
+    "key_takeaway": "Sit alone and quiet the mind.",
+    "seo_description": "Bhagavad Gita 6.10: Sit alone and quiet the mind.",
+    "sanskrit": "// Sanskrit for 6.10 pending",
+    "transliteration": "// Transliteration for 6.10 pending",
+    "meaning": "// Meaning for 6.10 pending",
+    "lifeHack": "Sit alone and quiet the mind.",
+    "illustration": "/assets/illustrations/anchor/6_10.png",
+    "audio": "/assets/audio/anchor/6_10.mp3"
+  },
+  {
+    "id": 6,
+    "source": "anchor",
+    "target_age": [
+      "Anchor"
+    ],
+    "chapter": 6,
+    "verse": 29,
+    "title": "Universal Vision",
+    "theme": "Unity",
+    "difficulty": "Intermediate",
+    "tags": [
+      "unity",
+      "vision"
+    ],
+    "key_takeaway": "See the Self in all beings.",
+    "seo_description": "Bhagavad Gita 6.29: See the Self in all beings.",
+    "sanskrit": "// Sanskrit for 6.29 pending",
+    "transliteration": "// Transliteration for 6.29 pending",
+    "meaning": "// Meaning for 6.29 pending",
+    "lifeHack": "See the Self in all beings.",
+    "illustration": "/assets/illustrations/anchor/6_29.png",
+    "audio": "/assets/audio/anchor/6_29.mp3"
+  },
+  {
+    "id": 7,
+    "source": "anchor",
+    "target_age": [
+      "Anchor"
+    ],
+    "chapter": 6,
+    "verse": 32,
+    "title": "Highest Empathy",
+    "theme": "Empathy",
+    "difficulty": "Intermediate",
+    "tags": [
+      "empathy",
+      "compassion"
+    ],
+    "key_takeaway": "See others' joy and pain as your own.",
+    "seo_description": "Bhagavad Gita 6.32: See others' joy and pain as your own.",
+    "sanskrit": "// Sanskrit for 6.32 pending",
+    "transliteration": "// Transliteration for 6.32 pending",
+    "meaning": "// Meaning for 6.32 pending",
+    "lifeHack": "See others' joy and pain as your own.",
+    "illustration": "/assets/illustrations/anchor/6_32.png",
+    "audio": "/assets/audio/anchor/6_32.mp3"
+  },
+  {
+    "id": 8,
+    "source": "anchor",
+    "target_age": [
+      "Anchor"
+    ],
+    "chapter": 6,
+    "verse": 47,
+    "title": "The Supreme Yogi",
+    "theme": "Devotion",
+    "difficulty": "Intermediate",
+    "tags": [
+      "devotion",
+      "yogi"
+    ],
+    "key_takeaway": "The greatest yogi is devoted to the Divine.",
+    "seo_description": "Bhagavad Gita 6.47: The greatest yogi is devoted to the Divine.",
+    "sanskrit": "// Sanskrit for 6.47 pending",
+    "transliteration": "// Transliteration for 6.47 pending",
+    "meaning": "// Meaning for 6.47 pending",
+    "lifeHack": "The greatest yogi is devoted to the Divine.",
+    "illustration": "/assets/illustrations/anchor/6_47.png",
+    "audio": "/assets/audio/anchor/6_47.mp3"
+  },
+  {
+    "id": 9,
+    "source": "anchor",
+    "target_age": [
+      "Anchor"
+    ],
+    "chapter": 9,
+    "verse": 29,
+    "title": "Equal to All",
+    "theme": "Equality",
+    "difficulty": "Intermediate",
+    "tags": [
+      "equality",
+      "divinity"
+    ],
+    "key_takeaway": "The Divine is equal to all beings.",
+    "seo_description": "Bhagavad Gita 9.29: The Divine is equal to all beings.",
+    "sanskrit": "// Sanskrit for 9.29 pending",
+    "transliteration": "// Transliteration for 9.29 pending",
+    "meaning": "// Meaning for 9.29 pending",
+    "lifeHack": "The Divine is equal to all beings.",
+    "illustration": "/assets/illustrations/anchor/9_29.png",
+    "audio": "/assets/audio/anchor/9_29.mp3"
+  },
+  {
+    "id": 10,
+    "source": "anchor",
+    "target_age": [
+      "Anchor"
+    ],
+    "chapter": 12,
+    "verse": 2,
+    "title": "Perfect Union",
+    "theme": "Faith",
+    "difficulty": "Intermediate",
+    "tags": [
+      "faith",
+      "union"
+    ],
+    "key_takeaway": "Those who worship with faith are perfectly united.",
+    "seo_description": "Bhagavad Gita 12.2: Those who worship with faith are perfectly united.",
+    "sanskrit": "// Sanskrit for 12.2 pending",
+    "transliteration": "// Transliteration for 12.2 pending",
+    "meaning": "// Meaning for 12.2 pending",
+    "lifeHack": "Those who worship with faith are perfectly united.",
+    "illustration": "/assets/illustrations/anchor/12_2.png",
+    "audio": "/assets/audio/anchor/12_2.mp3"
+  },
+  {
+    "id": 11,
+    "source": "anchor",
+    "target_age": [
+      "Anchor"
+    ],
+    "chapter": 18,
+    "verse": 2,
+    "title": "True Renunciation",
+    "theme": "Renunciation",
+    "difficulty": "Intermediate",
+    "tags": [
+      "renunciation",
+      "clarity"
+    ],
+    "key_takeaway": "Definition of Sannyasa vs Tyaga.",
+    "seo_description": "Bhagavad Gita 18.2: Definition of Sannyasa vs Tyaga.",
+    "sanskrit": "// Sanskrit for 18.2 pending",
+    "transliteration": "// Transliteration for 18.2 pending",
+    "meaning": "// Meaning for 18.2 pending",
+    "lifeHack": "Definition of Sannyasa vs Tyaga.",
+    "illustration": "/assets/illustrations/anchor/18_2.png",
+    "audio": "/assets/audio/anchor/18_2.mp3"
+  },
+  {
+    "id": 12,
+    "source": "anchor",
+    "target_age": [
+      "Anchor"
+    ],
+    "chapter": 18,
+    "verse": 49,
+    "title": "Supreme State",
+    "theme": "Detachment",
+    "difficulty": "Intermediate",
+    "tags": [
+      "detachment",
+      "perfection"
+    ],
+    "key_takeaway": "Detachment leads to the highest perfection.",
+    "seo_description": "Bhagavad Gita 18.49: Detachment leads to the highest perfection.",
+    "sanskrit": "// Sanskrit for 18.49 pending",
+    "transliteration": "// Transliteration for 18.49 pending",
+    "meaning": "// Meaning for 18.49 pending",
+    "lifeHack": "Detachment leads to the highest perfection.",
+    "illustration": "/assets/illustrations/anchor/18_49.png",
+    "audio": "/assets/audio/anchor/18_49.mp3"
+  },
+  {
+    "id": 13,
+    "source": "anchor",
+    "target_age": [
+      "Anchor"
+    ],
+    "chapter": 18,
+    "verse": 65,
+    "title": "The Final Surrender",
+    "theme": "Surrender",
+    "difficulty": "Intermediate",
+    "tags": [
+      "surrender",
+      "devotion"
+    ],
+    "key_takeaway": "Always think of Me and surrender.",
+    "seo_description": "Bhagavad Gita 18.65: Always think of Me and surrender.",
+    "sanskrit": "// Sanskrit for 18.65 pending",
+    "transliteration": "// Transliteration for 18.65 pending",
+    "meaning": "// Meaning for 18.65 pending",
+    "lifeHack": "Always think of Me and surrender.",
+    "illustration": "/assets/illustrations/anchor/18_65.png",
+    "audio": "/assets/audio/anchor/18_65.mp3"
+  },
+  {
+    "id": 14,
+    "source": "anchor",
+    "target_age": [
+      "Anchor"
+    ],
+    "chapter": 12,
+    "verse": "13-14",
+    "title": "Qualities of a Devotee",
+    "theme": "Devotion",
+    "difficulty": "Intermediate",
+    "tags": [
+      "devotion",
+      "kindness"
+    ],
+    "key_takeaway": "One who is not envious but is a kind friend to all living entities.",
+    "seo_description": "Bhagavad Gita 12.13-14: One who is not envious but is a kind friend to all living entities.",
+    "sanskrit": "// Sanskrit for 12.13-14 pending",
+    "transliteration": "// Transliteration for 12.13-14 pending",
+    "meaning": "// Meaning for 12.13-14 pending",
+    "lifeHack": "One who is not envious but is a kind friend to all living entities.",
+    "illustration": "/assets/illustrations/anchor/12_13_14.png",
+    "audio": "/assets/audio/anchor/12_13_14.mp3"
+  },
+  {
+    "id": 15,
+    "source": "anchor",
+    "target_age": [
+      "Anchor"
+    ],
+    "chapter": 4,
+    "verse": 7,
+    "title": "Descent of the Divine",
+    "theme": "Avatar",
+    "difficulty": "Intermediate",
+    "tags": [
+      "avatar",
+      "protection"
+    ],
+    "key_takeaway": "Whenever and wherever there is a decline in religious practice, I descend.",
+    "seo_description": "Bhagavad Gita 4.7: Whenever and wherever there is a decline in religious practice, I descend.",
+    "sanskrit": "// Sanskrit for 4.7 pending",
+    "transliteration": "// Transliteration for 4.7 pending",
+    "meaning": "// Meaning for 4.7 pending",
+    "lifeHack": "Whenever and wherever there is a decline in religious practice, I descend.",
+    "illustration": "/assets/illustrations/anchor/4_7.png",
+    "audio": "/assets/audio/anchor/4_7.mp3"
+  },
+  {
+    "id": 16,
+    "source": "anchor",
+    "target_age": [
+      "Anchor"
+    ],
+    "chapter": 7,
+    "verse": 7,
+    "title": "Everything Strung on Me",
+    "theme": "Unity",
+    "difficulty": "Intermediate",
+    "tags": [
+      "unity",
+      "divine"
+    ],
+    "key_takeaway": "There is no truth superior to Me. Everything rests upon Me, as pearls are strung on a thread.",
+    "seo_description": "Bhagavad Gita 7.7: There is no truth superior to Me. Everything rests upon Me, as pearls are strung on a thread.",
+    "sanskrit": "// Sanskrit for 7.7 pending",
+    "transliteration": "// Transliteration for 7.7 pending",
+    "meaning": "// Meaning for 7.7 pending",
+    "lifeHack": "There is no truth superior to Me. Everything rests upon Me, as pearls are strung on a thread.",
+    "illustration": "/assets/illustrations/anchor/7_7.png",
+    "audio": "/assets/audio/anchor/7_7.mp3"
+  },
+  {
+    "id": 17,
+    "source": "anchor",
+    "target_age": [
+      "Anchor"
+    ],
+    "chapter": 9,
+    "verse": 22,
+    "title": "The Promise of Protection",
+    "theme": "Protection",
+    "difficulty": "Intermediate",
+    "tags": [
+      "protection",
+      "devotion"
+    ],
+    "key_takeaway": "To those who worship Me with exclusive devotion, I carry what they lack, and I preserve what they have.",
+    "seo_description": "Bhagavad Gita 9.22: To those who worship Me with exclusive devotion, I carry what they lack, and I preserve what they have.",
+    "sanskrit": "// Sanskrit for 9.22 pending",
+    "transliteration": "// Transliteration for 9.22 pending",
+    "meaning": "// Meaning for 9.22 pending",
+    "lifeHack": "To those who worship Me with exclusive devotion, I carry what they lack, and I preserve what they have.",
+    "illustration": "/assets/illustrations/anchor/9_22.png",
+    "audio": "/assets/audio/anchor/9_22.mp3"
+  },
+  {
+    "id": 18,
+    "source": "anchor",
+    "target_age": [
+      "Anchor"
+    ],
+    "chapter": 11,
+    "verse": 32,
+    "title": "Time, the Destroyer",
+    "theme": "Time",
+    "difficulty": "Intermediate",
+    "tags": [
+      "time",
+      "surrender"
+    ],
+    "key_takeaway": "I am Time, the great destroyer of the worlds.",
+    "seo_description": "Bhagavad Gita 11.32: I am Time, the great destroyer of the worlds.",
+    "sanskrit": "// Sanskrit for 11.32 pending",
+    "transliteration": "// Transliteration for 11.32 pending",
+    "meaning": "// Meaning for 11.32 pending",
+    "lifeHack": "I am Time, the great destroyer of the worlds.",
+    "illustration": "/assets/illustrations/anchor/11_32.png",
+    "audio": "/assets/audio/anchor/11_32.mp3"
+  },
+  {
+    "id": 19,
+    "source": "anchor",
+    "target_age": [
+      "Anchor"
+    ],
+    "chapter": 18,
+    "verse": 66,
+    "title": "The Final Surrender",
+    "theme": "Surrender",
+    "difficulty": "Intermediate",
+    "tags": [
+      "surrender",
+      "ultimate"
+    ],
+    "key_takeaway": "Abandon all varieties of religion and just surrender unto Me.",
+    "seo_description": "Bhagavad Gita 18.66: Abandon all varieties of religion and just surrender unto Me.",
+    "sanskrit": "// Sanskrit for 18.66 pending",
+    "transliteration": "// Transliteration for 18.66 pending",
+    "meaning": "// Meaning for 18.66 pending",
+    "lifeHack": "Abandon all varieties of religion and just surrender unto Me.",
+    "illustration": "/assets/illustrations/anchor/18_66.png",
+    "audio": "/assets/audio/anchor/18_66.mp3"
+  }
+]

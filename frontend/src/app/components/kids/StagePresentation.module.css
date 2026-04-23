@@ -1,7 +1,7 @@
 .container {
   min-height: 100vh;
-  background: var(--stage-color);
-  color: #5D4037;
+  background: var(--bg-deep);
+  color: var(--text-main);
   padding: 2rem;
   display: flex;
   flex-direction: column;
@@ -34,13 +34,13 @@
   gap: 0.8rem;
   font-size: 1.5rem;
   font-weight: 800;
-  color: #fff;
+  color: var(--heading-text);
   font-family: 'Cinzel', serif;
   cursor: pointer;
 }
 
 .sparkleIcon {
-  color: #fff;
+  color: var(--stage-color);
 }
 
 .progress {
@@ -79,7 +79,7 @@
 .gridHeadline {
   font-size: 3.5rem;
   font-family: 'Cinzel', serif;
-  color: #fff;
+  color: var(--heading-text);
   margin-bottom: 3rem;
 }
 
@@ -90,12 +90,13 @@
 }
 
 .gridItem {
-  background: rgba(255, 255, 255, 0.95);
+  background: var(--card-bg);
   padding: 3rem 2rem;
   border-radius: 40px;
   cursor: pointer;
   box-shadow: 0 20px 40px rgba(0,0,0,0.1);
   transition: all 0.3s ease;
+  border: 1px solid var(--glass-border);
 }
 
 .gridItem h3 {
@@ -110,15 +111,16 @@
   font-size: 1.4rem;
   font-weight: 700;
   font-family: 'Cinzel', serif;
-  color: #5D4037;
+  color: var(--heading-text);
 }
 
 .lessonCard {
   width: 100%;
   max-width: 900px;
-  background: rgba(255, 255, 255, 0.9);
+  background: var(--card-bg);
   padding: 4rem;
   border-radius: 50px;
+  border: 1px solid var(--glass-border);
 }
 
 .chapterTag {
@@ -142,7 +144,7 @@
   line-height: 1.6;
   margin-bottom: 2.5rem;
   padding: 2rem;
-  background: #fff;
+  background: rgba(128, 128, 128, 0.1);
   border-radius: 30px;
 }
 
@@ -193,10 +195,16 @@
 }
 
 .navBtn, .playBtn {
-  background: #fff;
-  border: none;
+  background: var(--card-bg);
+  color: var(--text-main);
+  border: 1px solid var(--glass-border);
   padding: 1rem 2rem;
   border-radius: 50px;
   cursor: pointer;
   font-weight: 800;
+  transition: all 0.3s ease;
+}
+.navBtn:hover, .playBtn:hover {
+  border-color: var(--stage-color);
+  color: var(--stage-color);
 }

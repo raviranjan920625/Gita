@@ -1,33 +1,18 @@
 "use client";
 
-import React from 'react';
-import { useRouter } from 'next/navigation';
-import GitaIntro from '../components/ui/GitaIntro';
+import React, { Suspense } from 'react';
+import StagePresentation from '../components/kids/StagePresentation';
 
 export default function AnchorPage() {
-  const router = useRouter();
-
   return (
-    <div className="landing-threshold">
-      <div 
-        className="app-background full-bg" 
-        style={{ 
-          backgroundImage: 'url(/gita-bg.png)', 
-          filter: 'brightness(0.3) saturate(0.5)' 
-        }} 
+    <main>
+      <StagePresentation 
+        stage="anchor"
+        metaphor="Anchor"
+        color="#6200EA"
+        title="The Anchor: Middle Way"
+        dataPath="/data/anchor/anchor.json"
       />
-      <main className="intro-container">
-        <GitaIntro 
-          metaphor="Anchor"
-          description="Mastering the Middle Way and balancing family, career, and legacy (Ages 35-45)."
-          onSelectSummary={() => router.push('/summary')}
-          onSelectNarrative={() => router.push('/read')}
-        />
-      </main>
-      <style jsx>{`
-        .landing-threshold { min-height: 100vh; position: relative; overflow: hidden; }
-        .intro-container { position: relative; z-index: 10; }
-      `}</style>
-    </div>
+    </main>
   );
 }

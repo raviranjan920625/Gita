@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "source": "compass",
+    "target_age": [
+      "Compass"
+    ],
+    "chapter": 2,
+    "verse": 7,
+    "title": "Surrender to the Teacher",
+    "theme": "Guidance",
+    "difficulty": "Intermediate",
+    "tags": [
+      "guidance",
+      "humility"
+    ],
+    "key_takeaway": "Asking for guidance is a sign of wisdom.",
+    "seo_description": "Bhagavad Gita 2.7: Asking for guidance is a sign of wisdom.",
+    "sanskrit": "// Sanskrit for 2.7 pending",
+    "transliteration": "// Transliteration for 2.7 pending",
+    "meaning": "// Meaning for 2.7 pending",
+    "lifeHack": "Asking for guidance is a sign of wisdom.",
+    "illustration": "/assets/illustrations/compass/2_7.png",
+    "audio": "/assets/audio/compass/2_7.mp3"
+  },
+  {
+    "id": 2,
+    "source": "compass",
+    "target_age": [
+      "Compass"
+    ],
+    "chapter": 2,
+    "verse": 38,
+    "title": "Equanimity in Action",
+    "theme": "Equanimity",
+    "difficulty": "Intermediate",
+    "tags": [
+      "equanimity",
+      "action"
+    ],
+    "key_takeaway": "Treat success and failure equally.",
+    "seo_description": "Bhagavad Gita 2.38: Treat success and failure equally.",
+    "sanskrit": "// Sanskrit for 2.38 pending",
+    "transliteration": "// Transliteration for 2.38 pending",
+    "meaning": "// Meaning for 2.38 pending",
+    "lifeHack": "Treat success and failure equally.",
+    "illustration": "/assets/illustrations/compass/2_38.png",
+    "audio": "/assets/audio/compass/2_38.mp3"
+  },
+  {
+    "id": 3,
+    "source": "compass",
+    "target_age": [
+      "Compass"
+    ],
+    "chapter": 2,
+    "verse": 50,
+    "title": "Skill in Action",
+    "theme": "Skill",
+    "difficulty": "Intermediate",
+    "tags": [
+      "skill",
+      "yoga"
+    ],
+    "key_takeaway": "Yoga is performing action with full skill.",
+    "seo_description": "Bhagavad Gita 2.50: Yoga is performing action with full skill.",
+    "sanskrit": "// Sanskrit for 2.50 pending",
+    "transliteration": "// Transliteration for 2.50 pending",
+    "meaning": "// Meaning for 2.50 pending",
+    "lifeHack": "Yoga is performing action with full skill.",
+    "illustration": "/assets/illustrations/compass/2_50.png",
+    "audio": "/assets/audio/compass/2_50.mp3"
+  },
+  {
+    "id": 4,
+    "source": "compass",
+    "target_age": [
+      "Compass"
+    ],
+    "chapter": 4,
+    "verse": 34,
+    "title": "Approaching the Wise",
+    "theme": "Learning",
+    "difficulty": "Intermediate",
+    "tags": [
+      "learning",
+      "mentor"
+    ],
+    "key_takeaway": "Learn by finding a good teacher.",
+    "seo_description": "Bhagavad Gita 4.34: Learn by finding a good teacher.",
+    "sanskrit": "// Sanskrit for 4.34 pending",
+    "transliteration": "// Transliteration for 4.34 pending",
+    "meaning": "// Meaning for 4.34 pending",
+    "lifeHack": "Learn by finding a good teacher.",
+    "illustration": "/assets/illustrations/compass/4_34.png",
+    "audio": "/assets/audio/compass/4_34.mp3"
+  },
+  {
+    "id": 5,
+    "source": "compass",
+    "target_age": [
+      "Compass"
+    ],
+    "chapter": 6,
+    "verse": 1,
+    "title": "The True Renunciate",
+    "theme": "Duty",
+    "difficulty": "Intermediate",
+    "tags": [
+      "duty",
+      "detachment"
+    ],
+    "key_takeaway": "Do your duty without attachment to results.",
+    "seo_description": "Bhagavad Gita 6.1: Do your duty without attachment to results.",
+    "sanskrit": "// Sanskrit for 6.1 pending",
+    "transliteration": "// Transliteration for 6.1 pending",
+    "meaning": "// Meaning for 6.1 pending",
+    "lifeHack": "Do your duty without attachment to results.",
+    "illustration": "/assets/illustrations/compass/6_1.png",
+    "audio": "/assets/audio/compass/6_1.mp3"
+  },
+  {
+    "id": 6,
+    "source": "compass",
+    "target_age": [
+      "Compass"
+    ],
+    "chapter": 9,
+    "verse": 2,
+    "title": "The Royal Knowledge",
+    "theme": "Knowledge",
+    "difficulty": "Intermediate",
+    "tags": [
+      "knowledge",
+      "secret"
+    ],
+    "key_takeaway": "This knowledge is the king of all secrets.",
+    "seo_description": "Bhagavad Gita 9.2: This knowledge is the king of all secrets.",
+    "sanskrit": "// Sanskrit for 9.2 pending",
+    "transliteration": "// Transliteration for 9.2 pending",
+    "meaning": "// Meaning for 9.2 pending",
+    "lifeHack": "This knowledge is the king of all secrets.",
+    "illustration": "/assets/illustrations/compass/9_2.png",
+    "audio": "/assets/audio/compass/9_2.mp3"
+  },
+  {
+    "id": 7,
+    "source": "compass",
+    "target_age": [
+      "Compass"
+    ],
+    "chapter": 18,
+    "verse": 41,
+    "title": "Duties of Life",
+    "theme": "Duty",
+    "difficulty": "Intermediate",
+    "tags": [
+      "duty",
+      "society"
+    ],
+    "key_takeaway": "Everyone has a role to play in society.",
+    "seo_description": "Bhagavad Gita 18.41: Everyone has a role to play in society.",
+    "sanskrit": "// Sanskrit for 18.41 pending",
+    "transliteration": "// Transliteration for 18.41 pending",
+    "meaning": "// Meaning for 18.41 pending",
+    "lifeHack": "Everyone has a role to play in society.",
+    "illustration": "/assets/illustrations/compass/18_41.png",
+    "audio": "/assets/audio/compass/18_41.mp3"
+  },
+  {
+    "id": 8,
+    "source": "compass",
+    "target_age": [
+      "Compass"
+    ],
+    "chapter": 2,
+    "verse": 48,
+    "title": "Yoga as Balance",
+    "theme": "Balance",
+    "difficulty": "Intermediate",
+    "tags": [
+      "balance",
+      "yoga"
+    ],
+    "key_takeaway": "Perform your duty equipoised, abandoning all attachment.",
+    "seo_description": "Bhagavad Gita 2.48: Perform your duty equipoised, abandoning all attachment.",
+    "sanskrit": "// Sanskrit for 2.48 pending",
+    "transliteration": "// Transliteration for 2.48 pending",
+    "meaning": "// Meaning for 2.48 pending",
+    "lifeHack": "Perform your duty equipoised, abandoning all attachment.",
+    "illustration": "/assets/illustrations/compass/2_48.png",
+    "audio": "/assets/audio/compass/2_48.mp3"
+  },
+  {
+    "id": 9,
+    "source": "compass",
+    "target_age": [
+      "Compass"
+    ],
+    "chapter": 17,
+    "verse": 3,
+    "title": "You Are What You Believe",
+    "theme": "Faith",
+    "difficulty": "Intermediate",
+    "tags": [
+      "faith",
+      "identity"
+    ],
+    "key_takeaway": "According to one's existence under the material modes, one develops a particular kind of faith.",
+    "seo_description": "Bhagavad Gita 17.3: According to one's existence under the material modes, one develops a particular kind of faith.",
+    "sanskrit": "// Sanskrit for 17.3 pending",
+    "transliteration": "// Transliteration for 17.3 pending",
+    "meaning": "// Meaning for 17.3 pending",
+    "lifeHack": "According to one's existence under the material modes, one develops a particular kind of faith.",
+    "illustration": "/assets/illustrations/compass/17_3.png",
+    "audio": "/assets/audio/compass/17_3.mp3"
+  },
+  {
+    "id": 10,
+    "source": "compass",
+    "target_age": [
+      "Compass"
+    ],
+    "chapter": 18,
+    "verse": 63,
+    "title": "Free Will and Reflection",
+    "theme": "Free-will",
+    "difficulty": "Intermediate",
+    "tags": [
+      "free-will",
+      "decision"
+    ],
+    "key_takeaway": "Deliberate on this fully, and then do what you wish to do.",
+    "seo_description": "Bhagavad Gita 18.63: Deliberate on this fully, and then do what you wish to do.",
+    "sanskrit": "// Sanskrit for 18.63 pending",
+    "transliteration": "// Transliteration for 18.63 pending",
+    "meaning": "// Meaning for 18.63 pending",
+    "lifeHack": "Deliberate on this fully, and then do what you wish to do.",
+    "illustration": "/assets/illustrations/compass/18_63.png",
+    "audio": "/assets/audio/compass/18_63.mp3"
+  }
+]

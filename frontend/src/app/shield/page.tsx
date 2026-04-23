@@ -11,7 +11,7 @@ export default function ShieldPage() {
         metaphor="Shield"
         color="#00BFA5"
         title="High Performance Mindset"
-        dataPath="/data/teens/teens.json"
+        dataPath="/data/shield/shield.json"
       />
     </main>
   );

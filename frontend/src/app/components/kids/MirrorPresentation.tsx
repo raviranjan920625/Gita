@@ -39,7 +39,7 @@ export default function MirrorPresentation() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
 
   useEffect(() => {
-    fetch('/data/kids/mirror.json')
+    fetch('/data/hero/mirror.json')
       .then(res => res.json())
       .then(data => {
         // Flatten topics into individual story slides

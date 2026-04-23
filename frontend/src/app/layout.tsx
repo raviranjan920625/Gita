@@ -19,6 +19,7 @@ export const metadata: Metadata = {
 
 import ParticleFlow from "./components/ParticleFlow";
 import SplashScreen from "./components/ui/SplashScreen";
+import ThemeToggle from "./components/ui/ThemeToggle";
 
 export default function RootLayout({
   children,
@@ -30,6 +31,7 @@ export default function RootLayout({
       <body style={{ margin: 0, padding: 0 }}>
         <div className="app-wrapper">
           <SplashScreen />
+          <ThemeToggle />
           <ParticleFlow />
           <div className="particle-overlay" />
           {children}
